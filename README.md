@@ -9,6 +9,9 @@ BackBoneJs Applications Books : https://addyosmani.com/backbone-fundamentals/#wh
 
 BackBoneJs Patterns : http://ricostacruz.com/backbone-patterns/bootstrapping-data.html
 
+BackBoneJS Single Page ToDo Tutorial : http://code.tutsplus.com/tutorials/single-page-todo-application-with-backbonejs--cms-21417
+
+
 # CSS3 & SCSS
 
 # Node JS
