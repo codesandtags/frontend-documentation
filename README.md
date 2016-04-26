@@ -7,6 +7,8 @@ Things that should know about HTML5 : http://diveintohtml5.info/index.html
 # JavaScript
 JavaScript Design Patterns Book : https://addyosmani.com/resources/essentialjsdesignpatterns/book/index.html
 
+Eloquent JavaScript : http://eloquentjavascript.net/
+
 # BackBoneJS
 BackBoneJs Applications Books : https://addyosmani.com/backbone-fundamentals/#what-is-mvc 
 
