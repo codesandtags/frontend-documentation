@@ -1,5 +1,5 @@
-# Front End Documentation
-This is a recopilation of information about all topics related with the Front End 
+# Front End Documentation v.1.0.0
+> This is a recopilation of information about all topics related with the Front End 
 
 # HTML5
 Things that should know about HTML5 : http://diveintohtml5.info/index.html
