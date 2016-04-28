@@ -9,6 +9,8 @@ JavaScript Design Patterns Book : https://addyosmani.com/resources/essentialjsde
 
 Eloquent JavaScript : http://eloquentjavascript.net/
 
+Javascript - The good parts: http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf
+
 # BackBoneJS
 BackBoneJs Applications Books : https://addyosmani.com/backbone-fundamentals/#what-is-mvc 
 
