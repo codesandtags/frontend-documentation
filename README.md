@@ -13,6 +13,8 @@ Javascript - The good parts: http://bdcampbell.net/javascript/book/javascript_th
 
 Recopilation and good concepts for JavaScript : http://jstherightway.org/
 
+Trends in libraries: https://www.javascripting.com/
+
 
 # BackBoneJS
 BackBoneJs Applications Books : https://addyosmani.com/backbone-fundamentals/#what-is-mvc 
@@ -29,6 +31,8 @@ Try to solve many problems using JavaScript :  https://coderbyte.com/
 
 
 # CSS3 & SCSS
+
+Viewer in real time for multiple devices: https://browsersync.io/
 
 
 # Node JS
