@@ -16,9 +16,9 @@ Recopilation and good concepts for JavaScript : http://jstherightway.org/
 Trends in libraries: https://www.javascripting.com/
 
 # Transpiling JavaScript
-Traceur JavaScript.next-to-JavaScript-of-today : https://github.com/google/traceur-compiler
+Google Traceur JavaScript.next-to-JavaScript-of-today : https://github.com/google/traceur-compiler
 
-Babel is a JavaScript compiler : https://babeljs.io/
+Babel is a JavaScript compiler Use next generation JavaScript, today : https://babeljs.io/
 
 
 # BackBoneJS
