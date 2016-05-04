@@ -18,6 +18,8 @@ Trends in libraries: https://www.javascripting.com/
 # Transpiling JavaScript
 Traceur JavaScript.next-to-JavaScript-of-today : https://github.com/google/traceur-compiler
 
+Babel is a JavaScript compiler : https://babeljs.io/
+
 
 # BackBoneJS
 BackBoneJs Applications Books : https://addyosmani.com/backbone-fundamentals/#what-is-mvc 
