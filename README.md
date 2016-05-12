@@ -39,6 +39,10 @@ Try to solve many problems using JavaScript :  https://coderbyte.com/
 
 Viewer in real time for multiple devices: https://browsersync.io/
 
+# Angular
+
+Good fundamentals and basics for Angular 2: https://egghead.io/series/angular-2-fundamentals
+
 
 # Node JS
 
