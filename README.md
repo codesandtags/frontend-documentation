@@ -46,5 +46,3 @@ Good fundamentals and basics for Angular 2: https://egghead.io/series/angular-2-
 
 # Node JS
 
-
-
