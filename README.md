@@ -49,6 +49,14 @@ Good fundamentals and basics for Angular 2: https://egghead.io/series/angular-2-
 # Automation and Task
 Great article which explains differences between Grunt and Gulp : http://blog.koalite.com/2015/06/grunt-o-gulp-que-uso/
 
+Generator for data mocks : https://www.mockaroo.com/
+
+Great generaetor for Gulp files : http://quenchjs.com/
+
+Awesome article for Gulp : https://css-tricks.com/gulp-for-beginners/#article-header-id-11
+
+Good examples for style task with gulp : http://www.sitepoint.com/simple-gulpy-workflow-sass/
+
 
 # Other Articles
 
@@ -56,11 +64,3 @@ Using browserify : https://carlosazaustre.es/blog/browserify-desarrollando-tu-fr
 
 Advanced Structure for Angular 1.x projects : https://omarfouad.com/
 
-
-# Generators
-
-Great generaetor for Gulp files : http://quenchjs.com/
-
-Awesome article for Gulp : https://css-tricks.com/gulp-for-beginners/#article-header-id-11
-
-Good examples for style task with gulp : http://www.sitepoint.com/simple-gulpy-workflow-sass/
