@@ -28,6 +28,8 @@ BackBoneJs Patterns : http://ricostacruz.com/backbone-patterns/bootstrapping-dat
 
 BackBoneJS Single Page ToDo Tutorial : http://code.tutsplus.com/tutorials/single-page-todo-application-with-backbonejs--cms-21417
 
+Snipets and examples with BackBoneJS : https://miguelmota.com/blog/getting-started-with-backbonejs/
+
 
 # Challenges online for JavaScript
 Code fast and code well with JavaScript : http://www.codewars.com/
@@ -44,5 +46,21 @@ Viewer in real time for multiple devices: https://browsersync.io/
 Good fundamentals and basics for Angular 2: https://egghead.io/series/angular-2-fundamentals
 
 
-# Node JS
+# Automation and Task
+Great article which explains differences between Grunt and Gulp : http://blog.koalite.com/2015/06/grunt-o-gulp-que-uso/
 
+
+# Other Articles
+
+Using browserify : https://carlosazaustre.es/blog/browserify-desarrollando-tu-frontend-como-en-node-js/
+
+Advanced Structure for Angular 1.x projects : https://omarfouad.com/
+
+
+# Generators
+
+Great generaetor for Gulp files : http://quenchjs.com/
+
+Awesome article for Gulp : https://css-tricks.com/gulp-for-beginners/#article-header-id-11
+
+Good examples for style task with gulp : http://www.sitepoint.com/simple-gulpy-workflow-sass/
