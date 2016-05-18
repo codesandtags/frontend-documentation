@@ -4,6 +4,8 @@
 # HTML5
 Things that should know about HTML5 : http://diveintohtml5.info/index.html
 
+Great article and examples for *Responsive Images* :  http://cloudinary.com/blog/automatically_art_directed_responsive_images
+
 # JavaScript
 JavaScript Design Patterns Book : https://addyosmani.com/resources/essentialjsdesignpatterns/book/index.html
 
