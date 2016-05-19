@@ -32,6 +32,8 @@ BackBoneJS Single Page ToDo Tutorial : http://code.tutsplus.com/tutorials/single
 
 Snipets and examples with BackBoneJS : https://miguelmota.com/blog/getting-started-with-backbonejs/
 
+BackBoneJS BoilerPlate : https://github.com/tbranyen/backbone-boilerplate.git
+
 
 # Challenges online for JavaScript
 Code fast and code well with JavaScript : http://www.codewars.com/
