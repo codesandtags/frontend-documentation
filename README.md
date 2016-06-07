@@ -6,6 +6,28 @@ Things that should know about HTML5 : http://diveintohtml5.info/index.html
 
 Great article and examples for *Responsive Images* :  http://cloudinary.com/blog/automatically_art_directed_responsive_images
 
+# Design
+# CSS3 & SCSS
+
+Viewer in real time for multiple devices: https://browsersync.io/
+
+# Sketching / Wireframing / Mockup template
+
+https://moqups.com/
+
+https://www.mockflow.com/
+
+https://www.gliffy.com/
+
+http://iphonemockup.lkmc.ch/
+
+# Accessibility 
+
+Great tool which tell you how accessible is your webpage : http://wave.webaim.org/
+
+
+
+# Coding
 # JavaScript
 JavaScript Design Patterns Book : https://addyosmani.com/resources/essentialjsdesignpatterns/book/index.html
 
@@ -41,20 +63,6 @@ Code fast and code well with JavaScript : http://www.codewars.com/
 Try to solve many problems using JavaScript :  https://coderbyte.com/
 
 
-# CSS3 & SCSS
-
-Viewer in real time for multiple devices: https://browsersync.io/
-
-# Sketching / Wireframing / Mockup template
-
-https://moqups.com/
-
-https://www.mockflow.com/
-
-https://www.gliffy.com/
-
-http://iphonemockup.lkmc.ch/
-
 # Angular
 
 Good fundamentals and basics for Angular 2: https://egghead.io/series/angular-2-fundamentals
@@ -70,6 +78,7 @@ Great generaetor for Gulp files : http://quenchjs.com/
 Awesome article for Gulp : https://css-tricks.com/gulp-for-beginners/#article-header-id-11
 
 Good examples for style task with gulp : http://www.sitepoint.com/simple-gulpy-workflow-sass/
+
 
 
 # Other Articles
