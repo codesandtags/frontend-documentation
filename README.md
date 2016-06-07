@@ -1,7 +1,7 @@
 # Front End Documentation v.1.0.0
 > This is a recopilation of information about all topics related with the Front End 
 
-# HTML5
+## HTML5
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
@@ -9,14 +9,14 @@
 | Great article and examples for *Responsive Images* | http://cloudinary.com/blog/automatically_art_directed_responsive_images      | 
 
  
-# CSS3 & SCSS 
+## CSS3 & SCSS 
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Viewer in real time for multiple devices  | https://browsersync.io/ | 
 
 
-# Sketching / Wireframing / Mockup template
+## Sketching / Wireframing / Mockup template
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
@@ -25,20 +25,20 @@
 | Diagrams and Sketching  | https://www.gliffy.com/ | 
 | Sketching and wireframing for iPhone | http://iphonemockup.lkmc.ch/ | 
 
-# Accessibility 
+## Accessibility 
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Great tool which tell you how accessible is your webpage | http://wave.webaim.org/ | 
 
-# Git 
+## Git 
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Excelent guide for commons commands using Git | https://githowto.com/ | 
 
 
-# JavaScript
+## JavaScript
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
@@ -49,7 +49,7 @@
 | Trends in libraries | https://www.javascripting.com/ | 
  
 
-# Transpiling JavaScript
+## Transpiling JavaScript
  
 | Description   | URL           | 
 | ------------- |:-------------:| 
@@ -57,7 +57,7 @@
 | Babel is a JavaScript compiler Use next generation JavaScript, today  | https://babeljs.io/ | 
 
 
-# BackBoneJS
+## BackBoneJS
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
@@ -68,7 +68,7 @@
 | BackBoneJS BoilerPlate | https://github.com/tbranyen/backbone-boilerplate.git  | 
 
 
-# Challenges online for JavaScript
+## Challenges online for JavaScript
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
@@ -77,7 +77,7 @@
 | Solve challenges online using JavaScript | https://www.codingame.com/start | 
 
 
-# Angular
+## Angular
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
@@ -85,7 +85,7 @@
 | Advanced Structure for Angular 1.x projects | https://omarfouad.com/ | 
 
 
-# Automation and Task
+## Automation and Task
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
@@ -96,7 +96,7 @@
 | Good examples for style task with gulp   | http://www.sitepoint.com/simple-gulpy-workflow-sass/  | 
 
 
-# Other Articles
+## Other Articles
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
