@@ -45,6 +45,16 @@ Try to solve many problems using JavaScript :  https://coderbyte.com/
 
 Viewer in real time for multiple devices: https://browsersync.io/
 
+# Sketching / Wireframing / Mockup template
+
+https://moqups.com/
+
+https://www.mockflow.com/
+
+https://www.gliffy.com/
+
+http://iphonemockup.lkmc.ch/
+
 # Angular
 
 Good fundamentals and basics for Angular 2: https://egghead.io/series/angular-2-fundamentals
