@@ -2,10 +2,14 @@
 > This is a recopilation of information about all topics related with the Front End 
 
 # HTML5
-Things that should know about HTML5 : http://diveintohtml5.info/index.html
 
-Great article and examples for *Responsive Images* :  http://cloudinary.com/blog/automatically_art_directed_responsive_images
 
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Things that should know about HTML5      | http://diveintohtml5.info/index.html | 
+| Great article and examples for *Responsive Images* | http://cloudinary.com/blog/automatically_art_directed_responsive_images      | 
+
+ 
 # CSS3 & SCSS & Design
 
 Viewer in real time for multiple devices: https://browsersync.io/
@@ -24,8 +28,9 @@ http://iphonemockup.lkmc.ch/
 
 Great tool which tell you how accessible is your webpage : http://wave.webaim.org/
 
+# Git 
 
-
+Excelent guide for commons commands using Git : https://githowto.com/
 
 
 # JavaScript
