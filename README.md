@@ -99,10 +99,13 @@
 | Good examples for style task with gulp   | http://www.sitepoint.com/simple-gulpy-workflow-sass/  | 
 
 
-## Other Articles
+## Other Interesting Articles
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Using browserify | https://carlosazaustre.es/blog/browserify-desarrollando-tu-frontend-como-en-node-js/ | 
+| Best pracitces for the web by Google | https://developers.google.com/web/#follow-best-practices | 
+
+
 
 
