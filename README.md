@@ -83,6 +83,9 @@
 | ------------- |:-------------:| 
 | Good fundamentals and basics for Angular 2 | https://egghead.io/series/angular-2-fundamentals | 
 | Advanced Structure for Angular 1.x projects | https://omarfouad.com/ | 
+| Rangle.io : Angular 2 Training | https://www.gitbook.com/book/rangle-io/ngcourse2/details | 
+
+
 
 
 ## Automation and Task
