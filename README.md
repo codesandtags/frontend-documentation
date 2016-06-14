@@ -1,5 +1,10 @@
-# Front End Documentation v.1.0.0
+# Front End Documentation v.1.1.0
 > This is a recopilation of information about all topics related with the Front End 
+
+
+#### For me this is the best WebSite to stay up to date => *https://uptodate.frontendrescue.org/*
+
+
 
 ## HTML5
 
