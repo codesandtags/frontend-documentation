@@ -100,11 +100,7 @@
 | ------------- |:-------------:| 
 | Eye WebGL | http://www.vill.ee/eye/ | 
 | Experiences with WebGL | https://www.chromeexperiments.com/webgl | 
-
-
-
-
-
+| Library for WebGL | http://www.pixijs.com/ | 
 
 
 ## Automation and Task
