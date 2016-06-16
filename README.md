@@ -14,8 +14,6 @@
 | Great article and examples for *Responsive Images* | http://cloudinary.com/blog/automatically_art_directed_responsive_images      | 
 | Cool Framework for Responsives Emails | https://mjml.io/      | 
 
-
-
  
 ## CSS3 & SCSS 
 
@@ -83,6 +81,7 @@
 | Code fast and code well with JavaScript | http://www.codewars.com/ | 
 | Try to solve many problems using JavaScript | https://coderbyte.com/ | 
 | Solve challenges online using JavaScript | https://www.codingame.com/start | 
+| CodeFights with JavaScript become in a Hero | https://codefights.com/ | 
 
 
 ## Angular
