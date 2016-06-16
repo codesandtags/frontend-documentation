@@ -1,4 +1,4 @@
-# Front End Documentation v.1.1.0
+# Front End Documentation v.1.1.2
 > This is a recopilation of information about all topics related with the Front End 
 
 
@@ -53,7 +53,8 @@
 | Javascript - The good parts | http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf | 
 | Recopilation and good concepts for JavaScript | http://jstherightway.org/ | 
 | Trends in libraries | https://www.javascripting.com/ | 
- 
+| Compress your JavaScript Code | http://jscompress.com/ | 
+
 
 ## Transpiling JavaScript
  
