@@ -1,4 +1,4 @@
-# Front End Documentation v.1.1.2
+# Front End Documentation v.1.4.0
 > This is a recopilation of information about all topics related with the Front End 
 
 
@@ -124,6 +124,17 @@
 | ------------- |:-------------:| 
 | Using browserify | https://carlosazaustre.es/blog/browserify-desarrollando-tu-frontend-como-en-node-js/ | 
 | Best pracitces for the web by Google | https://developers.google.com/web/#follow-best-practices | 
+| Comparision for testing frameworks in Javascript | https://glebbahmutov.com/blog/picking-javascript-testing-framework/ | 
+
+
+## WebTools for Front-End
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Comparision for trends in Front-End based on npm | http://www.npmtrends.com/angular-vs-react-vs-backbone | 
+
+
+
 
 
 
