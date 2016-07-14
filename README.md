@@ -1,4 +1,4 @@
-# Front End Documentation v.1.4.1
+# Front End Documentation v.1.4.2
 > This is a recopilation of information about all topics related with the Front End 
 
 
@@ -19,7 +19,9 @@
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
-| Viewer in real time for multiple devices  | https://browsersync.io/ | 
+| Viewer in real time for multiple devices  | https://browsersync.io/ |
+| Google Fonts for your website  | https://www.google.com/fonts | 
+
 
 
 ## Sketching / Wireframing / Mockup template
