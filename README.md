@@ -23,6 +23,7 @@
 | Google Fonts for your website  | https://www.google.com/fonts | 
 | Font Awesome Icons  | http://fontawesome.io/ | 
 | Great Icons just using fonts  | http://weloveiconfonts.com/ | 
+| Youn can customize your font icons here :D  | https://css-tricks.com/examples/IconFont/ | 
 
 
 
