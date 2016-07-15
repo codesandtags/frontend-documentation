@@ -1,4 +1,4 @@
-# Front End Documentation v.1.4.4
+# Front End Documentation v.1.4.5
 > This is a recopilation of information about all topics related with the Front End 
 
 
@@ -121,7 +121,8 @@
 | Great generaetor for Gulp files  |  http://quenchjs.com/ | 
 | Awesome article for Gulp   | https://css-tricks.com/gulp-for-beginners/#article-header-id-11   | 
 | Good examples for style task with gulp   | http://www.sitepoint.com/simple-gulpy-workflow-sass/  | 
-| Optimize your images with a perfect balance in quality and file size  | https://tinypng.com/  | 
+| Package for Google PageSpeed in Grunt | https://www.npmjs.com/package/grunt-pagespeed | 
+
 
 
 ## Other Interesting Articles
@@ -138,7 +139,8 @@
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Comparision for trends in Front-End based on npm | http://www.npmtrends.com/angular-vs-react-vs-backbone | 
-
+| Google Page Speed Insights in improve the speed for your page |https://developers.google.com/speed/pagespeed/insights/ |
+| Optimize your images with a perfect balance in quality and file size  | https://tinypng.com/  | 
 
 
 
