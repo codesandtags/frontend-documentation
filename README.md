@@ -21,6 +21,8 @@
 | ------------- |:-------------:| 
 | Viewer in real time for multiple devices  | https://browsersync.io/ |
 | Google Fonts for your website  | https://www.google.com/fonts | 
+| Font Awesome Icons  | http://fontawesome.io/ | 
+| Great Icons just using fonts  | http://weloveiconfonts.com/ | 
 
 
 
