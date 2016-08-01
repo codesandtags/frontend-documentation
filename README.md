@@ -1,4 +1,4 @@
-# Front End Documentation v.1.4.5
+# Front End Documentation v.1.4.6
 > This is a recopilation of information about all topics related with the Front End 
 
 
@@ -12,7 +12,8 @@
 | ------------- |:-------------:| 
 | Things that should know about HTML5  | http://diveintohtml5.info/index.html | 
 | Great article and examples for *Responsive Images* | http://cloudinary.com/blog/automatically_art_directed_responsive_images      | 
-| Cool Framework for Responsives Emails | https://mjml.io/      | 
+| Cool Framework for Responsives Emails | https://mjml.io/      |
+| MultiTouch on mobiles Great article with examples | http://www.html5rocks.com/es/mobile/touch/ | 
 
  
 ## CSS3 & SCSS 
