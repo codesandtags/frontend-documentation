@@ -1,4 +1,4 @@
-# Front End Documentation v.1.4.6
+# Front End Documentation v.1.4.7
 > This is a recopilation of information about all topics related with the Front End 
 
 
@@ -128,6 +128,8 @@
 | Awesome article for Gulp   | https://css-tricks.com/gulp-for-beginners/#article-header-id-11   | 
 | Good examples for style task with gulp   | http://www.sitepoint.com/simple-gulpy-workflow-sass/  | 
 | Package for Google PageSpeed in Grunt | https://www.npmjs.com/package/grunt-pagespeed | 
+| 15 Tips for Gulp performance | http://stefanimhoff.de/2014/gulp-tutorial-15-performance-improvements-webp-gzip/ | 
+
 
 
 
