@@ -66,6 +66,8 @@
 | Recopilation and good concepts for JavaScript | http://jstherightway.org/ | 
 | Trends in libraries | https://www.javascripting.com/ | 
 | Compress your JavaScript Code | http://jscompress.com/ | 
+| ELM course for beginners| http://courses.knowthen.com/courses/elm-for-beginners/ |
+
 
 
 ## Transpiling JavaScript
