@@ -1,4 +1,4 @@
-# Front End Documentation v.1.4.7
+# Front End Documentation v.1.4.8
 > This is a recopilation of information about all topics related with the Front End 
 
 
@@ -131,6 +131,11 @@
 | 15 Tips for Gulp performance | http://stefanimhoff.de/2014/gulp-tutorial-15-performance-improvements-webp-gzip/ | 
 
 
+## Web Components
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Components created by the community based on Polymer  | https://customelements.io/  | 
 
 
 ## Other Interesting Articles
