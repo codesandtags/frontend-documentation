@@ -1,4 +1,4 @@
-# Front End Documentation v.1.4.8
+# Front End Documentation v.1.4.9
 > This is a recopilation of information about all topics related with the Front End 
 
 
@@ -109,6 +109,8 @@
 | Good fundamentals and basics for Angular 2 | https://egghead.io/series/angular-2-fundamentals | 
 | Advanced Structure for Angular 1.x projects | https://omarfouad.com/ | 
 | Rangle.io : Angular 2 Training | https://www.gitbook.com/book/rangle-io/ngcourse2/details | 
+| Vaddin = Angular 2 + Material Design + PolymerJS | https://vaadin.com/elements | 
+
 
 
 ## WebGL
