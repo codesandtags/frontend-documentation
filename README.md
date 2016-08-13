@@ -1,4 +1,4 @@
-# Front End Documentation v.1.4.9
+# Front End Documentation v.1.5.0
 > This is a recopilation of information about all topics related with the Front End 
 
 
@@ -54,6 +54,8 @@
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Excelent guide for commons commands using Git | https://githowto.com/ | 
+| Editor HTML to Markdown for README.MD files | https://domchristie.github.io/to-markdown/ |
+| Editor Markdown to HTML for README.MD files | http://dillinger.io/ | 
 
 
 ## JavaScript
