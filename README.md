@@ -71,6 +71,7 @@
 | Compress your JavaScript Code | http://jscompress.com/ | 
 | ELM course for beginners| http://courses.knowthen.com/courses/elm-for-beginners/ |
 | One of the best tutorials for Promises in JavaScript ES6 | http://www.html5rocks.com/en/tutorials/es6/promises/ |
+| JavaScript Testing library for ReactJS | https://facebook.github.io/jest/ |
 
 
 
