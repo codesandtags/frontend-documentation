@@ -42,7 +42,7 @@
 | IF you don't have images but you need a placeholder instead of, this is for you | http://placehold.it/ | 
 | Conversor images to SVG  | http://picsvg.com/sp/ | 
 | Optimize your images (Available for grunt)  | https://imageoptim.com/es.html | 
-
+| Ellipsis and truncate multiline | https://imageoptim.com/es.html | 
 
 ## Accessibility 
 
