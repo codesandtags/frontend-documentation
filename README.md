@@ -27,7 +27,7 @@
 | Great Icons just using fonts  | http://weloveiconfonts.com/ | 
 | Youn can customize your font icons here :D  | https://css-tricks.com/examples/IconFont/ | 
 | Page where you can ask for the pixel density of viewports  | http://pixensity.com/ | 
-
+| Ellipsis and truncate multiline text | https://imageoptim.com/es.html | 
 
 
 
@@ -42,7 +42,6 @@
 | IF you don't have images but you need a placeholder instead of, this is for you | http://placehold.it/ | 
 | Conversor images to SVG  | http://picsvg.com/sp/ | 
 | Optimize your images (Available for grunt)  | https://imageoptim.com/es.html | 
-| Ellipsis and truncate multiline | https://imageoptim.com/es.html | 
 
 ## Accessibility 
 
@@ -72,8 +71,7 @@
 | ELM course for beginners| http://courses.knowthen.com/courses/elm-for-beginners/ |
 | One of the best tutorials for Promises in JavaScript ES6 | http://www.html5rocks.com/en/tutorials/es6/promises/ |
 | JavaScript Testing library for ReactJS | https://facebook.github.io/jest/ |
-
-
+| Dynamic validation of password using JavaScript  | http://mlitzinger.com/blog/password-validator-js/ |
 
 ## Transpiling JavaScript
  
