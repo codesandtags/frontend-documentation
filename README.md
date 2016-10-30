@@ -1,4 +1,4 @@
-# Front End Documentation v.1.5.1
+# Front End Documentation v.1.5.2
 > This is a recopilation of information about all topics related with the Front End 
 
 
@@ -103,6 +103,10 @@
 | Try to solve many problems using JavaScript | https://coderbyte.com/ | 
 | Solve challenges online using JavaScript | https://www.codingame.com/start | 
 | CodeFights with JavaScript become in a Hero | https://codefights.com/ | 
+| Formulas for combinatory | http://www.vitutor.com/pro/1/a_f.html | 
+| HackerRank one of the best pages for challenges | hackerrank.com | 
+
+
 
 
 ## Angular
