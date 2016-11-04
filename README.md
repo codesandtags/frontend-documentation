@@ -73,6 +73,15 @@
 | JavaScript Testing library for ReactJS | https://facebook.github.io/jest/ |
 | Dynamic validation of password using JavaScript  | http://mlitzinger.com/blog/password-validator-js/ |
 
+## Service Workers
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Service Workers by Google | https://developers.google.com/web/fundamentals/getting-started/primers/service-workers | 
+| Service Workers by MDN | https://developer.mozilla.org/en/docs/Web/API/Service_Worker_API | 
+| Service Workers explanation | https://github.com/w3c/ServiceWorker/blob/master/explainer.md |
+
+
 ## Transpiling JavaScript
  
 | Description   | URL           | 
