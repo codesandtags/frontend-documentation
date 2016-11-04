@@ -127,6 +127,7 @@
 | Advanced Structure for Angular 1.x projects | https://omarfouad.com/ | 
 | Rangle.io : Angular 2 Training | https://www.gitbook.com/book/rangle-io/ngcourse2/details | 
 | Vaddin = Angular 2 + Material Design + PolymerJS | https://vaadin.com/elements | 
+| Projectes made using Angular | https://www.madewithangular.com/#/ |
 
 
 
