@@ -178,6 +178,15 @@
 | Optimize your images with a perfect balance in quality and file size  | https://tinypng.com/  | 
 
 
+## Freelance Webs
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| TopTal  | https://www.toptal.com/  | 
+| UpWork  | https://www.upwork.com  | 
+| Crossover  | https://www.crossover.com/#we-build-worldclass-teams  | 
+
+
 
 
 
