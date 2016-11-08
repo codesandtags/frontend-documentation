@@ -160,7 +160,7 @@
 | Components created by the community based on Polymer  | https://customelements.io/  | 
 
 
-## Other Interesting Articles
+## Other Interesting Articles or Pages
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
@@ -176,6 +176,7 @@
 | Comparision for trends in Front-End based on npm | http://www.npmtrends.com/angular-vs-react-vs-backbone | 
 | Google Page Speed Insights in improve the speed for your page |https://developers.google.com/speed/pagespeed/insights/ |
 | Optimize your images with a perfect balance in quality and file size  | https://tinypng.com/  | 
+| Super useful tool to mock data | https://www.mockaroo.com/ |
 
 
 ## Freelance Webs
