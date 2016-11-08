@@ -167,6 +167,7 @@
 | Using browserify | https://carlosazaustre.es/blog/browserify-desarrollando-tu-frontend-como-en-node-js/ | 
 | Best pracitces for the web by Google | https://developers.google.com/web/#follow-best-practices | 
 | Comparision for testing frameworks in Javascript | https://glebbahmutov.com/blog/picking-javascript-testing-framework/ | 
+| Google Web Free Courses | https://developers.google.com/training/web/?hl=es-419 |
 
 
 ## WebTools for Front-End
