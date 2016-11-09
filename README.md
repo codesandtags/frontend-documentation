@@ -178,6 +178,7 @@
 | Google Page Speed Insights in improve the speed for your page |https://developers.google.com/speed/pagespeed/insights/ |
 | Optimize your images with a perfect balance in quality and file size  | https://tinypng.com/  | 
 | Super useful tool to mock data | https://www.mockaroo.com/ |
+| Library to parse CVS to JSON | http://papaparse.com/ |
 
 
 ## Freelance Webs
