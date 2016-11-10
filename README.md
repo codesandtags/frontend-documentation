@@ -81,7 +81,7 @@
 | Service Workers by MDN | https://developer.mozilla.org/en/docs/Web/API/Service_Worker_API | 
 | Service Workers explanation | https://github.com/w3c/ServiceWorker/blob/master/explainer.md |
 | Service Workers explanation by Jake (Developer at Google) | https://jakearchibald.com/2014/using-serviceworker-today/ |
-
+| Oficial documentation for Service Workers | https://w3c.github.io/ServiceWorker/|
 
 ## Transpiling JavaScript
  
