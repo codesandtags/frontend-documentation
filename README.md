@@ -130,6 +130,13 @@
 | Projectes made using Angular | https://www.madewithangular.com/#/ |
 
 
+## ReactJS
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Examples for React in CodePen | https://medium.com/@sgroff04/how-i-learned-react-and-how-you-can-too-6714a48e984a#.ngks752s7 | 
+
+
 
 ## WebGL
 
@@ -168,6 +175,7 @@
 | Best pracitces for the web by Google | https://developers.google.com/web/#follow-best-practices | 
 | Comparision for testing frameworks in Javascript | https://glebbahmutov.com/blog/picking-javascript-testing-framework/ | 
 | Google Web Free Courses | https://developers.google.com/training/web/?hl=es-419 |
+| Logging in errors in clients |https://www.sitepoint.com/logging-errors-client-side-apps/|
 
 
 ## WebTools for Front-End
