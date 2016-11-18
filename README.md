@@ -83,6 +83,10 @@
 | Service Workers explanation | https://github.com/w3c/ServiceWorker/blob/master/explainer.md |
 | Service Workers explanation by Jake (Developer at Google) | https://jakearchibald.com/2014/using-serviceworker-today/ |
 | Oficial documentation for Service Workers | https://w3c.github.io/ServiceWorker/|
+| Great documentation from Mozilla | https://serviceworke.rs/|
+| Service Worker Pre Cache Google | https://github.com/GoogleChrome/sw-precache|
+| Service Worker Pre Cache webpack| https://www.npmjs.com/package/sw-precache-webpack-plugin|
+| Service Worker Polymer| https://elements.polymer-project.org/elements/platinum-sw |
 
 ## Transpiling JavaScript
  
