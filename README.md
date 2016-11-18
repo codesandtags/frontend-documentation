@@ -1,4 +1,4 @@
-# Front End Documentation v.1.5.9
+# Front End Documentation v.1.6.0
 > This is a recopilation of information about all topics related with the Front End 
 
 
@@ -187,6 +187,16 @@
 | Comparision for testing frameworks in Javascript | https://glebbahmutov.com/blog/picking-javascript-testing-framework/ | 
 | Google Web Free Courses | https://developers.google.com/training/web/?hl=es-419 |
 | Logging in errors in clients |https://www.sitepoint.com/logging-errors-client-side-apps/|
+
+
+## Accessibility - A11Y
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| ChromeVox Extension  | http://www.chromevox.com/ | 
+| Web Content Accessibility Guidelines 2.0  | https://www.w3.org/TR/WCAG20/ | 
+| Web Accessibility in mind  | http://webaim.org/standards/wcag/checklist  | 
+
 
 
 ## WebTools for Front-End
