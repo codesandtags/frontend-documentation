@@ -209,6 +209,14 @@
 | Super useful tool to mock data | https://www.mockaroo.com/ |
 | Library to parse CVS to JSON | http://papaparse.com/ |
 
+## Public APIs
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Get information about countries, currencies, capitals, etc | https://restcountries.eu/ |
+| Get information about highligh places in Foursquare| https://developer.foursquare.com/   ,   https://vimeo.com/87793635|
+| Get information and ratings about places | https://developers.google.com/places/documentation/ |
+
 
 ## Freelance Webs
 
