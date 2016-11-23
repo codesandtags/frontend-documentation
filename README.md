@@ -43,11 +43,6 @@
 | Conversor images to SVG  | http://picsvg.com/sp/ | 
 | Optimize your images (Available for grunt)  | https://imageoptim.com/es.html | 
 
-## Accessibility 
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Great tool which tell you how accessible is your webpage | http://wave.webaim.org/ | 
 
 ## Git 
 
@@ -196,8 +191,9 @@
 | ChromeVox Extension  | http://www.chromevox.com/ | 
 | Web Content Accessibility Guidelines 2.0  | https://www.w3.org/TR/WCAG20/ | 
 | Web Accessibility in mind  | http://webaim.org/standards/wcag/checklist  | 
-
-
+| Great tool which tell you how accessible is your webpage | http://wave.webaim.org/ | 
+|WAI - ARIA Patterns | https://www.w3.org/TR/wai-aria-practices/ |
+ 
 
 ## WebTools for Front-End
 
