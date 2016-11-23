@@ -192,7 +192,8 @@
 | Web Content Accessibility Guidelines 2.0  | https://www.w3.org/TR/WCAG20/ | 
 | Web Accessibility in mind  | http://webaim.org/standards/wcag/checklist  | 
 | Great tool which tell you how accessible is your webpage | http://wave.webaim.org/ | 
-|WAI - ARIA Patterns | https://www.w3.org/TR/wai-aria-practices/ |
+| WAI - ARIA Patterns | https://www.w3.org/TR/wai-aria-practices/ |
+| Plugin for Developer tools in Audits | https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb|
  
 
 ## WebTools for Front-End
