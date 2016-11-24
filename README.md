@@ -117,8 +117,6 @@
 | HackerRank one of the best pages for challenges | hackerrank.com | 
 
 
-
-
 ## Angular
 
 | Description   | URL           | 
@@ -128,6 +126,8 @@
 | Rangle.io : Angular 2 Training | https://www.gitbook.com/book/rangle-io/ngcourse2/details | 
 | Vaddin = Angular 2 + Material Design + PolymerJS | https://vaadin.com/elements | 
 | Projectes made using Angular | https://www.madewithangular.com/#/ |
+| Example of sites built with angular | https://builtwith.angularjs.org/ |
+| Site tu run examples with Angular | http://plnkr.co/ |
 
 
 ## ReactJS
