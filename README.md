@@ -15,6 +15,7 @@
 | Cool Framework for Responsives Emails | https://mjml.io/      |
 | MultiTouch on mobiles Great article with examples | http://www.html5rocks.com/es/mobile/touch/ |
 | Free videos cover for your background web pages or header | http://www.coverr.co/ | 
+| Themes using Bootstrap| https://bootswatch.com/ |
 
  
 ## CSS3 & SCSS 
@@ -128,6 +129,7 @@
 | Projectes made using Angular | https://www.madewithangular.com/#/ |
 | Example of sites built with angular | https://builtwith.angularjs.org/ |
 | Site tu run examples with Angular | http://plnkr.co/ |
+| Angular best practices| https://scotch.io/tutorials/angularjs-best-practices-directory-structure |
 
 
 ## ReactJS
