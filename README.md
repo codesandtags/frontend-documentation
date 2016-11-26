@@ -215,6 +215,7 @@
 | Get information about countries, currencies, capitals, etc | https://restcountries.eu/ |
 | Get information about highligh places in Foursquare| https://developer.foursquare.com/   ,   https://vimeo.com/87793635|
 | Get information and ratings about places | https://developers.google.com/places/documentation/ |
+| Get PlaceHolders and Mocked Data | https://jsonplaceholder.typicode.com/ |
 
 
 ## Freelance Webs
