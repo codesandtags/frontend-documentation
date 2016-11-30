@@ -69,6 +69,9 @@
 | JavaScript Testing library for ReactJS | https://facebook.github.io/jest/ |
 | Dynamic validation of password using JavaScript  | http://mlitzinger.com/blog/password-validator-js/ |
 | Best JS Books - Free | http://jsbooks.revolunet.com/ |
+| Understanding Closures | https://jherax.wordpress.com/2015/02/13/javascript-closures/ |
+
+
 ## Service Workers
 
 | Description   | URL           | 
