@@ -68,8 +68,7 @@
 | One of the best tutorials for Promises in JavaScript ES6 | http://www.html5rocks.com/en/tutorials/es6/promises/ |
 | JavaScript Testing library for ReactJS | https://facebook.github.io/jest/ |
 | Dynamic validation of password using JavaScript  | http://mlitzinger.com/blog/password-validator-js/ |
-| ECMASCRIPT 5 Mozilla Documentation| https://developer.mozilla.org/en/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla |
-
+| Best JS Books - Free | http://jsbooks.revolunet.com/ |
 ## Service Workers
 
 | Description   | URL           | 
