@@ -187,6 +187,8 @@
 | Google Web Free Courses | https://developers.google.com/training/web/?hl=es-419 |
 | Logging in errors in clients |https://www.sitepoint.com/logging-errors-client-side-apps/|
 | Interview Questions Front-End Fork|https://github.com/codesandtags/Front-end-Developer-Interview-Questions|
+| Regular Expression|http://www.hongkiat.com/blog/regex-web-developers/|
+| Collection of snippets for RegExo| http://snipplr.com/all/language/regex|
 
 
 ## Accessibility - A11Y
