@@ -70,6 +70,7 @@
 | Dynamic validation of password using JavaScript  | http://mlitzinger.com/blog/password-validator-js/ |
 | Best JS Books - Free | http://jsbooks.revolunet.com/ |
 | Understanding Closures | https://jherax.wordpress.com/2015/02/13/javascript-closures/ |
+| Compatibility Table for ES6 in browsers |http://kangax.github.io/compat-table/es6/|
 
 
 ## Service Workers
