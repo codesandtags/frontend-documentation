@@ -192,6 +192,7 @@
 | Regular Expression|http://www.hongkiat.com/blog/regex-web-developers/|
 | Collection of snippets for RegExo| http://snipplr.com/all/language/regex|
 | Tables vs Divs | https://www.smashingmagazine.com/2009/04/from-table-hell-to-div-hell/ |
+| Why use tables is stupid | https://www.hotdesign.com/seybold/ |
 
 
 ## Accessibility - A11Y
