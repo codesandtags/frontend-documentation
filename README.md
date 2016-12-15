@@ -193,6 +193,8 @@
 | Collection of snippets for RegExo| http://snipplr.com/all/language/regex|
 | Tables vs Divs | https://www.smashingmagazine.com/2009/04/from-table-hell-to-div-hell/ |
 | Why use tables is stupid | https://www.hotdesign.com/seybold/ |
+| Responsive emails in Gmail| https://gsuite-developers.googleblog.com/2016/09/your-emails-optimized-for-every-screen-with-responsive-design.html|
+
 
 
 ## Accessibility - A11Y
