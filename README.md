@@ -72,6 +72,7 @@
 | Understanding Closures | https://jherax.wordpress.com/2015/02/13/javascript-closures/ |
 | Compatibility Table for ES6 in browsers |http://kangax.github.io/compat-table/es6/|
 | Differences between Apply and Call|http://hangar.runway7.net/javascript/difference-call-apply|
+| Show the key pressed in ASCII number code | http://keycode.info/|
 
 
 ## Service Workers
