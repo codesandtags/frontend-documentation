@@ -230,13 +230,14 @@
 | Get PlaceHolders and Mocked Data | https://jsonplaceholder.typicode.com/ |
 
 
-## Freelance Webs
+## Freelance Webs or Jobs Search Pages for Tech
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | TopTal  | https://www.toptal.com/  | 
 | UpWork  | https://www.upwork.com  | 
 | Crossover  | https://www.crossover.com/#we-build-worldclass-teams  | 
+| Dice | http://www.dice.com/ |
 
 
 
