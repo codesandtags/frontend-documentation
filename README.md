@@ -208,6 +208,7 @@
 | Great tool which tell you how accessible is your webpage | http://wave.webaim.org/ | 
 | WAI - ARIA Patterns | https://www.w3.org/TR/wai-aria-practices/ |
 | Plugin for Developer tools in Audits | https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb|
+| ARIA roles | https://www.w3.org/TR/wai-aria/roles#abstract_roles |
  
 
 ## WebTools for Front-End
