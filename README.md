@@ -30,6 +30,7 @@
 | Page where you can ask for the pixel density of viewports  | http://pixensity.com/ | 
 | Ellipsis and truncate multiline text | https://imageoptim.com/es.html | 
 | Show the properties which use prefix | http://shouldiprefix.com/ |
+| Great things about Flex Box and Support | http://www.slideshare.net/zomigi/leveling-up-with-flexbox-smartwebconf140923 |
 
 
 
