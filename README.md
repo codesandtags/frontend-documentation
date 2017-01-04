@@ -80,6 +80,15 @@
 | List of Unicode Emoji characters | http://www.fileformat.info/info/emoji/images.htm |
 
 
+## Functional Programming in JavaScript
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| A delightful language for reliable webapps. | http://elm-lang.org/ | 
+| Guide for ELM Lang| https://guide.elm-lang.org/interop/javascript.html |
+| ClojureScript is a compiler for Clojure that targets JavaScript | https://clojurescript.org/ |
+
+
 ## Service Workers
 
 | Description   | URL           | 
