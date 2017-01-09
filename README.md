@@ -78,6 +78,7 @@
 | Differences between Apply and Call|http://hangar.runway7.net/javascript/difference-call-apply|
 | Show the key pressed in ASCII number code | http://keycode.info/|
 | List of Unicode Emoji characters | http://www.fileformat.info/info/emoji/images.htm |
+| You Might Not Need JQuery | http://youmightnotneedjquery.com/ |
 
 
 ## Functional Programming in JavaScript
