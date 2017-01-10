@@ -33,8 +33,7 @@
 | Great things about Flex Box and Support | http://www.slideshare.net/zomigi/leveling-up-with-flexbox-smartwebconf140923 |
 | CSS3 responsive layouts| http://www.slideshare.net/zomigi/css3-layout |
 | Bourbon lightweight mixing library for SASS| http://bourbon.io/ |
-
-
+| Tool to calculate Px to EM using a base | http://pxtoem.com/|
 
 ## Sketching / Wireframing / Mockup template / Images
 
@@ -92,6 +91,7 @@
 
 
 ## Service Workers
+
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
