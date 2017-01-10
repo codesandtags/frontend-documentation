@@ -79,6 +79,7 @@
 | Show the key pressed in ASCII number code | http://keycode.info/|
 | List of Unicode Emoji characters | http://www.fileformat.info/info/emoji/images.htm |
 | You Might Not Need JQuery | http://youmightnotneedjquery.com/ |
+| Super great explation about fetch API| https://jakearchibald.com/2015/thats-so-fetch/ |
 
 
 ## Functional Programming in JavaScript
