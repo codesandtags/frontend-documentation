@@ -34,6 +34,8 @@
 | CSS3 responsive layouts| http://www.slideshare.net/zomigi/css3-layout |
 | Bourbon lightweight mixing library for SASS| http://bourbon.io/ |
 | Tool to calculate Px to EM using a base | http://pxtoem.com/|
+| Colour Palettes with ideas| http://www.colourlovers.com/|
+
 
 ## Sketching / Wireframing / Mockup template / Images
 
