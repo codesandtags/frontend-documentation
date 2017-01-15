@@ -153,6 +153,7 @@
 | Example of sites built with angular | https://builtwith.angularjs.org/ |
 | Site tu run examples with Angular | http://plnkr.co/ |
 | Angular best practices| https://scotch.io/tutorials/angularjs-best-practices-directory-structure |
+||Pluralsigh Angular 2 https://app.pluralsight.com/library/courses/angular-2-getting-started-update/table-of-contents|
 
 
 ## ReactJS
