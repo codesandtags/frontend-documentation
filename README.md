@@ -223,6 +223,7 @@
 | Why use tables is stupid | https://www.hotdesign.com/seybold/ |
 | Responsive emails in Gmail| https://gsuite-developers.googleblog.com/2016/09/your-emails-optimized-for-every-screen-with-responsive-design.html|
 | Why to become in a Fullstack Developer using JavaScript| https://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs |
+| Using nodeJS on Google Cloud| https://cloud.google.com/nodejs/getting-started/hello-world |
 
 
 
