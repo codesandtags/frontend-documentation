@@ -256,6 +256,7 @@
 | Library to parse CVS to JSON | http://papaparse.com/ |
 | TODO MVC for the most popular Frameworks| http://todomvc.com/|
 | Yeoman Scalfolding / Generator| http://yeoman.io/|
+| A powerful templating engine with inheritance, asynchronous control, and more| https://mozilla.github.io/nunjucks/ |
 
 ## Public APIs
 
