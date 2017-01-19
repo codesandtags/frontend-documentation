@@ -175,6 +175,8 @@
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Tips for NodeJS | https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.h394dcdc5 | 
+| NVM repo and documentation | https://github.com/creationix/nvm#install-script|
+| Install NVM| http://dev.topheman.com/install-nvm-with-homebrew-to-use-multiple-versions-of-node-and-iojs-easily/ |
 
 ## MongoDB
 
