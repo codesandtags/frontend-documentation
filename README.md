@@ -155,7 +155,6 @@
 | Angular best practices| https://scotch.io/tutorials/angularjs-best-practices-directory-structure |
 ||Pluralsigh Angular 2 https://app.pluralsight.com/library/courses/angular-2-getting-started-update/table-of-contents|
 
-
 ## ReactJS
 
 | Description   | URL           | 
@@ -231,6 +230,7 @@
 | Responsive emails in Gmail| https://gsuite-developers.googleblog.com/2016/09/your-emails-optimized-for-every-screen-with-responsive-design.html|
 | Why to become in a Fullstack Developer using JavaScript| https://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs |
 | Using nodeJS on Google Cloud| https://cloud.google.com/nodejs/getting-started/hello-world |
+| Great articles for angular and other stuffs| https://scotch.io/tag/angular-js |
 
 
 
