@@ -81,6 +81,7 @@
 | List of Unicode Emoji characters | http://www.fileformat.info/info/emoji/images.htm |
 | You Might Not Need JQuery | http://youmightnotneedjquery.com/ |
 | Super great explation about fetch API| https://jakearchibald.com/2015/thats-so-fetch/ |
+| Understanding Modules system in JavaScript | https://auth0.com/blog/javascript-module-systems-showdown/ |
 
 
 ## Functional Programming in JavaScript
