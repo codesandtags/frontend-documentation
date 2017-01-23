@@ -240,6 +240,7 @@
 | Why to become in a Fullstack Developer using JavaScript| https://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs |
 | Using nodeJS on Google Cloud| https://cloud.google.com/nodejs/getting-started/hello-world |
 | Great articles for angular and other stuffs| https://scotch.io/tag/angular-js |
+| Understanding the source maps in JavaScript + Browser| https://www.html5rocks.com/en/tutorials/developertools/sourcemaps/ |
 
 
 
