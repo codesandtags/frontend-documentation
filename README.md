@@ -156,6 +156,7 @@
 | Angular best practices| https://scotch.io/tutorials/angularjs-best-practices-directory-structure |
 | Pluralsigh Angular 2 | https://app.pluralsight.com/library/courses/angular-2-getting-started-update/table-of-contents|
 | Fetching on Angular 2| https://namitamalik.github.io/Fetching-Data-in-Angular2/|
+| Deploy angular 2 on heroku | https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352#.thginc3zg|
 
 ## ReactJS
 
