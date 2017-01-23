@@ -280,6 +280,11 @@
 | Get information and ratings about places | https://developers.google.com/places/documentation/ |
 | Get PlaceHolders and Mocked Data | https://jsonplaceholder.typicode.com/ |
 
+## Animation on HTML + CSS + SVG
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Animation with SVG | https://css-tricks.com/guide-svg-animations-smil/ |
 
 ## Freelance Webs or Jobs Search Pages for Tech
 
