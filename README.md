@@ -36,6 +36,7 @@
 | Tool to calculate Px to EM using a base | http://pxtoem.com/|
 | Colour Palettes with ideas| http://www.colourlovers.com/|
 | Complete guide for FlexBox :D | https://css-tricks.com/snippets/css/a-guide-to-flexbox/|
+| Flexbox explained in Gifs| https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.xwc1sdfnm|
 
 
 ## Sketching / Wireframing / Mockup template / Images
