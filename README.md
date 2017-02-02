@@ -276,6 +276,7 @@
 | Real HTTP Mocking online| http://www.mocky.io/|
 | Awesome page with many of snipets on Bootstrap| http://bootsnipp.com/ |
 | Autoprefixer Online | https://autoprefixer.github.io/ |
+| Review compatibility of features for browsers| http://caniuse.com/ |
 
 ## Public APIs
 
