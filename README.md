@@ -307,6 +307,13 @@
 | Dice | http://www.dice.com/ |
 
 
+## Awesome and mad projects on JavaScript 😱
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Torrents on the Web  | https://webtorrent.io/  | 
+
+
 ## Crowdfunding sites to achieve the ideas and creative projects.
 
 | Description   | URL           | 
