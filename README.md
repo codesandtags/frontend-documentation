@@ -181,6 +181,7 @@
 | Tips for NodeJS | https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.h394dcdc5 | 
 | NVM repo and documentation | https://github.com/creationix/nvm#install-script|
 | Install NVM| http://dev.topheman.com/install-nvm-with-homebrew-to-use-multiple-versions-of-node-and-iojs-easily/ |
+| Runkit is a live Node notebook | https://runkit.com/home|
 
 ## MongoDB
 
@@ -277,7 +278,7 @@
 | Awesome page with many of snipets on Bootstrap| http://bootsnipp.com/ |
 | Autoprefixer Online | https://autoprefixer.github.io/ |
 | Review compatibility of features for browsers| http://caniuse.com/ |
-| Runkit is a live Node notebook | https://runkit.com/home|
+| Beautiful placeholders using images from unsplash | https://unsplash.it/images|
 
 ## Public APIs
 
