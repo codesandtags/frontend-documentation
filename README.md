@@ -279,6 +279,7 @@
 | Autoprefixer Online | https://autoprefixer.github.io/ |
 | Review compatibility of features for browsers| http://caniuse.com/ |
 | Beautiful placeholders using images from unsplash | https://unsplash.it/images|
+| Free sounds in Mp3 / Mp4 | http://soundbible.com/|
 
 ## Public APIs
 
