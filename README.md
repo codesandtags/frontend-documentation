@@ -143,6 +143,7 @@
 | CodeFights with JavaScript become in a Hero | https://codefights.com/ | 
 | Formulas for combinatory | http://www.vitutor.com/pro/1/a_f.html | 
 | HackerRank one of the best pages for challenges | hackerrank.com | 
+| Exercism | http://exercism.io/ |
 
 
 ## Angular
