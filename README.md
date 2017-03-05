@@ -287,6 +287,7 @@
 | Flags and information of all countries in the world | http://flagpedia.net/|
 | Videos Free| https://pixabay.com/videos/|
 | Awesome page to download sound effects| http://www.zapsplat.com/ |
+| Awesome page to review offline documentation for Front End frameworks / libraries | http://devdocs.io/|
 
 
 ## Public APIs
