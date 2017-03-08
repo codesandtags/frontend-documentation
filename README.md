@@ -288,6 +288,7 @@
 | Videos Free| https://pixabay.com/videos/|
 | Awesome page to download sound effects| http://www.zapsplat.com/ |
 | Awesome page to review offline documentation for Front End frameworks / libraries | http://devdocs.io/|
+| Awesome dependency management for Windows. Works like homebrew| https://chocolatey.org/ |
 
 
 ## Public APIs
