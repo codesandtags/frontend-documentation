@@ -61,6 +61,7 @@
 | Excelent guide for commons commands using Git | https://githowto.com/ | 
 | Editor HTML to Markdown for README.MD files | https://domchristie.github.io/to-markdown/ |
 | Editor Markdown to HTML for README.MD files | http://dillinger.io/ | 
+| Great documentation to understand Git Flow| https://leanpub.com/git-flow/read|
 
 
 ## JavaScript
