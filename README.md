@@ -39,6 +39,7 @@
 | Complete guide for FlexBox :D | https://css-tricks.com/snippets/css/a-guide-to-flexbox/|
 | Flexbox explained in Gifs| https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.xwc1sdfnm|
 | Icons and more Icons in SVG :D| https://thenounproject.com/ |
+| Responsive layout toolkit for Sass | http://susy.oddbird.net/|
 
 
 ## Sketching / Wireframing / Mockup template / Images
