@@ -76,7 +76,6 @@
 | Compress your JavaScript Code | http://jscompress.com/ | 
 | ELM course for beginners| http://courses.knowthen.com/courses/elm-for-beginners/ |
 | One of the best tutorials for Promises in JavaScript ES6 | http://www.html5rocks.com/en/tutorials/es6/promises/ |
-| JavaScript Testing library for ReactJS | https://facebook.github.io/jest/ |
 | Dynamic validation of password using JavaScript  | http://mlitzinger.com/blog/password-validator-js/ |
 | Best JS Books - Free | http://jsbooks.revolunet.com/ |
 | Understanding Closures | https://jherax.wordpress.com/2015/02/13/javascript-closures/ |
@@ -88,6 +87,15 @@
 | Super great explation about fetch API| https://jakearchibald.com/2015/thats-so-fetch/ |
 | Understanding Modules system in JavaScript | https://auth0.com/blog/javascript-module-systems-showdown/ |
 | Airbnb JavaScript style guide | https://github.com/airbnb/javascript|
+
+## JavaScript Testing
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| JavaScript Testing for React. | http://airbnb.io/enzyme/ | 
+| JavaScript Testing library for ReactJS | https://facebook.github.io/jest/ |
+| Futuristic JavaScript test runner | https://github.com/avajs/ava |
+
 
 
 ## Functional Programming in JavaScript
