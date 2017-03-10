@@ -40,6 +40,7 @@
 | Flexbox explained in Gifs| https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.xwc1sdfnm|
 | Icons and more Icons in SVG :D| https://thenounproject.com/ |
 | Responsive layout toolkit for Sass | http://susy.oddbird.net/|
+| Great article about how works susy| https://css-tricks.com/build-web-layouts-easily-susy/|
 
 
 ## Sketching / Wireframing / Mockup template / Images
