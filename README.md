@@ -27,20 +27,20 @@
 | Font Awesome Icons  | http://fontawesome.io/ | 
 | Great Icons just using fonts  | http://weloveiconfonts.com/ | 
 | Youn can customize your font icons here :D  | https://css-tricks.com/examples/IconFont/ | 
-| Icons free | https://icomoon.io/#icons|
+| Icons free | https://icomoon.io/#icons |
 | Page where you can ask for the pixel density of viewports  | http://pixensity.com/ | 
 | Ellipsis and truncate multiline text | https://imageoptim.com/es.html | 
 | Show the properties which use prefix | http://shouldiprefix.com/ |
 | Great things about Flex Box and Support | http://www.slideshare.net/zomigi/leveling-up-with-flexbox-smartwebconf140923 |
 | CSS3 responsive layouts| http://www.slideshare.net/zomigi/css3-layout |
 | Bourbon lightweight mixing library for SASS| http://bourbon.io/ |
-| Tool to calculate Px to EM using a base | http://pxtoem.com/|
-| Colour Palettes with ideas| http://www.colourlovers.com/|
-| Complete guide for FlexBox :D | https://css-tricks.com/snippets/css/a-guide-to-flexbox/|
+| Tool to calculate Px to EM using a base | http://pxtoem.com/ |
+| Colour Palettes with ideas| http://www.colourlovers.com/ |
+| Complete guide for FlexBox :D | https://css-tricks.com/snippets/css/a-guide-to-flexbox/ |
 | Flexbox explained in Gifs| https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.xwc1sdfnm|
 | Icons and more Icons in SVG :D| https://thenounproject.com/ |
-| Responsive layout toolkit for Sass | http://susy.oddbird.net/|
-| Great article about how works susy| https://css-tricks.com/build-web-layouts-easily-susy/|
+| Responsive layout toolkit for Sass | http://susy.oddbird.net/ |
+| Great article about how works susy| https://css-tricks.com/build-web-layouts-easily-susy/ |
 
 
 ## Sketching / Wireframing / Mockup template / Images
@@ -63,7 +63,7 @@
 | Excelent guide for commons commands using Git | https://githowto.com/ | 
 | Editor HTML to Markdown for README.MD files | https://domchristie.github.io/to-markdown/ |
 | Editor Markdown to HTML for README.MD files | http://dillinger.io/ | 
-| Great documentation to understand Git Flow| https://leanpub.com/git-flow/read|
+| Great documentation to understand Git Flow| https://leanpub.com/git-flow/read |
 
 
 ## JavaScript
@@ -81,14 +81,14 @@
 | Dynamic validation of password using JavaScript  | http://mlitzinger.com/blog/password-validator-js/ |
 | Best JS Books - Free | http://jsbooks.revolunet.com/ |
 | Understanding Closures | https://jherax.wordpress.com/2015/02/13/javascript-closures/ |
-| Compatibility Table for ES6 in browsers |http://kangax.github.io/compat-table/es6/|
+| Compatibility Table for ES6 in browsers |http://kangax.github.io/compat-table/es6/ |
 | Differences between Apply and Call|http://hangar.runway7.net/javascript/difference-call-apply|
-| Show the key pressed in ASCII number code | http://keycode.info/|
+| Show the key pressed in ASCII number code | http://keycode.info/ |
 | List of Unicode Emoji characters | http://www.fileformat.info/info/emoji/images.htm |
 | You Might Not Need JQuery | http://youmightnotneedjquery.com/ |
 | Super great explation about fetch API| https://jakearchibald.com/2015/thats-so-fetch/ |
 | Understanding Modules system in JavaScript | https://auth0.com/blog/javascript-module-systems-showdown/ |
-| Airbnb JavaScript style guide | https://github.com/airbnb/javascript|
+| Airbnb JavaScript style guide | https://github.com/airbnb/javascript |
 
 ## JavaScript Testing
 
@@ -118,10 +118,10 @@
 | Service Workers by MDN | https://developer.mozilla.org/en/docs/Web/API/Service_Worker_API | 
 | Service Workers explanation | https://github.com/w3c/ServiceWorker/blob/master/explainer.md |
 | Service Workers explanation by Jake (Developer at Google) | https://jakearchibald.com/2014/using-serviceworker-today/ |
-| Oficial documentation for Service Workers | https://w3c.github.io/ServiceWorker/|
-| Great documentation from Mozilla | https://serviceworke.rs/|
-| Service Worker Pre Cache Google | https://github.com/GoogleChrome/sw-precache|
-| Service Worker Pre Cache webpack| https://www.npmjs.com/package/sw-precache-webpack-plugin|
+| Oficial documentation for Service Workers | https://w3c.github.io/ServiceWorker/ |
+| Great documentation from Mozilla | https://serviceworke.rs/ |
+| Service Worker Pre Cache Google | https://github.com/GoogleChrome/sw-precache |
+| Service Worker Pre Cache webpack| https://www.npmjs.com/package/sw-precache-webpack-plugin |
 | Service Worker Polymer| https://elements.polymer-project.org/elements/platinum-sw |
 
 ## Transpiling JavaScript
@@ -171,22 +171,24 @@
 | Example of sites built with angular | https://builtwith.angularjs.org/ |
 | Site tu run examples with Angular | http://plnkr.co/ |
 | Angular best practices| https://scotch.io/tutorials/angularjs-best-practices-directory-structure |
-| Pluralsigh Angular 2 | https://app.pluralsight.com/library/courses/angular-2-getting-started-update/table-of-contents|
-| Fetching on Angular 2| https://namitamalik.github.io/Fetching-Data-in-Angular2/|
-| Deploy angular 2 on heroku | https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352#.thginc3zg|
+| Pluralsigh Angular 2 | https://app.pluralsight.com/library/courses/angular-2-getting-started-update/table-of-contents |
+| Fetching on Angular 2| https://namitamalik.github.io/Fetching-Data-in-Angular2/ |
+| Deploy angular 2 on heroku | https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352#.thginc3zg |
 
 ## ReactJS
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Examples for React in CodePen | https://medium.com/@sgroff04/how-i-learned-react-and-how-you-can-too-6714a48e984a#.ngks752s7 | 
+| React Advance course on Pluralsight | https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents | 
+
 
 ## EmberJS
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Official Project  | http://emberjs.com/ | 
-| Comparision Angular 2 vs Ember vs React | https://smashingboxes.com/blog/choosing-a-front-end-framework-angular-ember-react/|
+| Comparision Angular 2 vs Ember vs React | https://smashingboxes.com/blog/choosing-a-front-end-framework-angular-ember-react/ |
 
 
 ## NodeJS
@@ -194,9 +196,9 @@
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Tips for NodeJS | https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.h394dcdc5 | 
-| NVM repo and documentation | https://github.com/creationix/nvm#install-script|
+| NVM repo and documentation | https://github.com/creationix/nvm#install-script |
 | Install NVM| http://dev.topheman.com/install-nvm-with-homebrew-to-use-multiple-versions-of-node-and-iojs-easily/ |
-| Runkit is a live Node notebook | https://runkit.com/home|
+| Runkit is a live Node notebook | https://runkit.com/home |
 
 ## MongoDB
 
@@ -248,13 +250,13 @@
 | Best pracitces for the web by Google | https://developers.google.com/web/#follow-best-practices | 
 | Comparision for testing frameworks in Javascript | https://glebbahmutov.com/blog/picking-javascript-testing-framework/ | 
 | Google Web Free Courses | https://developers.google.com/training/web/?hl=es-419 |
-| Logging in errors in clients |https://www.sitepoint.com/logging-errors-client-side-apps/|
+| Logging in errors in clients |https://www.sitepoint.com/logging-errors-client-side-apps/ |
 | Interview Questions Front-End Fork|https://github.com/codesandtags/Front-end-Developer-Interview-Questions|
-| Regular Expression|http://www.hongkiat.com/blog/regex-web-developers/|
+| Regular Expression|http://www.hongkiat.com/blog/regex-web-developers/ |
 | Collection of snippets for RegExo| http://snipplr.com/all/language/regex|
 | Tables vs Divs | https://www.smashingmagazine.com/2009/04/from-table-hell-to-div-hell/ |
 | Why use tables is stupid | https://www.hotdesign.com/seybold/ |
-| Responsive emails in Gmail| https://gsuite-developers.googleblog.com/2016/09/your-emails-optimized-for-every-screen-with-responsive-design.html|
+| Responsive emails in Gmail| https://gsuite-developers.googleblog.com/2016/09/your-emails-optimized-for-every-screen-with-responsive-design.html |
 | Why to become in a Fullstack Developer using JavaScript| https://www.toptal.com/javascript/guide-to-full-stack-javascript-initjs |
 | Using nodeJS on Google Cloud| https://cloud.google.com/nodejs/getting-started/hello-world |
 | Great articles for angular and other stuffs| https://scotch.io/tag/angular-js |
@@ -272,7 +274,7 @@
 | Web Accessibility in mind  | http://webaim.org/standards/wcag/checklist  | 
 | Great tool which tell you how accessible is your webpage | http://wave.webaim.org/ | 
 | WAI - ARIA Patterns | https://www.w3.org/TR/wai-aria-practices/ |
-| Plugin for Developer tools in Audits | https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb|
+| Plugin for Developer tools in Audits | https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb |
 | ARIA roles | https://www.w3.org/TR/wai-aria/roles#abstract_roles |
  
 
@@ -285,25 +287,25 @@
 | Optimize your images with a perfect balance in quality and file size  | https://tinypng.com/  | 
 | Super useful tool to mock data | https://www.mockaroo.com/ |
 | Library to parse CVS to JSON | http://papaparse.com/ |
-| TODO MVC for the most popular Frameworks| http://todomvc.com/|
-| Yeoman Scalfolding / Generator| http://yeoman.io/|
+| TODO MVC for the most popular Frameworks| http://todomvc.com/ |
+| Yeoman Scalfolding / Generator| http://yeoman.io/ |
 | A powerful templating engine with inheritance, asynchronous control, and more| https://mozilla.github.io/nunjucks/ |
-| Uglify JS code online| https://skalman.github.io/UglifyJS-online/|
-| Real HTTP Mocking online| http://www.mocky.io/|
+| Uglify JS code online| https://skalman.github.io/UglifyJS-online/ |
+| Real HTTP Mocking online| http://www.mocky.io/ |
 | Awesome page with many of snipets on Bootstrap| http://bootsnipp.com/ |
 | Autoprefixer Online | https://autoprefixer.github.io/ |
 | Review compatibility of features for browsers| http://caniuse.com/ |
 | Beautiful placeholders using images from unsplash | https://unsplash.it/images|
-| Free sounds in Mp3 / Mp4 | http://soundbible.com/|
+| Free sounds in Mp3 / Mp4 | http://soundbible.com/ |
 | Useful tool for editing and structure json data | http://www.jsoneditoronline.org/ |
-| Flags and information of all countries in the world | http://flagpedia.net/|
-| Videos Free| https://pixabay.com/videos/|
+| Flags and information of all countries in the world | http://flagpedia.net/ |
+| Videos Free| https://pixabay.com/videos/ |
 | Awesome page to download sound effects| http://www.zapsplat.com/ |
-| Awesome page to review offline documentation for Front End frameworks / libraries | http://devdocs.io/|
+| Awesome page to review offline documentation for Front End frameworks / libraries | http://devdocs.io/ |
 | Awesome dependency management for Windows. Works like homebrew| https://chocolatey.org/ |
-| Like the NPM , YARN is a better package manager for Node | https://yarnpkg.com/en/|
-| NVM for windows :D | https://github.com/coreybutler/nvm-windows|
-| Another NVM for Windows, can be installed from choco| https://github.com/marcelklehr/nodist|
+| Like the NPM , YARN is a better package manager for Node | https://yarnpkg.com/en/ |
+| NVM for windows :D | https://github.com/coreybutler/nvm-windows |
+| Another NVM for Windows, can be installed from choco| https://github.com/marcelklehr/nodist |
 
 
 ## Public APIs
@@ -344,7 +346,3 @@
 | ------------- |:-------------:| 
 | gofundme  | https://www.gofundme.com/  | 
 | kickstarter  | https://www.kickstarter.com/ | 
-
-
-
-
