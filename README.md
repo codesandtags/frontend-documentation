@@ -181,6 +181,7 @@
 | ------------- |:-------------:| 
 | Examples for React in CodePen | https://medium.com/@sgroff04/how-i-learned-react-and-how-you-can-too-6714a48e984a#.ngks752s7 | 
 | React Advance course on Pluralsight | https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents | 
+| Handle immutables states on your JavaScript objects | https://facebook.github.io/immutable-js/ |
 
 
 ## EmberJS
