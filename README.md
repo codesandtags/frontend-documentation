@@ -97,6 +97,7 @@
 | JavaScript Testing for React. | http://airbnb.io/enzyme/ | 
 | JavaScript Testing library for ReactJS | https://facebook.github.io/jest/ |
 | Futuristic JavaScript test runner | https://github.com/avajs/ava |
+| Ava configuration  https://hackernoon.com/ava-low-config-testing-for-javascript-71bd2d958745#.99ro16qxe |
 
 
 
