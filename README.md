@@ -283,6 +283,12 @@
 | Plugin for Developer tools in Audits | https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb |
 | ARIA roles | https://www.w3.org/TR/wai-aria/roles#abstract_roles |
  
+## Monitoring apps and logging messages
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Great tool to log the error messages in the app | https://sentry.io/ | 
+
 
 ## WebTools for Front-End
 
