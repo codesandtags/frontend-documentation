@@ -185,6 +185,8 @@
 | Handle immutables states on your JavaScript objects | https://facebook.github.io/immutable-js/ |
 | React Developer Tools for Chrome | https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi |
 | Redux Developer Tools for Chrome | https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=es |
+| How to test React Redux Components | http://ericnish.io/blog/how-to-unit-test-react-redux-components/ |
+| Redux mock store for Testing | http://arnaudbenard.com/redux-mock-store/ |
 
 
 ## EmberJS
