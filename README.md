@@ -89,6 +89,7 @@
 | Super great explation about fetch API| https://jakearchibald.com/2015/thats-so-fetch/ |
 | Understanding Modules system in JavaScript | https://auth0.com/blog/javascript-module-systems-showdown/ |
 | Airbnb JavaScript style guide | https://github.com/airbnb/javascript |
+| ECMASCRIPT 2017 Draft| https://tc39.github.io/ecma262/#sec-intro |
 
 ## JavaScript Testing
 
@@ -308,7 +309,7 @@
 | Awesome page with many of snipets on Bootstrap| http://bootsnipp.com/ |
 | Autoprefixer Online | https://autoprefixer.github.io/ |
 | Review compatibility of features for browsers| http://caniuse.com/ |
-| Beautiful placeholders using images from unsplash | https://unsplash.it/images|
+| Beautiful placeholders using images from unsplash | https://unsplash.it/images |
 | Free sounds in Mp3 / Mp4 | http://soundbible.com/ |
 | Useful tool for editing and structure json data | http://www.jsoneditoronline.org/ |
 | Flags and information of all countries in the world | http://flagpedia.net/ |
