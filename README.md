@@ -321,6 +321,7 @@
 | Like the NPM , YARN is a better package manager for Node | https://yarnpkg.com/en/ |
 | NVM for windows :D | https://github.com/coreybutler/nvm-windows |
 | Another NVM for Windows, can be installed from choco| https://github.com/marcelklehr/nodist |
+| Polyfills dynamic according to your browser | https://polyfill.io/v2/docs/ |
 
 
 ## Public APIs
