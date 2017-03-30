@@ -136,8 +136,6 @@
 | From ES5 to ES6  | http://lebab.io/try-it | 
 
 
-
-
 ## BackBoneJS
 
 | Description   | URL           | 
@@ -237,7 +235,7 @@
 | Good examples for style task with gulp   | http://www.sitepoint.com/simple-gulpy-workflow-sass/  | 
 | Package for Google PageSpeed in Grunt | https://www.npmjs.com/package/grunt-pagespeed | 
 | 15 Tips for Gulp performance | http://stefanimhoff.de/2014/gulp-tutorial-15-performance-improvements-webp-gzip/ | 
-
+| Webpack 2 Getting started | https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783 |
 
 ## Bundlers (Webpack)
 
