@@ -362,3 +362,12 @@
 | gofundme  | https://www.gofundme.com/  | 
 | kickstarter  | https://www.kickstarter.com/ | 
 | List of invesment in Startups | https://www.crunchbase.com/#/home/index |
+
+# Books 
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Bookzz  | http://es.bookzz.org/  | 
+| Safari Books  | https://www.safaribooksonline.com/  | 
+
+
