@@ -321,6 +321,8 @@
 | NVM for windows :D | https://github.com/coreybutler/nvm-windows |
 | Another NVM for Windows, can be installed from choco| https://github.com/marcelklehr/nodist |
 | Polyfills dynamic according to your browser | https://polyfill.io/v2/docs/ |
+| Scape HTML | http://www.freeformatter.com/html-escape.html#ad-output |
+| Library to highligh code | https://highlightjs.org/ |
 
 
 ## Public APIs
