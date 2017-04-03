@@ -271,6 +271,7 @@
 | Understanding the source maps in JavaScript + Browser| https://www.html5rocks.com/en/tutorials/developertools/sourcemaps/ |
 | Great resume and comparation about JavaScript Frameworks/Libraries in 2016 | https://risingstars2016.js.org/#framework |
 | How to become in Google Developer Expert | https://www.quora.com/What-does-it-take-to-be-a-Google-developer-expert |
+| Coding style guide for some famous languages | https://medium.freecodecamp.com/the-100-correct-coding-style-guide-5b594a1655f0 |
 
 
 ## Accessibility - A11Y
