@@ -325,6 +325,8 @@
 | Polyfills dynamic according to your browser | https://polyfill.io/v2/docs/ |
 | Scape HTML | http://www.freeformatter.com/html-escape.html#ad-output |
 | Library to highligh code | https://highlightjs.org/ |
+| A Query language for your API | http://graphql.org/ |
+| A tool for transforming CSS with JavaScript | http://postcss.org/ |
 
 
 ## Public APIs
