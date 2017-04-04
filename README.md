@@ -272,6 +272,7 @@
 | Great resume and comparation about JavaScript Frameworks/Libraries in 2016 | https://risingstars2016.js.org/#framework |
 | How to become in Google Developer Expert | https://www.quora.com/What-does-it-take-to-be-a-Google-developer-expert |
 | Coding style guide for some famous languages | https://medium.freecodecamp.com/the-100-correct-coding-style-guide-5b594a1655f0 |
+| Gherkin Notation Template| http://docs.behat.org/en/v2.5/guides/1.gherkin.html |
 
 
 ## Accessibility - A11Y
