@@ -110,6 +110,7 @@
 | A delightful language for reliable webapps. | http://elm-lang.org/ | 
 | Guide for ELM Lang| https://guide.elm-lang.org/interop/javascript.html |
 | ClojureScript is a compiler for Clojure that targets JavaScript | https://clojurescript.org/ |
+| Monads in JavaScript | https://cwmyers.github.io/monet.js/|
 
 
 ## Service Workers
