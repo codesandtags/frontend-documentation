@@ -111,6 +111,7 @@
 | Guide for ELM Lang| https://guide.elm-lang.org/interop/javascript.html |
 | ClojureScript is a compiler for Clojure that targets JavaScript | https://clojurescript.org/ |
 | Monads in JavaScript | https://cwmyers.github.io/monet.js/|
+| Ramda JS a JavaScript library for functional programming| http://ramdajs.com/ |
 
 
 ## Service Workers
