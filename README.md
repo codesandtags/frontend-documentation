@@ -388,3 +388,11 @@
 | Open AI Systems  | https://openai.com/systems/  |
 
 
+# Web VR / Virtual Reality
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| 3 Reasons WebVR Is The Future of Virtual Reality  | https://uploadvr.com/3-reasons-webvr-future-virtual-reality/  |
+| Share and discover 3D Content | https://sketchfab.com/  |
+
+
