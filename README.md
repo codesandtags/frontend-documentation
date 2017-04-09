@@ -275,6 +275,7 @@
 | How to become in Google Developer Expert | https://www.quora.com/What-does-it-take-to-be-a-Google-developer-expert |
 | Coding style guide for some famous languages | https://medium.freecodecamp.com/the-100-correct-coding-style-guide-5b594a1655f0 |
 | Gherkin Notation Template| http://docs.behat.org/en/v2.5/guides/1.gherkin.html |
+| JavaScript Tair, Podcast abaout Javascript| https://javascriptair.com/ |
 
 
 ## Accessibility - A11Y
