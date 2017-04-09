@@ -386,6 +386,7 @@
 | ------------- |:-------------:| 
 | Open AI project  | https://openai.com/  |
 | Open AI Systems  | https://openai.com/systems/  |
+| An open-source software library for Machine Intelligence | https://www.tensorflow.org/ |
 
 
 # Web VR / Virtual Reality
