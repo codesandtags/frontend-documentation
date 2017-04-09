@@ -379,3 +379,11 @@
 | Safari Books  | https://www.safaribooksonline.com/  | 
 
 
+# Artificial Intelligence / AGI
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Open AI project  | https://openai.com/  |
+| Open AI Systems  | https://openai.com/systems/  |
+
+
