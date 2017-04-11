@@ -340,6 +340,7 @@
 | Get information about highligh places in Foursquare| https://developer.foursquare.com/   ,   https://vimeo.com/87793635|
 | Get information and ratings about places | https://developers.google.com/places/documentation/ |
 | Get PlaceHolders and Mocked Data | https://jsonplaceholder.typicode.com/ |
+| Crunchbase API | https://data.crunchbase.com/ |
 
 ## Animation on HTML + CSS + SVG
 
