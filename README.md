@@ -191,6 +191,7 @@
 | Redux mock store for Testing | http://arnaudbenard.com/redux-mock-store/ |
 | 10 tips for better redux apps | https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.yy7kbasb6 |
 | Optimizing React when is slow | https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba |
+| So far the best free React Course| https://reacttraining.com/online/react-fundamentals |
 
 
 ## EmberJS
