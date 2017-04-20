@@ -404,6 +404,7 @@
 | React VR | https://facebook.github.io/react-vr/ |
 | Show the matrix for current browses supporting webvr | https://webvr.rocks/ |
 | Build immersive web VR using Vizor | https://vizor.io/ |
+| glTF GL Transmission Format for 3D assets| https://github.com/KhronosGroup/glTF/tree/2.0 |
 
 
 # Data Visualization / D3
