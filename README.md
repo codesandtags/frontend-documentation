@@ -403,6 +403,7 @@
 | Share and discover 3D Content | https://sketchfab.com/  |
 | React VR | https://facebook.github.io/react-vr/ |
 | Show the matrix for current browses supporting webvr | https://webvr.rocks/ |
+| Build immersive web VR using Vizor | https://vizor.io/ |
 
 
 # Data Visualization / D3
