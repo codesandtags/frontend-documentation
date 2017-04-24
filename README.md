@@ -414,4 +414,6 @@
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Introduction to D3 in Map  | http://maptimeboston.github.io/d3-maptime/#/  |
+| D3 official documentation | https://github.com/d3/d3/wiki | 
+| D3 Fundamentals on Udacity | https://www.udacity.com/course/data-visualization-and-d3js--ud507 |
 
