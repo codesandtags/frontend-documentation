@@ -94,6 +94,7 @@
 | Airbnb JavaScript style guide | https://github.com/airbnb/javascript |
 | How Airbnb use react | http://devnacho.com/2016/03/20/how-airbnb-uses-react/ |
 | ECMASCRIPT 2017 Draft| https://tc39.github.io/ecma262/#sec-intro |
+| Generate massive amounts of fake data in Node.js and the browser | https://github.com/marak/Faker.js/ |
 
 ## JavaScript Testing
 
