@@ -44,6 +44,7 @@
 | Gallery 3D just using CSS | https://css-tricks.com/creating-a-3d-cube-image-gallery/ |
 | Some Input styles for Forms | http://callmenick.com/post/various-css-input-text-styles |
 | Tips about lengths in CSS | https://css-tricks.com/the-lengths-of-css/ |
+| Scroll Down effects | https://codyhouse.co/demo/page-scroll-effects/gallery.html|
 
 
 ## Sketching / Wireframing / Mockup template / Images
