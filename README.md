@@ -343,6 +343,7 @@
 | A tool for transforming CSS with JavaScript | http://postcss.org/ |
 | Allows to show the work in progress | https://localtunnel.github.io/www/ |
 | Static web publishing for front-end projects | https://surge.sh/ |
+| Statistics for Browsers usage | http://gs.statcounter.com/ |
 
 
 ## Public APIs
