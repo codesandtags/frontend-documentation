@@ -45,6 +45,11 @@
 | Some Input styles for Forms | http://callmenick.com/post/various-css-input-text-styles |
 | Tips about lengths in CSS | https://css-tricks.com/the-lengths-of-css/ |
 | Scroll Down effects | https://codyhouse.co/demo/page-scroll-effects/gallery.html|
+| Namespace and scalable CSS - BEM | http://getbem.com/introduction/ |
+| Namespace and scalable CSS - SMACSS | https://smacss.com/ |
+| Namespace standard for CSS - OOCSS | http://oocss.org/ |
+| Namespace and scalable CSS - SUITCSS | http://suitcss.github.io/ |
+
 
 
 ## Sketching / Wireframing / Mockup template / Images
