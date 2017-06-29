@@ -188,6 +188,7 @@
 | Fetching on Angular 2| https://namitamalik.github.io/Fetching-Data-in-Angular2/ |
 | Deploy angular 2 on heroku | https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352#.thginc3zg |
 | Custom Themes with Angular Material | https://blog.thoughtram.io/angular/2017/05/23/custom-themes-with-angular-material.html | Practice Excercises for Angular 2| https://jcoop.io/angular-2-practice-exercises/ |
+| Augury to Debug Angular applications| https://augury.angular.io/ | 
 
 ## ReactJS
 
