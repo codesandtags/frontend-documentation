@@ -139,6 +139,14 @@
 | Service Worker Pre Cache webpack| https://www.npmjs.com/package/sw-precache-webpack-plugin |
 | Service Worker Polymer| https://elements.polymer-project.org/elements/platinum-sw |
 
+## Security
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| JSON Web Token are an open, undistry standar RFC-7519 | https://jwt.io/ | 
+| RFC 7519 specification JWT | https://tools.ietf.org/html/rfc7519 | 
+
+
 ## Transpiling JavaScript
  
 | Description   | URL           | 
