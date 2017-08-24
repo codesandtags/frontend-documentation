@@ -49,6 +49,7 @@
 | Namespace and scalable CSS - SMACSS | https://smacss.com/ |
 | Namespace standard for CSS - OOCSS | http://oocss.org/ |
 | Namespace and scalable CSS - SUITCSS | http://suitcss.github.io/ |
+| Manifesto motion UX | https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc |
 
 
 
