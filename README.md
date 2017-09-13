@@ -24,10 +24,6 @@
 | ------------- |:-------------:| 
 | Viewer in real time for multiple devices  | https://browsersync.io/ |
 | Google Fonts for your website  | https://www.google.com/fonts | 
-| Font Awesome Icons  | http://fontawesome.io/ | 
-| Great Icons just using fonts  | http://weloveiconfonts.com/ | 
-| Youn can customize your font icons here :D  | https://css-tricks.com/examples/IconFont/ | 
-| Icons free | https://icomoon.io/#icons |
 | Page where you can ask for the pixel density of viewports  | http://pixensity.com/ | 
 | Ellipsis and truncate multiline text | https://imageoptim.com/es.html | 
 | Show the properties which use prefix | http://shouldiprefix.com/ |
@@ -38,7 +34,6 @@
 | Colour Palettes with ideas| http://www.colourlovers.com/ |
 | Complete guide for FlexBox :D | https://css-tricks.com/snippets/css/a-guide-to-flexbox/ |
 | Flexbox explained in Gifs| https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.xwc1sdfnm|
-| Icons and more Icons in SVG :D| https://thenounproject.com/ |
 | Responsive layout toolkit for Sass | http://susy.oddbird.net/ |
 | Great article about how works susy| https://css-tricks.com/build-web-layouts-easily-susy/ |
 | Gallery 3D just using CSS | https://css-tricks.com/creating-a-3d-cube-image-gallery/ |
@@ -50,7 +45,13 @@
 | Namespace standard for CSS - OOCSS | http://oocss.org/ |
 | Namespace and scalable CSS - SUITCSS | http://suitcss.github.io/ |
 | Manifesto motion UX | https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc |
-
+| Font Awesome Icons  | http://fontawesome.io/ | 
+| Great Icons just using fonts  | http://weloveiconfonts.com/ | 
+| Youn can customize your font icons here :D  | https://css-tricks.com/examples/IconFont/ | 
+| Icons free | https://icomoon.io/#icons |
+| Icons and more Icons in SVG :D| https://thenounproject.com/ |
+| Search more than 1.9 Millions of Icons | https://www.iconfinder.com/ |
+| Search more than 500k of Icons | https://www.flaticon.com/ |
 
 
 ## Sketching / Wireframing / Mockup template / Images
