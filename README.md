@@ -147,6 +147,7 @@
 | ------------- |:-------------:| 
 | JSON Web Token are an open, undistry standar RFC-7519 | https://jwt.io/ | 
 | RFC 7519 specification JWT | https://tools.ietf.org/html/rfc7519 | 
+| JWT vs Cookies | https://ponyfoo.com/articles/json-web-tokens-vs-session-cookies |
 
 
 ## Transpiling JavaScript
