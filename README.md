@@ -451,3 +451,5 @@
 | ------------- |:-------------:| 
 | WEB Real Time Communications | https://webrtc.github.io/samples/ |
 | PWA example | https://app.ft.com |
+| Web App install banner | https://developers.google.com/web/fundamentals/engage-and-retain/app-install-banners/ |
+| Web App Manifest | https://developers.google.com/web/fundamentals/engage-and-retain/web-app-manifest/ |
