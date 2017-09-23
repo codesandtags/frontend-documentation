@@ -365,6 +365,7 @@
 | Statistics for Browsers usage | http://gs.statcounter.com/ |
 | Fantastic free images | https://www.pexels.com/ |
 | One of the best enrich editors for web | https://ckeditor.com/download |
+| Lorem ipsum for images | http://lorempixel.com/ |
 
 ## Public APIs
 
