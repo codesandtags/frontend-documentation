@@ -364,6 +364,7 @@
 | Static web publishing for front-end projects | https://surge.sh/ |
 | Statistics for Browsers usage | http://gs.statcounter.com/ |
 | Fantastic free images | https://www.pexels.com/ |
+| One of the best enrich editors for web | https://ckeditor.com/download |
 
 ## Public APIs
 
