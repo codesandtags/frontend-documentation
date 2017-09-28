@@ -458,3 +458,4 @@
 | Web App install banner | https://developers.google.com/web/fundamentals/engage-and-retain/app-install-banners/ |
 | Web App Manifest | https://developers.google.com/web/fundamentals/engage-and-retain/web-app-manifest/ |
 | Added short tutorial for PWA with Angular CLI | https://medium.com/@amcdnl/service-worker-pwas-with-the-angular-cli-98a8f16d62d6 |
+| Is service worker ready? | https://jakearchibald.github.io/isserviceworkerready/ | 
