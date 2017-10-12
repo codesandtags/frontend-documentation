@@ -179,7 +179,7 @@
 | Solve challenges online using JavaScript | https://www.codingame.com/start | 
 | CodeFights with JavaScript become in a Hero | https://codefights.com/ | 
 | Formulas for combinatory | http://www.vitutor.com/pro/1/a_f.html | 
-| HackerRank one of the best pages for challenges | hackerrank.com | 
+| HackerRank one of the best pages for challenges | https://www.hackerrank.com | 
 | Exercism | http://exercism.io/ |
 
 
