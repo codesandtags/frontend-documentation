@@ -368,6 +368,7 @@
 | One of the best enrich editors for web | https://ckeditor.com/download |
 | Lorem ipsum for images | http://lorempixel.com/ |
 | Restify REST scalable on Node.js | http://restify.com/ |
+| Unminify JS, CSS, HTML | http://unminify.com/ |
 
 ## Public APIs
 
