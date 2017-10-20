@@ -369,6 +369,7 @@
 | Lorem ipsum for images | http://lorempixel.com/ |
 | Restify REST scalable on Node.js | http://restify.com/ |
 | Unminify JS, CSS, HTML | http://unminify.com/ |
+| Ranking languages in 2017 | https://redmonk.com/sogrady/2017/06/08/language-rankings-6-17/ |
 
 ## Public APIs
 
