@@ -465,3 +465,5 @@
 | Added short tutorial for PWA with Angular CLI | https://medium.com/@amcdnl/service-worker-pwas-with-the-angular-cli-98a8f16d62d6 |
 | Is service worker ready? | https://jakearchibald.github.io/isserviceworkerready/ | 
 | PWA directory | https://pwa-directory.appspot.com/ |
+| Credential Management API | https://developers.google.com/web/fundamentals/security/credential-management/?hl=es |
+| Web Payments API | https://developers.google.com/web/fundamentals/payments/?hl=es |
