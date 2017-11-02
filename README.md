@@ -308,6 +308,7 @@
 | Gherkin Notation Template| http://docs.behat.org/en/v2.5/guides/1.gherkin.html |
 | JavaScript Tair, Podcast abaout Javascript| https://javascriptair.com/ |
 | JavaScript statistics and anothers topics with Front-End | https://stateofjs.com/2016/introduction/ |
+| Guide to success open source projects | https://opensource.guide/ |
 
 
 ## Accessibility - A11Y
