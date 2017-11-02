@@ -183,7 +183,7 @@
 | Exercism | http://exercism.io/ |
 
 
-## Angular / Angular 2 / Angular 4
+## Angular / Angular 2 / Angular 4 / Angular 5
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
@@ -202,6 +202,7 @@
 | Augury to Debug Angular applications| https://augury.angular.io/ | 
 | Deploy Angular 4 on Heroku | https://medium.com/@ervib/deploy-angular-4-app-with-express-to-heroku-6113146915ca |
 | Using env variables in Angular 4 | http://www.chrisjmendez.com/2017/05/24/using-dotenv-with-angular/ |
+| Explains what you need to do to update your app | https://angular-update-guide.firebaseapp.com/ |
 
 ## ReactJS
 
