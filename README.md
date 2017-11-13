@@ -472,3 +472,4 @@
 | PWA directory | https://pwa-directory.appspot.com/ |
 | Credential Management API | https://developers.google.com/web/fundamentals/security/credential-management/?hl=es |
 | Web Payments API | https://developers.google.com/web/fundamentals/payments/?hl=es |
+| Deep explanation for fetch API | https://davidwalsh.name/fetch |
