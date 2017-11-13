@@ -262,7 +262,6 @@
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Great article which explains differences between Grunt and Gulp  | http://blog.koalite.com/2015/06/grunt-o-gulp-que-uso/  | 
-| Generator for data mocks  |  https://www.mockaroo.com/  | 
 | Great generaetor for Gulp files  |  http://quenchjs.com/ | 
 | Awesome article for Gulp   | https://css-tricks.com/gulp-for-beginners/#article-header-id-11   | 
 | Good examples for style task with gulp   | http://www.sitepoint.com/simple-gulpy-workflow-sass/  | 
@@ -347,6 +346,7 @@
 | A powerful templating engine with inheritance, asynchronous control, and more| https://mozilla.github.io/nunjucks/ |
 | Uglify JS code online| https://skalman.github.io/UglifyJS-online/ |
 | Real HTTP Mocking online| http://www.mocky.io/ |
+| Mock response http  |  https://httpbin.org/  | 
 | Awesome page with many of snipets on Bootstrap| http://bootsnipp.com/ |
 | Autoprefixer Online | https://autoprefixer.github.io/ |
 | Review compatibility of features for browsers| http://caniuse.com/ |
