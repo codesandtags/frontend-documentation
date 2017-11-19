@@ -475,3 +475,4 @@
 | Web Payments API | https://developers.google.com/web/fundamentals/payments/?hl=es |
 | Deep explanation for fetch API | https://davidwalsh.name/fetch |
 | Detail offline cache persistence | https://jakearchibald.com/2014/offline-cookbook/#cache-persistence |
+| Advance concepts about caching | https://afasterweb.com/2017/01/31/upgrading-your-service-worker-cache/ |
