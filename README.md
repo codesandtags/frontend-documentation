@@ -476,3 +476,4 @@
 | Deep explanation for fetch API | https://davidwalsh.name/fetch |
 | Detail offline cache persistence | https://jakearchibald.com/2014/offline-cookbook/#cache-persistence |
 | Advance concepts about caching | https://afasterweb.com/2017/01/31/upgrading-your-service-worker-cache/ |
+| Dexie to work with IndexDB | http://dexie.org/ |
