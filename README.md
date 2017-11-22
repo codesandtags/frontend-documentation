@@ -477,3 +477,4 @@
 | Detail offline cache persistence | https://jakearchibald.com/2014/offline-cookbook/#cache-persistence |
 | Advance concepts about caching | https://afasterweb.com/2017/01/31/upgrading-your-service-worker-cache/ |
 | Dexie to work with IndexDB | http://dexie.org/ |
+| Responsive Design by Google | https://developers.google.com/web/fundamentals/design-and-ux/responsive/|
