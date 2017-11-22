@@ -55,6 +55,7 @@
 | Search more than 500k of Icons | https://www.flaticon.com/ |
 | Game to understand Flexbox | http://flexboxfroggy.com/|
 | CSS prefixer online tool | http://pleeease.io/play/ |
+| Awesome tutorial for CSS Animations | https://learn.shayhowe.com/advanced-html-css/transitions-animations/ |
 
 
 ## Sketching / Wireframing / Mockup template / Images
@@ -478,3 +479,4 @@
 | Advance concepts about caching | https://afasterweb.com/2017/01/31/upgrading-your-service-worker-cache/ |
 | Dexie to work with IndexDB | http://dexie.org/ |
 | Responsive Design by Google | https://developers.google.com/web/fundamentals/design-and-ux/responsive/|
+| Responsive Images | https://css-tricks.com/responsive-images-css/ |
