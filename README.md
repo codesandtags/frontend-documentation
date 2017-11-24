@@ -480,3 +480,6 @@
 | Dexie to work with IndexDB | http://dexie.org/ |
 | Responsive Design by Google | https://developers.google.com/web/fundamentals/design-and-ux/responsive/|
 | Responsive Images | https://css-tricks.com/responsive-images-css/ |
+| Understanding Background Sync | https://developers.google.com/web/updates/2015/12/background-sync |
+| Google Cloud Messaging Tool| https://developers.google.com/cloud-messaging/ |
+
