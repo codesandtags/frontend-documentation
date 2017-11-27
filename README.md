@@ -484,4 +484,6 @@
 | Google Cloud Messaging Tool| https://developers.google.com/cloud-messaging/ |
 | Background Sync implementation | https://ponyfoo.com/articles/backgroundsync |
 | Firebase Functions as backend | https://firebase.google.com/docs/functions/ |
+| Geolocation API | https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation |
+| User Media API | https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia |
 
