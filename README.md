@@ -486,4 +486,5 @@
 | Firebase Functions as backend | https://firebase.google.com/docs/functions/ |
 | Geolocation API | https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation |
 | User Media API | https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia |
+| Collection of JavaScript Libraries for PWA | https://github.com/GoogleChrome/workbox |
 
