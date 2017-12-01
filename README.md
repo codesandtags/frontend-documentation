@@ -380,6 +380,7 @@
 | SCSS to CSS | http://www.cssportal.com/scss-to-css/ |
 | Emojis online | https://emojipedia.org/ |
 | Easy way to copy Emojis / Emoticons | https://www.emojicopy.com/|
+| Cornify Easter Eggs | http://www.cornify.com/ |
 
 ## Public APIs
 
