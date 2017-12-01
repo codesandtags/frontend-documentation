@@ -379,6 +379,7 @@
 | Minifier and Beautfier | http://minifycode.com/html-beautifier/ |
 | SCSS to CSS | http://www.cssportal.com/scss-to-css/ |
 | Emojis online | https://emojipedia.org/ |
+| Easy way to copy Emojis / Emoticons | https://www.emojicopy.com/|
 
 ## Public APIs
 
