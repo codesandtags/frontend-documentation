@@ -381,6 +381,7 @@
 | Emojis online | https://emojipedia.org/ |
 | Easy way to copy Emojis / Emoticons | https://www.emojicopy.com/|
 | Cornify Easter Eggs | http://www.cornify.com/ |
+| Draw and create diagrams online | https://www.draw.io/ |
 
 ## Public APIs
 
