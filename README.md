@@ -382,6 +382,7 @@
 | Easy way to copy Emojis / Emoticons | https://www.emojicopy.com/|
 | Cornify Easter Eggs | http://www.cornify.com/ |
 | Draw and create diagrams online | https://www.draw.io/ |
+| A lot of resources for web | http://codingheroes.io/resources/ |
 
 ## Public APIs
 
