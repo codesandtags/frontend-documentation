@@ -57,6 +57,7 @@
 | Game to understand Flexbox | http://flexboxfroggy.com/|
 | CSS prefixer online tool | http://pleeease.io/play/ |
 | Awesome tutorial for CSS Animations | https://learn.shayhowe.com/advanced-html-css/transitions-animations/ |
+| CSS Animation library | https://daneden.github.io/animate.css/? |
 
 
 ## Sketching / Wireframing / Mockup template / Images
