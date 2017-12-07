@@ -58,6 +58,7 @@
 | CSS prefixer online tool | http://pleeease.io/play/ |
 | Awesome tutorial for CSS Animations | https://learn.shayhowe.com/advanced-html-css/transitions-animations/ |
 | CSS Animation library | https://daneden.github.io/animate.css/? |
+| Tool to create clip-path in CSS | http://bennettfeely.com/clippy/ |
 
 
 ## Sketching / Wireframing / Mockup template / Images
