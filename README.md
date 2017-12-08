@@ -316,6 +316,7 @@
 | JavaScript Tair, Podcast abaout Javascript| https://javascriptair.com/ |
 | JavaScript statistics and anothers topics with Front-End | https://stateofjs.com/2016/introduction/ |
 | Guide to success open source projects | https://opensource.guide/ |
+| Great article about Angular in 2017 | https://malcoded.com/posts/angular-top-2017 |
 
 
 ## Accessibility - A11Y
