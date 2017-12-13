@@ -213,6 +213,7 @@
 | Explains what you need to do to update your app | https://angular-update-guide.firebaseapp.com/ |
 | Working with HttpInterceptors| https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8 |
 | Checklist for performance in Angular | https://github.com/mgechev/angular-performance-checklist|
+| Testing Snipets with Angular 4+ | https://medium.com/spektrakel-blog/angular-testing-snippets-httpclient-d1dc2f035eb8|
 
 ## ReactJS
 
