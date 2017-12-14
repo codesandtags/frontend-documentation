@@ -214,6 +214,7 @@
 | Working with HttpInterceptors| https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8 |
 | Checklist for performance in Angular | https://github.com/mgechev/angular-performance-checklist|
 | Testing Snipets with Angular 4+ | https://medium.com/spektrakel-blog/angular-testing-snippets-httpclient-d1dc2f035eb8|
+| Testing HttpClient in Angular 4+ | https://medium.com/netscape/testing-with-the-angular-httpclient-api-648203820712 | 
 
 ## ReactJS
 
