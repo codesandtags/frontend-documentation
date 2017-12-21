@@ -59,6 +59,10 @@
 | Awesome tutorial for CSS Animations | https://learn.shayhowe.com/advanced-html-css/transitions-animations/ |
 | CSS Animation library | https://daneden.github.io/animate.css/? |
 | Tool to create clip-path in CSS | http://bennettfeely.com/clippy/ |
+| BEM - SMACSS advices | https://www.sitepoint.com/bem-smacss-advice-from-developers/ |
+| SOLID CSS : Open/Closed | https://csswizardry.com/2012/06/the-open-closed-principle-applied-to-css/ |
+| SOLID CSS : Single Responsability | https://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/ |
+| | |
 
 
 ## Sketching / Wireframing / Mockup template / Images
