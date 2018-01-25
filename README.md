@@ -63,6 +63,7 @@
 | SOLID CSS : Open/Closed | https://csswizardry.com/2012/06/the-open-closed-principle-applied-to-css/ |
 | SOLID CSS : Single Responsability | https://csswizardry.com/2012/04/the-single-responsibility-principle-applied-to-css/ |
 | POST CSS | http://postcss.org/ |
+| Microinteraction examples :-) | http://inspire.blufra.me/css-examples-16-animations-effects-snippets/|
 
 
 ## Sketching / Wireframing / Mockup template / Images
