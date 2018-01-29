@@ -220,6 +220,7 @@
 | Checklist for performance in Angular | https://github.com/mgechev/angular-performance-checklist|
 | Testing Snipets with Angular 4+ | https://medium.com/spektrakel-blog/angular-testing-snippets-httpclient-d1dc2f035eb8|
 | Testing HttpClient in Angular 4+ | https://medium.com/netscape/testing-with-the-angular-httpclient-api-648203820712 | 
+| Angular Material | https://material.angular.io/components/categories |
 
 ## ReactJS
 
