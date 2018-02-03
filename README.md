@@ -1,4 +1,4 @@
-# Front End Documentation 2017 
+# Front End Documentation 2018
 > This is a recopilation of information about all topics related with the Front End 
 
 
@@ -221,6 +221,7 @@
 | Testing Snipets with Angular 4+ | https://medium.com/spektrakel-blog/angular-testing-snippets-httpclient-d1dc2f035eb8|
 | Testing HttpClient in Angular 4+ | https://medium.com/netscape/testing-with-the-angular-httpclient-api-648203820712 | 
 | Angular Material | https://material.angular.io/components/categories |
+| Angular Flex Layout | https://tburleson-layouts-demos.firebaseapp.com/#/docs |
 
 ## ReactJS
 
