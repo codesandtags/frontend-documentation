@@ -224,6 +224,7 @@
 | Testing HttpClient in Angular 4+ | https://medium.com/netscape/testing-with-the-angular-httpclient-api-648203820712 | 
 | Angular Material | https://material.angular.io/components/categories |
 | Angular Flex Layout | https://tburleson-layouts-demos.firebaseapp.com/#/docs |
+| Angular Google Maps | https://angular-maps.com/ |
 
 ## RxJs Reactive Programming with Javascript
 
