@@ -226,13 +226,15 @@
 | Angular Flex Layout | https://tburleson-layouts-demos.firebaseapp.com/#/docs |
 | Angular Google Maps | https://angular-maps.com/ |
 
-## RxJs Reactive Programming with Javascript
+## RxJs Reactive Programming with Javascript and Redux
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Difference between Subject and Observable | https://javascript.tutorialhorizon.com/2017/03/23/rxjs-subject-vs-observable/ | 
 | Understanding RXJX | https://academind.com/learn/javascript/understanding-rxjs/ |
 | Angular ngrx store repo | https://github.com/ngrx/platform |
+| ngrx course + effects | https://ultimateangular.com/ngrx-store-effects |
+| A great article to understand the selectors in redux | https://toddmotto.com/ngrx-store-understanding-state-selectors |
 
 ## ReactJS
 
