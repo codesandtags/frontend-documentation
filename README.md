@@ -225,6 +225,7 @@
 | Angular Material | https://material.angular.io/components/categories |
 | Angular Flex Layout | https://tburleson-layouts-demos.firebaseapp.com/#/docs |
 | Angular Google Maps | https://angular-maps.com/ |
+| One of the most complete Angular Courses | https://ultimateangular.com/ |
 
 ## RxJs Reactive Programming with Javascript and Redux
 
