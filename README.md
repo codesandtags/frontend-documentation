@@ -388,6 +388,7 @@
 | Flags and information of all countries in the world | http://flagpedia.net/ |
 | Videos Free| https://pixabay.com/videos/ |
 | Awesome page to download sound effects| http://www.zapsplat.com/ |
+| NES sounds videogames | http://themushroomkingdom.net/media/smb/wav |
 | Awesome page to review offline documentation for Front End frameworks / libraries | http://devdocs.io/ |
 | Awesome dependency management for Windows. Works like homebrew| https://chocolatey.org/ |
 | Like the NPM , YARN is a better package manager for Node | https://yarnpkg.com/en/ |
