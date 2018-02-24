@@ -66,6 +66,7 @@
 | Microinteraction examples :-) | http://inspire.blufra.me/css-examples-16-animations-effects-snippets/|
 | Brand Colors Palette | https://brandcolors.net/ |
 | Images based on color | https://pixnio.com/images/40a0e0 |
+| Explained Flex with GIFs | https://medium.freecodecamp.org/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053 |
 
 
 ## Sketching / Wireframing / Mockup template / Images
