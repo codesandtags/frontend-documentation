@@ -5,13 +5,17 @@
 #### For me this is the best WebSite to stay up to date => *https://uptodate.frontendrescue.org/*
 
 
-## Index
+# Index
 * [HTML](#html5)
 * [CSS3 & SCSS](#css3--scss)
-* [Sketching / Wireframing / Mockup template / Images](#html5)
+* [Sketching / Wireframing / Mockup template / Images](#sketching--wireframing--mockup-template--images)
 * [Git](#git)
 * [JavaScript](#javascript)
-* [JavaScript Testing](#javascript--testing)
+* [JavaScript Testing](#javascript-testing)
+* [Functional Programming in JavaScript](#functional-programming-in-javascript)
+* [Service Workers](#service-workers)
+* [Security](#security)
+
 
 
 ## HTML5
