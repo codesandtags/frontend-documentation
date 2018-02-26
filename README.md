@@ -239,6 +239,7 @@
 | Angular Flex Layout | https://tburleson-layouts-demos.firebaseapp.com/#/docs |
 | Angular Google Maps | https://angular-maps.com/ |
 | One of the most complete Angular Courses | https://ultimateangular.com/ |
+| How to build a website with angular and github pages | https://scotch.io/@collinl65/deploying-angular4-app-to-github-pages |
 
 ## RxJs Reactive Programming with Javascript and Redux
 
