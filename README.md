@@ -6,31 +6,63 @@
 
 
 # Index
-* [HTML](#html5)
+* [Angular in general & Angular 5+](#angular-in-general--angular-5--)
+* [BackBoneJS](#backbonejs)
+* [Challenges online for JavaScript](#challenges-online-for-javascript)
 * [CSS3 & SCSS](#css3--scss)
-* [Sketching / Wireframing / Mockup template / Images](#sketching--wireframing--mockup-template--images)
+* [Functional Programming in JavaScript](#functional-programming-in-javascript)
 * [Git](#git)
+* [HTML](#html5)
 * [JavaScript](#javascript)
 * [JavaScript Testing](#javascript-testing)
-* [Functional Programming in JavaScript](#functional-programming-in-javascript)
+* [ReactJS & React Native](#reactjs--react-native)
 * [Service Workers](#service-workers)
 * [Security](#security)
+* [Sketching / Wireframing / Mockup template / Images](#sketching--wireframing--mockup-template--images)
+* [Transpiling JavaScript](#transpiling-javaScript)
+* [UX & UI](#ux--ui)
 
-
-
-## HTML5
+## Angular in general & Angular 5+
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
-| Things that should know about HTML5  | http://diveintohtml5.info/index.html | 
-| Great article and examples for *Responsive Images* | http://cloudinary.com/blog/automatically_art_directed_responsive_images      | 
-| Cool Framework for Responsives Emails | https://mjml.io/      |
-| MultiTouch on mobiles Great article with examples | http://www.html5rocks.com/es/mobile/touch/ |
-| Free videos cover for your background web pages or header | http://www.coverr.co/ | 
-| Themes using Bootstrap| https://bootswatch.com/ |
-| HTML 5 Cheat sheet | https://websitesetup.org/html5-cheat-sheet/ |
+| Good fundamentals and basics for Angular 2 | https://egghead.io/series/angular-2-fundamentals | 
+| Advanced Structure for Angular 1.x projects | https://omarfouad.com/ | 
+| Rangle.io : Angular 2 Training | https://www.gitbook.com/book/rangle-io/ngcourse2/details | 
+| Vaddin = Angular 2 + Material Design + PolymerJS | https://vaadin.com/elements | 
+| Projectes made using Angular | https://www.madewithangular.com/#/ |
+| Example of sites built with angular | https://builtwith.angularjs.org/ |
+| Site tu run examples with Angular | http://plnkr.co/ |
+| Angular best practices| https://scotch.io/tutorials/angularjs-best-practices-directory-structure |
+| Pluralsigh Angular 2 | https://app.pluralsight.com/library/courses/angular-2-getting-started-update/table-of-contents |
+| Fetching on Angular 2| https://namitamalik.github.io/Fetching-Data-in-Angular2/ |
+| Deploy angular 2 on heroku | https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352#.thginc3zg |
+| Custom Themes with Angular Material | https://blog.thoughtram.io/angular/2017/05/23/custom-themes-with-angular-material.html | Practice Excercises for Angular 2| https://jcoop.io/angular-2-practice-exercises/ |
+| Augury to Debug Angular applications| https://augury.angular.io/ | 
+| Deploy Angular 4 on Heroku | https://medium.com/@ervib/deploy-angular-4-app-with-express-to-heroku-6113146915ca |
+| Using env variables in Angular 4 | http://www.chrisjmendez.com/2017/05/24/using-dotenv-with-angular/ |
+| Explains what you need to do to update your app | https://angular-update-guide.firebaseapp.com/ |
+| Working with HttpInterceptors| https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8 |
+| Checklist for performance in Angular | https://github.com/mgechev/angular-performance-checklist|
+| Testing Snipets with Angular 4+ | https://medium.com/spektrakel-blog/angular-testing-snippets-httpclient-d1dc2f035eb8|
+| Testing HttpClient in Angular 4+ | https://medium.com/netscape/testing-with-the-angular-httpclient-api-648203820712 | 
+| Angular Material | https://material.angular.io/components/categories |
+| Angular Flex Layout | https://tburleson-layouts-demos.firebaseapp.com/#/docs |
+| Angular Google Maps | https://angular-maps.com/ |
+| One of the most complete Angular Courses | https://ultimateangular.com/ |
+| How to build a website with angular and github pages | https://scotch.io/@collinl65/deploying-angular4-app-to-github-pages |
+| Why Angular has chosen Typescript | https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8|
 
- 
+## BackBoneJS
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| BackBoneJs Applications Books | https://addyosmani.com/backbone-fundamentals/#what-is-mvc  | 
+| BackBoneJs Patterns | http://ricostacruz.com/backbone-patterns/bootstrapping-data.html | 
+| BackBoneJS Single Page ToDo Tutorial | http://code.tutsplus.com/tutorials/single-page-todo-application-with-backbonejs--cms-21417  | 
+| Snipets and examples with BackBoneJS | https://miguelmota.com/blog/getting-started-with-backbonejs/ | 
+| BackBoneJS BoilerPlate | https://github.com/tbranyen/backbone-boilerplate.git  | 
+
 ## CSS3 & SCSS 
 
 | Description   | URL           | 
@@ -79,6 +111,32 @@
 | Brand Colors Palette | https://brandcolors.net/ |
 | Images based on color | https://pixnio.com/images/40a0e0 |
 | Explained Flex with GIFs | https://medium.freecodecamp.org/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053 |
+
+## Challenges online for JavaScript
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Code fast and code well with JavaScript | http://www.codewars.com/ | 
+| Try to solve many problems using JavaScript | https://coderbyte.com/ | 
+| Solve challenges online using JavaScript | https://www.codingame.com/start | 
+| CodeFights with JavaScript become in a Hero | https://codefights.com/ | 
+| Formulas for combinatory | http://www.vitutor.com/pro/1/a_f.html | 
+| HackerRank one of the best pages for challenges | https://www.hackerrank.com | 
+| Exercism | http://exercism.io/ |
+
+
+
+## HTML5
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Things that should know about HTML5  | http://diveintohtml5.info/index.html | 
+| Great article and examples for *Responsive Images* | http://cloudinary.com/blog/automatically_art_directed_responsive_images      | 
+| Cool Framework for Responsives Emails | https://mjml.io/      |
+| MultiTouch on mobiles Great article with examples | http://www.html5rocks.com/es/mobile/touch/ |
+| Free videos cover for your background web pages or header | http://www.coverr.co/ | 
+| Themes using Bootstrap| https://bootswatch.com/ |
+| HTML 5 Cheat sheet | https://websitesetup.org/html5-cheat-sheet/ |
 
 
 ## UX & UI
@@ -151,7 +209,6 @@
 | Serenity JS | http://serenity-js.org/ |
 
 
-
 ## Functional Programming in JavaScript
 
 | Description   | URL           | 
@@ -196,61 +253,6 @@
 | From ES5 to ES6  | http://lebab.io/try-it | 
 
 
-## BackBoneJS
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| BackBoneJs Applications Books | https://addyosmani.com/backbone-fundamentals/#what-is-mvc  | 
-| BackBoneJs Patterns | http://ricostacruz.com/backbone-patterns/bootstrapping-data.html | 
-| BackBoneJS Single Page ToDo Tutorial | http://code.tutsplus.com/tutorials/single-page-todo-application-with-backbonejs--cms-21417  | 
-| Snipets and examples with BackBoneJS | https://miguelmota.com/blog/getting-started-with-backbonejs/ | 
-| BackBoneJS BoilerPlate | https://github.com/tbranyen/backbone-boilerplate.git  | 
-
-
-## Challenges online for JavaScript
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Code fast and code well with JavaScript | http://www.codewars.com/ | 
-| Try to solve many problems using JavaScript | https://coderbyte.com/ | 
-| Solve challenges online using JavaScript | https://www.codingame.com/start | 
-| CodeFights with JavaScript become in a Hero | https://codefights.com/ | 
-| Formulas for combinatory | http://www.vitutor.com/pro/1/a_f.html | 
-| HackerRank one of the best pages for challenges | https://www.hackerrank.com | 
-| Exercism | http://exercism.io/ |
-
-
-## Angular / Angular 2 / Angular 4 / Angular 5
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Good fundamentals and basics for Angular 2 | https://egghead.io/series/angular-2-fundamentals | 
-| Advanced Structure for Angular 1.x projects | https://omarfouad.com/ | 
-| Rangle.io : Angular 2 Training | https://www.gitbook.com/book/rangle-io/ngcourse2/details | 
-| Vaddin = Angular 2 + Material Design + PolymerJS | https://vaadin.com/elements | 
-| Projectes made using Angular | https://www.madewithangular.com/#/ |
-| Example of sites built with angular | https://builtwith.angularjs.org/ |
-| Site tu run examples with Angular | http://plnkr.co/ |
-| Angular best practices| https://scotch.io/tutorials/angularjs-best-practices-directory-structure |
-| Pluralsigh Angular 2 | https://app.pluralsight.com/library/courses/angular-2-getting-started-update/table-of-contents |
-| Fetching on Angular 2| https://namitamalik.github.io/Fetching-Data-in-Angular2/ |
-| Deploy angular 2 on heroku | https://medium.com/@ryanchenkie_40935/angular-cli-deployment-host-your-angular-2-app-on-heroku-3f266f13f352#.thginc3zg |
-| Custom Themes with Angular Material | https://blog.thoughtram.io/angular/2017/05/23/custom-themes-with-angular-material.html | Practice Excercises for Angular 2| https://jcoop.io/angular-2-practice-exercises/ |
-| Augury to Debug Angular applications| https://augury.angular.io/ | 
-| Deploy Angular 4 on Heroku | https://medium.com/@ervib/deploy-angular-4-app-with-express-to-heroku-6113146915ca |
-| Using env variables in Angular 4 | http://www.chrisjmendez.com/2017/05/24/using-dotenv-with-angular/ |
-| Explains what you need to do to update your app | https://angular-update-guide.firebaseapp.com/ |
-| Working with HttpInterceptors| https://medium.com/@ryanchenkie_40935/angular-authentication-using-the-http-client-and-http-interceptors-2f9d1540eb8 |
-| Checklist for performance in Angular | https://github.com/mgechev/angular-performance-checklist|
-| Testing Snipets with Angular 4+ | https://medium.com/spektrakel-blog/angular-testing-snippets-httpclient-d1dc2f035eb8|
-| Testing HttpClient in Angular 4+ | https://medium.com/netscape/testing-with-the-angular-httpclient-api-648203820712 | 
-| Angular Material | https://material.angular.io/components/categories |
-| Angular Flex Layout | https://tburleson-layouts-demos.firebaseapp.com/#/docs |
-| Angular Google Maps | https://angular-maps.com/ |
-| One of the most complete Angular Courses | https://ultimateangular.com/ |
-| How to build a website with angular and github pages | https://scotch.io/@collinl65/deploying-angular4-app-to-github-pages |
-| Why Angular has chosen Typescript | https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8|
-
 ## RxJs Reactive Programming with Javascript and Redux
 
 | Description   | URL           | 
@@ -261,7 +263,7 @@
 | ngrx course + effects | https://ultimateangular.com/ngrx-store-effects |
 | A great article to understand the selectors in redux | https://toddmotto.com/ngrx-store-understanding-state-selectors |
 
-## ReactJS
+## ReactJS & React Native
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
