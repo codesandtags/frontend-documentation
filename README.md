@@ -249,6 +249,7 @@
 | Angular Google Maps | https://angular-maps.com/ |
 | One of the most complete Angular Courses | https://ultimateangular.com/ |
 | How to build a website with angular and github pages | https://scotch.io/@collinl65/deploying-angular4-app-to-github-pages |
+| Why Angular has chosen Typescript | https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8|
 
 ## RxJs Reactive Programming with Javascript and Redux
 
