@@ -7,20 +7,38 @@
 
 # Index
 * [Angular in general & Angular 5+](#angular-in-general--angular-5--)
+* [Accessibility - A11Y](#accessibility---a11y)
 * [BackBoneJS](#backbonejs)
 * [Challenges online for JavaScript](#challenges-online-for-javascript)
 * [CSS3 & SCSS](#css3--scss)
+* [Databases](#databases)
+* [EmberJS](#emberjs)
 * [Functional Programming in JavaScript](#functional-programming-in-javascript)
 * [Git](#git)
 * [HTML](#html5)
 * [JavaScript](#javascript)
 * [JavaScript Testing](#javascript-testing)
+* [NodeJS](#nodejs)
 * [ReactJS & React Native](#reactjs--react-native)
+* [RxJs Reactive Programming with Javascript and Redux](#rxjs-reactive-programming-with-javascript-and-redux)
 * [Service Workers](#service-workers)
 * [Security](#security)
 * [Sketching / Wireframing / Mockup template / Images](#sketching--wireframing--mockup-template--images)
 * [Transpiling JavaScript](#transpiling-javaScript)
 * [UX & UI](#ux--ui)
+* [WebTools for Front-End](#webtools-for-front-end)
+
+## Accessibility - A11Y
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| ChromeVox Extension  | http://www.chromevox.com/ | 
+| Web Content Accessibility Guidelines 2.0  | https://www.w3.org/TR/WCAG20/ | 
+| Web Accessibility in mind  | http://webaim.org/standards/wcag/checklist  | 
+| Great tool which tell you how accessible is your webpage | http://wave.webaim.org/ | 
+| WAI - ARIA Patterns | https://www.w3.org/TR/wai-aria-practices/ |
+| Plugin for Developer tools in Audits | https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb |
+| ARIA roles | https://www.w3.org/TR/wai-aria/roles#abstract_roles |
 
 ## Angular in general & Angular 5+
 
@@ -53,6 +71,40 @@
 | How to build a website with angular and github pages | https://scotch.io/@collinl65/deploying-angular4-app-to-github-pages |
 | Why Angular has chosen Typescript | https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8|
 
+## Animation on HTML + CSS + SVG
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Animation with SVG | https://css-tricks.com/guide-svg-animations-smil/ |
+
+# Artificial Intelligence / AGI
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Open AI project  | https://openai.com/  |
+| Open AI Systems  | https://openai.com/systems/  |
+| An open-source software library for Machine Intelligence | https://www.tensorflow.org/ |
+| Tensor Flow in Action :D| https://medium.freecodecamp.com/big-picture-machine-learning-classifying-text-with-neural-networks-and-tensorflow-d94036ac2274 | 
+| Artificial Intelligence Experiments with Google | https://aiexperiments.withgoogle.com/ |
+
+## Awesome and mad projects on JavaScript 😱
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Torrents on the Web  | https://webtorrent.io/  | 
+
+## Automation and Task
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Great article which explains differences between Grunt and Gulp  | http://blog.koalite.com/2015/06/grunt-o-gulp-que-uso/  | 
+| Great generaetor for Gulp files  |  http://quenchjs.com/ | 
+| Awesome article for Gulp   | https://css-tricks.com/gulp-for-beginners/#article-header-id-11   | 
+| Good examples for style task with gulp   | http://www.sitepoint.com/simple-gulpy-workflow-sass/  | 
+| Package for Google PageSpeed in Grunt | https://www.npmjs.com/package/grunt-pagespeed | 
+| 15 Tips for Gulp performance | http://stefanimhoff.de/2014/gulp-tutorial-15-performance-improvements-webp-gzip/ | 
+| Webpack 2 Getting started | https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783 |
+
 ## BackBoneJS
 
 | Description   | URL           | 
@@ -62,6 +114,22 @@
 | BackBoneJS Single Page ToDo Tutorial | http://code.tutsplus.com/tutorials/single-page-todo-application-with-backbonejs--cms-21417  | 
 | Snipets and examples with BackBoneJS | https://miguelmota.com/blog/getting-started-with-backbonejs/ | 
 | BackBoneJS BoilerPlate | https://github.com/tbranyen/backbone-boilerplate.git  | 
+
+# Books 
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Bookzz  | http://es.bookzz.org/  | 
+| Safari Books  | https://www.safaribooksonline.com/  | 
+
+
+## Bundlers (Webpack)
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Webpack and Gulp example  | http://stackoverflow.com/questions/33558396/gulp-webpack-or-just-webpack  | 
+| Next-generation ES6 module bundler | https://rollupjs.org/  | 
+| RollupJS vs WebpackJS | https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c |
 
 ## CSS3 & SCSS 
 
@@ -124,7 +192,62 @@
 | HackerRank one of the best pages for challenges | https://www.hackerrank.com | 
 | Exercism | http://exercism.io/ |
 
+## Crowdfunding sites to achieve the ideas and creative projects.
 
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| gofundme  | https://www.gofundme.com/  | 
+| kickstarter  | https://www.kickstarter.com/ | 
+| List of invesment in Startups | https://www.crunchbase.com/#/home/index |
+
+## Databases
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Mongo GUI Tools | https://scalegrid.io/blog/which-is-the-best-mongodb-gui/ | 
+
+# Data Visualization / D3
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Introduction to D3 in Map  | http://maptimeboston.github.io/d3-maptime/#/  |
+| D3 official documentation | https://github.com/d3/d3/wiki | 
+| D3 Fundamentals on Udacity | https://www.udacity.com/course/data-visualization-and-d3js--ud507 |
+
+## EmberJS
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Official Project  | http://emberjs.com/ | 
+| Comparision Angular 2 vs Ember vs React | https://smashingboxes.com/blog/choosing-a-front-end-framework-angular-ember-react/ |
+
+## Freelance Webs or Jobs Search Pages for Tech
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| TopTal  | https://www.toptal.com/  | 
+| UpWork  | https://www.upwork.com  | 
+| Crossover  | https://www.crossover.com/#we-build-worldclass-teams  | 
+| Dice | http://www.dice.com/ |
+
+## Functional Programming in JavaScript
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| A delightful language for reliable webapps. | http://elm-lang.org/ | 
+| Guide for ELM Lang| https://guide.elm-lang.org/interop/javascript.html |
+| ClojureScript is a compiler for Clojure that targets JavaScript | https://clojurescript.org/ |
+| Monads in JavaScript | https://cwmyers.github.io/monet.js/|
+| Ramda JS a JavaScript library for functional programming| http://ramdajs.com/ |
+
+## Git 
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Excelent guide for commons commands using Git | https://githowto.com/ | 
+| Editor HTML to Markdown for README.MD files | https://domchristie.github.io/to-markdown/ |
+| Editor Markdown to HTML for README.MD files | http://dillinger.io/ | 
+| Great documentation to understand Git Flow| https://leanpub.com/git-flow/read |
 
 ## HTML5
 
@@ -137,38 +260,6 @@
 | Free videos cover for your background web pages or header | http://www.coverr.co/ | 
 | Themes using Bootstrap| https://bootswatch.com/ |
 | HTML 5 Cheat sheet | https://websitesetup.org/html5-cheat-sheet/ |
-
-
-## UX & UI
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Dropbox OnBoard  | https://www.useronboard.com/how-dropbox-onboards-new-users/?slide=7 | 
-| All kind of resources for UI and UX | https://resourcecards.com/ |
-
-
-
-## Sketching / Wireframing / Mockup template / Images
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Sketching and Wireframing  | https://moqups.com/ | 
-| Sketching and Wireframing  | https://www.mockflow.com/ | 
-| Diagrams and Sketching  | https://www.gliffy.com/ | 
-| Sketching and wireframing for iPhone | http://iphonemockup.lkmc.ch/ | 
-| IF you don't have images but you need a placeholder instead of, this is for you | http://placehold.it/ | 
-| Conversor images to SVG  | http://picsvg.com/sp/ | 
-| Optimize your images (Available for grunt)  | https://imageoptim.com/es.html | 
-
-
-## Git 
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Excelent guide for commons commands using Git | https://githowto.com/ | 
-| Editor HTML to Markdown for README.MD files | https://domchristie.github.io/to-markdown/ |
-| Editor Markdown to HTML for README.MD files | http://dillinger.io/ | 
-| Great documentation to understand Git Flow| https://leanpub.com/git-flow/read |
 
 
 ## JavaScript
@@ -208,16 +299,47 @@
 | Ava configuration | https://hackernoon.com/ava-low-config-testing-for-javascript-71bd2d958745#.99ro16qxe |
 | Serenity JS | http://serenity-js.org/ |
 
-
-## Functional Programming in JavaScript
+# Jekyll Templates
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
-| A delightful language for reliable webapps. | http://elm-lang.org/ | 
-| Guide for ELM Lang| https://guide.elm-lang.org/interop/javascript.html |
-| ClojureScript is a compiler for Clojure that targets JavaScript | https://clojurescript.org/ |
-| Monads in JavaScript | https://cwmyers.github.io/monet.js/|
-| Ramda JS a JavaScript library for functional programming| http://ramdajs.com/ |
+| Ramarulandac portfolio based on Indigo Jekyll Template | https://github.com/ramarulandac/ramarulandac.github.io |
+
+## NodeJS
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Tips for NodeJS | https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.h394dcdc5 | 
+| NVM repo and documentation | https://github.com/creationix/nvm#install-script |
+| Install NVM| http://dev.topheman.com/install-nvm-with-homebrew-to-use-multiple-versions-of-node-and-iojs-easily/ |
+| Runkit is a live Node notebook | https://runkit.com/home |
+| Advanced, production process manager for Node.js | http://pm2.keymetrics.io/ | 
+| A progressive Node.js Framework for scalable applications| https://nestjs.com/ |
+
+## RxJs Reactive Programming with Javascript and Redux
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Difference between Subject and Observable | https://javascript.tutorialhorizon.com/2017/03/23/rxjs-subject-vs-observable/ | 
+| Understanding RXJX | https://academind.com/learn/javascript/understanding-rxjs/ |
+| Angular ngrx store repo | https://github.com/ngrx/platform |
+| ngrx course + effects | https://ultimateangular.com/ngrx-store-effects |
+| A great article to understand the selectors in redux | https://toddmotto.com/ngrx-store-understanding-state-selectors |
+
+## ReactJS & React Native
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Examples for React in CodePen | https://medium.com/@sgroff04/how-i-learned-react-and-how-you-can-too-6714a48e984a#.ngks752s7 | 
+| React Advance course on Pluralsight | https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents | 
+| Handle immutables states on your JavaScript objects | https://facebook.github.io/immutable-js/ |
+| React Developer Tools for Chrome | https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi |
+| Redux Developer Tools for Chrome | https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=es |
+| How to test React Redux Components | http://ericnish.io/blog/how-to-unit-test-react-redux-components/ |
+| Redux mock store for Testing | http://arnaudbenard.com/redux-mock-store/ |
+| 10 tips for better redux apps | https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.yy7kbasb6 |
+| Optimizing React when is slow | https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba |
+| So far the best free React Course| https://reacttraining.com/online/react-fundamentals |
 
 
 ## Service Workers
@@ -252,59 +374,6 @@
 | Babel is a JavaScript compiler Use next generation JavaScript, today  | https://babeljs.io/ | 
 | From ES5 to ES6  | http://lebab.io/try-it | 
 
-
-## RxJs Reactive Programming with Javascript and Redux
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Difference between Subject and Observable | https://javascript.tutorialhorizon.com/2017/03/23/rxjs-subject-vs-observable/ | 
-| Understanding RXJX | https://academind.com/learn/javascript/understanding-rxjs/ |
-| Angular ngrx store repo | https://github.com/ngrx/platform |
-| ngrx course + effects | https://ultimateangular.com/ngrx-store-effects |
-| A great article to understand the selectors in redux | https://toddmotto.com/ngrx-store-understanding-state-selectors |
-
-## ReactJS & React Native
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Examples for React in CodePen | https://medium.com/@sgroff04/how-i-learned-react-and-how-you-can-too-6714a48e984a#.ngks752s7 | 
-| React Advance course on Pluralsight | https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents | 
-| Handle immutables states on your JavaScript objects | https://facebook.github.io/immutable-js/ |
-| React Developer Tools for Chrome | https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi |
-| Redux Developer Tools for Chrome | https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=es |
-| How to test React Redux Components | http://ericnish.io/blog/how-to-unit-test-react-redux-components/ |
-| Redux mock store for Testing | http://arnaudbenard.com/redux-mock-store/ |
-| 10 tips for better redux apps | https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.yy7kbasb6 |
-| Optimizing React when is slow | https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba |
-| So far the best free React Course| https://reacttraining.com/online/react-fundamentals |
-
-
-## EmberJS
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Official Project  | http://emberjs.com/ | 
-| Comparision Angular 2 vs Ember vs React | https://smashingboxes.com/blog/choosing-a-front-end-framework-angular-ember-react/ |
-
-
-## NodeJS
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Tips for NodeJS | https://hackernoon.com/19-things-i-learnt-reading-the-nodejs-docs-8a2dcc7f307f#.h394dcdc5 | 
-| NVM repo and documentation | https://github.com/creationix/nvm#install-script |
-| Install NVM| http://dev.topheman.com/install-nvm-with-homebrew-to-use-multiple-versions-of-node-and-iojs-easily/ |
-| Runkit is a live Node notebook | https://runkit.com/home |
-| Advanced, production process manager for Node.js | http://pm2.keymetrics.io/ | 
-| A progressive Node.js Framework for scalable applications| https://nestjs.com/ |
-
-## MongoDB
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Mongo GUI Tools | https://scalegrid.io/blog/which-is-the-best-mongodb-gui/ | 
-
-
 ## WebGL
 
 | Description   | URL           | 
@@ -312,27 +381,6 @@
 | Eye WebGL | http://www.vill.ee/eye/ | 
 | Experiences with WebGL | https://www.chromeexperiments.com/webgl | 
 | Library for WebGL | http://www.pixijs.com/ | 
-
-
-## Automation and Task
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Great article which explains differences between Grunt and Gulp  | http://blog.koalite.com/2015/06/grunt-o-gulp-que-uso/  | 
-| Great generaetor for Gulp files  |  http://quenchjs.com/ | 
-| Awesome article for Gulp   | https://css-tricks.com/gulp-for-beginners/#article-header-id-11   | 
-| Good examples for style task with gulp   | http://www.sitepoint.com/simple-gulpy-workflow-sass/  | 
-| Package for Google PageSpeed in Grunt | https://www.npmjs.com/package/grunt-pagespeed | 
-| 15 Tips for Gulp performance | http://stefanimhoff.de/2014/gulp-tutorial-15-performance-improvements-webp-gzip/ | 
-| Webpack 2 Getting started | https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783 |
-
-## Bundlers (Webpack)
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Webpack and Gulp example  | http://stackoverflow.com/questions/33558396/gulp-webpack-or-just-webpack  | 
-| Next-generation ES6 module bundler | https://rollupjs.org/  | 
-| RollupJS vs WebpackJS | https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c |
 
 
 ## Web Components
@@ -370,18 +418,16 @@
 | Guide to success open source projects | https://opensource.guide/ |
 | Great article about Angular in 2017 | https://malcoded.com/posts/angular-top-2017 |
 
-
-## Accessibility - A11Y
+## Public APIs
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
-| ChromeVox Extension  | http://www.chromevox.com/ | 
-| Web Content Accessibility Guidelines 2.0  | https://www.w3.org/TR/WCAG20/ | 
-| Web Accessibility in mind  | http://webaim.org/standards/wcag/checklist  | 
-| Great tool which tell you how accessible is your webpage | http://wave.webaim.org/ | 
-| WAI - ARIA Patterns | https://www.w3.org/TR/wai-aria-practices/ |
-| Plugin for Developer tools in Audits | https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb |
-| ARIA roles | https://www.w3.org/TR/wai-aria/roles#abstract_roles |
+| Get information about countries, currencies, capitals, etc | https://restcountries.eu/ |
+| Get information about highligh places in Foursquare| https://developer.foursquare.com/   ,   https://vimeo.com/87793635|
+| Get information and ratings about places | https://developers.google.com/places/documentation/ |
+| Get PlaceHolders and Mocked Data | https://jsonplaceholder.typicode.com/ |
+| Crunchbase API | https://data.crunchbase.com/ |
+| One of the biggest collection for Public Apis | https://github.com/toddmotto/public-apis |
  
 ## Monitoring apps and logging messages
 
@@ -389,6 +435,24 @@
 | ------------- |:-------------:| 
 | Great tool to log the error messages in the app | https://sentry.io/ | 
 
+## UX & UI
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Dropbox OnBoard  | https://www.useronboard.com/how-dropbox-onboards-new-users/?slide=7 | 
+| All kind of resources for UI and UX | https://resourcecards.com/ |
+
+## Sketching / Wireframing / Mockup template / Images
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Sketching and Wireframing  | https://moqups.com/ | 
+| Sketching and Wireframing  | https://www.mockflow.com/ | 
+| Diagrams and Sketching  | https://www.gliffy.com/ | 
+| Sketching and wireframing for iPhone | http://iphonemockup.lkmc.ch/ | 
+| IF you don't have images but you need a placeholder instead of, this is for you | http://placehold.it/ | 
+| Conversor images to SVG  | http://picsvg.com/sp/ | 
+| Optimize your images (Available for grunt)  | https://imageoptim.com/es.html | 
 
 ## WebTools for Front-End
 
@@ -443,65 +507,6 @@
 | A lot of resources for web | http://codingheroes.io/resources/ |
 | Text Compare Diff Online | https://text-compare.com |
 
-## Public APIs
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Get information about countries, currencies, capitals, etc | https://restcountries.eu/ |
-| Get information about highligh places in Foursquare| https://developer.foursquare.com/   ,   https://vimeo.com/87793635|
-| Get information and ratings about places | https://developers.google.com/places/documentation/ |
-| Get PlaceHolders and Mocked Data | https://jsonplaceholder.typicode.com/ |
-| Crunchbase API | https://data.crunchbase.com/ |
-
-## Animation on HTML + CSS + SVG
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Animation with SVG | https://css-tricks.com/guide-svg-animations-smil/ |
-
-## Freelance Webs or Jobs Search Pages for Tech
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| TopTal  | https://www.toptal.com/  | 
-| UpWork  | https://www.upwork.com  | 
-| Crossover  | https://www.crossover.com/#we-build-worldclass-teams  | 
-| Dice | http://www.dice.com/ |
-
-
-## Awesome and mad projects on JavaScript 😱
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Torrents on the Web  | https://webtorrent.io/  | 
-
-
-## Crowdfunding sites to achieve the ideas and creative projects.
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| gofundme  | https://www.gofundme.com/  | 
-| kickstarter  | https://www.kickstarter.com/ | 
-| List of invesment in Startups | https://www.crunchbase.com/#/home/index |
-
-# Books 
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Bookzz  | http://es.bookzz.org/  | 
-| Safari Books  | https://www.safaribooksonline.com/  | 
-
-
-# Artificial Intelligence / AGI
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Open AI project  | https://openai.com/  |
-| Open AI Systems  | https://openai.com/systems/  |
-| An open-source software library for Machine Intelligence | https://www.tensorflow.org/ |
-| Tensor Flow in Action :D| https://medium.freecodecamp.com/big-picture-machine-learning-classifying-text-with-neural-networks-and-tensorflow-d94036ac2274 | 
-| Artificial Intelligence Experiments with Google | https://aiexperiments.withgoogle.com/ |
-
 
 # Web VR / Virtual Reality
 
@@ -515,14 +520,6 @@
 | glTF GL Transmission Format for 3D assets| https://github.com/KhronosGroup/glTF/tree/2.0 |
 | Added link to threejs page JavaScript 3D | https://threejs.org/ |
 
-
-# Data Visualization / D3
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Introduction to D3 in Map  | http://maptimeboston.github.io/d3-maptime/#/  |
-| D3 official documentation | https://github.com/d3/d3/wiki | 
-| D3 Fundamentals on Udacity | https://www.udacity.com/course/data-visualization-and-d3js--ud507 |
 
 # Progressive Web Apps / PWA
 
@@ -551,10 +548,5 @@
 | User Media API | https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia |
 | Collection of JavaScript Libraries for PWA | https://github.com/GoogleChrome/workbox |
 
-# Jekyll Templates
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Ramarulandac portfolio based on Indigo Jekyll Template | https://github.com/ramarulandac/ramarulandac.github.io |
 
 
