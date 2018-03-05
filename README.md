@@ -1,4 +1,4 @@
-# 🚀Front End Documentation 2018
+# Front End Documentation 2018 🚀
 > 🔥 This is a recopilation of information about all topics related with the Front End 🔥
 
 
@@ -454,6 +454,7 @@
 | IF you don't have images but you need a placeholder instead of, this is for you | http://placehold.it/ | 
 | Conversor images to SVG  | http://picsvg.com/sp/ | 
 | Optimize your images (Available for grunt)  | https://imageoptim.com/es.html | 
+| New Format for Images Webp | https://developers.google.com/speed/webp/  https://caniuse.com/#search=webp |
 
 ## Transpiling JavaScript
  
@@ -540,7 +541,7 @@
 | Text Compare Diff Online | https://text-compare.com |
 
 
-# Web VR / Virtual Reality
+## Web VR / Virtual Reality
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
