@@ -1,5 +1,5 @@
-# Front End Documentation 2018
-> This is a recopilation of information about all topics related with the Front End 
+# 🚀Front End Documentation 2018
+> 🔥 This is a recopilation of information about all topics related with the Front End 🔥
 
 
 #### For me this is the best WebSite to stay up to date => *https://uptodate.frontendrescue.org/*
@@ -19,6 +19,8 @@
 * [JavaScript](#javascript)
 * [JavaScript Testing](#javascript-testing)
 * [NodeJS](#nodejs)
+* [Monitoring apps and logging messages](#monitoring-apps-and-logging-messages)
+* [Progressive Web Apps / PWA](#progressive-web-apps--pwa)
 * [ReactJS & React Native](#reactjs--react-native)
 * [RxJs Reactive Programming with Javascript and Redux](#rxjs-reactive-programming-with-javascript-and-redux)
 * [Service Workers](#service-workers)
@@ -27,6 +29,8 @@
 * [Transpiling JavaScript](#transpiling-javaScript)
 * [UX & UI](#ux--ui)
 * [WebTools for Front-End](#webtools-for-front-end)
+* [Web VR / Virtual Reality](#web-vr--virtual-reality)
+
 
 ## Accessibility - A11Y
 
@@ -316,79 +320,11 @@
 | Advanced, production process manager for Node.js | http://pm2.keymetrics.io/ | 
 | A progressive Node.js Framework for scalable applications| https://nestjs.com/ |
 
-## RxJs Reactive Programming with Javascript and Redux
+## Monitoring apps and logging messages
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
-| Difference between Subject and Observable | https://javascript.tutorialhorizon.com/2017/03/23/rxjs-subject-vs-observable/ | 
-| Understanding RXJX | https://academind.com/learn/javascript/understanding-rxjs/ |
-| Angular ngrx store repo | https://github.com/ngrx/platform |
-| ngrx course + effects | https://ultimateangular.com/ngrx-store-effects |
-| A great article to understand the selectors in redux | https://toddmotto.com/ngrx-store-understanding-state-selectors |
-
-## ReactJS & React Native
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Examples for React in CodePen | https://medium.com/@sgroff04/how-i-learned-react-and-how-you-can-too-6714a48e984a#.ngks752s7 | 
-| React Advance course on Pluralsight | https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents | 
-| Handle immutables states on your JavaScript objects | https://facebook.github.io/immutable-js/ |
-| React Developer Tools for Chrome | https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi |
-| Redux Developer Tools for Chrome | https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=es |
-| How to test React Redux Components | http://ericnish.io/blog/how-to-unit-test-react-redux-components/ |
-| Redux mock store for Testing | http://arnaudbenard.com/redux-mock-store/ |
-| 10 tips for better redux apps | https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.yy7kbasb6 |
-| Optimizing React when is slow | https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba |
-| So far the best free React Course| https://reacttraining.com/online/react-fundamentals |
-
-
-## Service Workers
-
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Service Workers by Google | https://developers.google.com/web/fundamentals/getting-started/primers/service-workers | 
-| Service Workers by MDN | https://developer.mozilla.org/en/docs/Web/API/Service_Worker_API | 
-| Service Workers explanation | https://github.com/w3c/ServiceWorker/blob/master/explainer.md |
-| Service Workers explanation by Jake (Developer at Google) | https://jakearchibald.com/2014/using-serviceworker-today/ |
-| Oficial documentation for Service Workers | https://w3c.github.io/ServiceWorker/ |
-| Great documentation from Mozilla | https://serviceworke.rs/ |
-| Service Worker Pre Cache Google | https://github.com/GoogleChrome/sw-precache |
-| Service Worker Pre Cache webpack| https://www.npmjs.com/package/sw-precache-webpack-plugin |
-| Service Worker Polymer| https://elements.polymer-project.org/elements/platinum-sw |
-
-## Security
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| JSON Web Token are an open, undistry standar RFC-7519 | https://jwt.io/ | 
-| RFC 7519 specification JWT | https://tools.ietf.org/html/rfc7519 | 
-| JWT vs Cookies | https://ponyfoo.com/articles/json-web-tokens-vs-session-cookies |
-
-
-## Transpiling JavaScript
- 
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Google Traceur JavaScript.next-to-JavaScript-of-today | https://github.com/google/traceur-compiler | 
-| Babel is a JavaScript compiler Use next generation JavaScript, today  | https://babeljs.io/ | 
-| From ES5 to ES6  | http://lebab.io/try-it | 
-
-## WebGL
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Eye WebGL | http://www.vill.ee/eye/ | 
-| Experiences with WebGL | https://www.chromeexperiments.com/webgl | 
-| Library for WebGL | http://www.pixijs.com/ | 
-
-
-## Web Components
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| Components created by the community based on Polymer  | https://customelements.io/  | 
-
+| Great tool to log the error messages in the app | https://sentry.io/ | 
 
 ## Other Interesting Articles or Pages
 
@@ -417,6 +353,34 @@
 | JavaScript statistics and anothers topics with Front-End | https://stateofjs.com/2016/introduction/ |
 | Guide to success open source projects | https://opensource.guide/ |
 | Great article about Angular in 2017 | https://malcoded.com/posts/angular-top-2017 |
+| Timeline Web of Browsers | https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg |
+
+# Progressive Web Apps / PWA
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| WEB Real Time Communications | https://webrtc.github.io/samples/ |
+| PWA example | https://app.ft.com |
+| Web App install banner | https://developers.google.com/web/fundamentals/engage-and-retain/app-install-banners/ |
+| Web App Manifest | https://developers.google.com/web/fundamentals/engage-and-retain/web-app-manifest/ |
+| Added short tutorial for PWA with Angular CLI | https://medium.com/@amcdnl/service-worker-pwas-with-the-angular-cli-98a8f16d62d6 |
+| Is service worker ready? | https://jakearchibald.github.io/isserviceworkerready/ | 
+| PWA directory | https://pwa-directory.appspot.com/ |
+| Credential Management API | https://developers.google.com/web/fundamentals/security/credential-management/?hl=es |
+| Web Payments API | https://developers.google.com/web/fundamentals/payments/?hl=es |
+| Deep explanation for fetch API | https://davidwalsh.name/fetch |
+| Detail offline cache persistence | https://jakearchibald.com/2014/offline-cookbook/#cache-persistence |
+| Advance concepts about caching | https://afasterweb.com/2017/01/31/upgrading-your-service-worker-cache/ |
+| Dexie to work with IndexDB | http://dexie.org/ |
+| Responsive Design by Google | https://developers.google.com/web/fundamentals/design-and-ux/responsive/|
+| Responsive Images | https://css-tricks.com/responsive-images-css/ |
+| Understanding Background Sync | https://developers.google.com/web/updates/2015/12/background-sync |
+| Google Cloud Messaging Tool| https://developers.google.com/cloud-messaging/ |
+| Background Sync implementation | https://ponyfoo.com/articles/backgroundsync |
+| Firebase Functions as backend | https://firebase.google.com/docs/functions/ |
+| Geolocation API | https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation |
+| User Media API | https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia |
+| Collection of JavaScript Libraries for PWA | https://github.com/GoogleChrome/workbox |
 
 ## Public APIs
 
@@ -428,19 +392,56 @@
 | Get PlaceHolders and Mocked Data | https://jsonplaceholder.typicode.com/ |
 | Crunchbase API | https://data.crunchbase.com/ |
 | One of the biggest collection for Public Apis | https://github.com/toddmotto/public-apis |
- 
-## Monitoring apps and logging messages
+
+
+## RxJs Reactive Programming with Javascript and Redux
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
-| Great tool to log the error messages in the app | https://sentry.io/ | 
+| Difference between Subject and Observable | https://javascript.tutorialhorizon.com/2017/03/23/rxjs-subject-vs-observable/ | 
+| Understanding RXJX | https://academind.com/learn/javascript/understanding-rxjs/ |
+| Angular ngrx store repo | https://github.com/ngrx/platform |
+| ngrx course + effects | https://ultimateangular.com/ngrx-store-effects |
+| A great article to understand the selectors in redux | https://toddmotto.com/ngrx-store-understanding-state-selectors |
 
-## UX & UI
+## ReactJS & React Native
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
-| Dropbox OnBoard  | https://www.useronboard.com/how-dropbox-onboards-new-users/?slide=7 | 
-| All kind of resources for UI and UX | https://resourcecards.com/ |
+| Examples for React in CodePen | https://medium.com/@sgroff04/how-i-learned-react-and-how-you-can-too-6714a48e984a#.ngks752s7 | 
+| React Advance course on Pluralsight | https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents | 
+| Handle immutables states on your JavaScript objects | https://facebook.github.io/immutable-js/ |
+| React Developer Tools for Chrome | https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi |
+| Redux Developer Tools for Chrome | https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=es |
+| How to test React Redux Components | http://ericnish.io/blog/how-to-unit-test-react-redux-components/ |
+| Redux mock store for Testing | http://arnaudbenard.com/redux-mock-store/ |
+| 10 tips for better redux apps | https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44#.yy7kbasb6 |
+| Optimizing React when is slow | https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba |
+| So far the best free React Course| https://reacttraining.com/online/react-fundamentals |
+
+## Service Workers
+
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Service Workers by Google | https://developers.google.com/web/fundamentals/getting-started/primers/service-workers | 
+| Service Workers by MDN | https://developer.mozilla.org/en/docs/Web/API/Service_Worker_API | 
+| Service Workers explanation | https://github.com/w3c/ServiceWorker/blob/master/explainer.md |
+| Service Workers explanation by Jake (Developer at Google) | https://jakearchibald.com/2014/using-serviceworker-today/ |
+| Oficial documentation for Service Workers | https://w3c.github.io/ServiceWorker/ |
+| Great documentation from Mozilla | https://serviceworke.rs/ |
+| Service Worker Pre Cache Google | https://github.com/GoogleChrome/sw-precache |
+| Service Worker Pre Cache webpack| https://www.npmjs.com/package/sw-precache-webpack-plugin |
+| Service Worker Polymer| https://elements.polymer-project.org/elements/platinum-sw |
+
+## Security
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| JSON Web Token are an open, undistry standar RFC-7519 | https://jwt.io/ | 
+| RFC 7519 specification JWT | https://tools.ietf.org/html/rfc7519 | 
+| JWT vs Cookies | https://ponyfoo.com/articles/json-web-tokens-vs-session-cookies |
+
 
 ## Sketching / Wireframing / Mockup template / Images
 
@@ -453,6 +454,37 @@
 | IF you don't have images but you need a placeholder instead of, this is for you | http://placehold.it/ | 
 | Conversor images to SVG  | http://picsvg.com/sp/ | 
 | Optimize your images (Available for grunt)  | https://imageoptim.com/es.html | 
+
+## Transpiling JavaScript
+ 
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Google Traceur JavaScript.next-to-JavaScript-of-today | https://github.com/google/traceur-compiler | 
+| Babel is a JavaScript compiler Use next generation JavaScript, today  | https://babeljs.io/ | 
+| From ES5 to ES6  | http://lebab.io/try-it | 
+
+## UX & UI
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Dropbox OnBoard  | https://www.useronboard.com/how-dropbox-onboards-new-users/?slide=7 | 
+| All kind of resources for UI and UX | https://resourcecards.com/ |
+
+
+## WebGL
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Eye WebGL | http://www.vill.ee/eye/ | 
+| Experiences with WebGL | https://www.chromeexperiments.com/webgl | 
+| Library for WebGL | http://www.pixijs.com/ | 
+
+
+## Web Components
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Components created by the community based on Polymer  | https://customelements.io/  | 
 
 ## WebTools for Front-End
 
@@ -519,34 +551,3 @@
 | Build immersive web VR using Vizor | https://vizor.io/ |
 | glTF GL Transmission Format for 3D assets| https://github.com/KhronosGroup/glTF/tree/2.0 |
 | Added link to threejs page JavaScript 3D | https://threejs.org/ |
-
-
-# Progressive Web Apps / PWA
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| WEB Real Time Communications | https://webrtc.github.io/samples/ |
-| PWA example | https://app.ft.com |
-| Web App install banner | https://developers.google.com/web/fundamentals/engage-and-retain/app-install-banners/ |
-| Web App Manifest | https://developers.google.com/web/fundamentals/engage-and-retain/web-app-manifest/ |
-| Added short tutorial for PWA with Angular CLI | https://medium.com/@amcdnl/service-worker-pwas-with-the-angular-cli-98a8f16d62d6 |
-| Is service worker ready? | https://jakearchibald.github.io/isserviceworkerready/ | 
-| PWA directory | https://pwa-directory.appspot.com/ |
-| Credential Management API | https://developers.google.com/web/fundamentals/security/credential-management/?hl=es |
-| Web Payments API | https://developers.google.com/web/fundamentals/payments/?hl=es |
-| Deep explanation for fetch API | https://davidwalsh.name/fetch |
-| Detail offline cache persistence | https://jakearchibald.com/2014/offline-cookbook/#cache-persistence |
-| Advance concepts about caching | https://afasterweb.com/2017/01/31/upgrading-your-service-worker-cache/ |
-| Dexie to work with IndexDB | http://dexie.org/ |
-| Responsive Design by Google | https://developers.google.com/web/fundamentals/design-and-ux/responsive/|
-| Responsive Images | https://css-tricks.com/responsive-images-css/ |
-| Understanding Background Sync | https://developers.google.com/web/updates/2015/12/background-sync |
-| Google Cloud Messaging Tool| https://developers.google.com/cloud-messaging/ |
-| Background Sync implementation | https://ponyfoo.com/articles/backgroundsync |
-| Firebase Functions as backend | https://firebase.google.com/docs/functions/ |
-| Geolocation API | https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation |
-| User Media API | https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia |
-| Collection of JavaScript Libraries for PWA | https://github.com/GoogleChrome/workbox |
-
-
-
