@@ -183,6 +183,7 @@
 | Brand Colors Palette | https://brandcolors.net/ |
 | Images based on color | https://pixnio.com/images/40a0e0 |
 | Explained Flex with GIFs | https://medium.freecodecamp.org/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053 |
+| Atomic Design Approach | http://atomicdesign.bradfrost.com/ |
 
 ## Challenges online for JavaScript
 
