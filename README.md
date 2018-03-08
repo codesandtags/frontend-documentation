@@ -184,6 +184,7 @@
 | Images based on color | https://pixnio.com/images/40a0e0 |
 | Explained Flex with GIFs | https://medium.freecodecamp.org/even-more-about-how-flexbox-works-explained-in-big-colorful-animated-gifs-a5a74812b053 |
 | Atomic Design Approach | http://atomicdesign.bradfrost.com/ |
+| How to handle fallbacks and compatiblity in CSS| https://modernweb.com/using-css-fallback-properties-for-better-cross-browser-compatibility/ |
 
 ## Challenges online for JavaScript
 
