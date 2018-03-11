@@ -8,7 +8,12 @@
 # Index
 * [Angular in general & Angular 5+](#angular-in-general--angular-5--)
 * [Accessibility - A11Y](#accessibility---a11y)
+* [Artificial Intelligence / AGI](#artificial-intelligence--agi)
+* [Awesome and mad projects on JavaScript 😱](#awesome-and-mad-projects-on-javascript-)
+* [Automation and Task](#automation-and-task)
 * [BackBoneJS](#backbonejs)
+* [Books](#books)
+* [Bundlers (Webpack)](#bundlers-webpack)
 * [Challenges online for JavaScript](#challenges-online-for-javascript)
 * [CSS3 & SCSS](#css3--scss)
 * [Databases](#databases)
@@ -82,7 +87,7 @@
 | ------------- |:-------------:| 
 | Animation with SVG | https://css-tricks.com/guide-svg-animations-smil/ |
 
-# Artificial Intelligence / AGI
+## Artificial Intelligence / AGI
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
@@ -120,7 +125,7 @@
 | Snipets and examples with BackBoneJS | https://miguelmota.com/blog/getting-started-with-backbonejs/ | 
 | BackBoneJS BoilerPlate | https://github.com/tbranyen/backbone-boilerplate.git  | 
 
-# Books 
+## Books 
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
