@@ -17,6 +17,7 @@
 * [Challenges online for JavaScript](#challenges-online-for-javascript)
 * [CSS3 & SCSS](#css3--scss)
 * [Databases](#databases)
+* [Data Visualization D3](#data-visualization--d3)
 * [EmberJS](#emberjs)
 * [Functional Programming in JavaScript](#functional-programming-in-javascript)
 * [Git](#git)
