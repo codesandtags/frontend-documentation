@@ -19,11 +19,13 @@
 * [Databases](#databases)
 * [Data Visualization D3](#data-visualization--d3)
 * [EmberJS](#emberjs)
+* [Freelance Websites](#freelance-webs-or-jobs-search-pages-for-tech)
 * [Functional Programming in JavaScript](#functional-programming-in-javascript)
 * [Git](#git)
 * [HTML](#html5)
 * [JavaScript](#javascript)
 * [JavaScript Testing](#javascript-testing)
+* [Jekyll Templates](#jekyll-templates)
 * [NodeJS](#nodejs)
 * [Monitoring apps and logging messages](#monitoring-apps-and-logging-messages)
 * [Progressive Web Apps / PWA](#progressive-web-apps--pwa)
@@ -219,7 +221,7 @@
 | ------------- |:-------------:| 
 | Mongo GUI Tools | https://scalegrid.io/blog/which-is-the-best-mongodb-gui/ | 
 
-# Data Visualization / D3
+## Data Visualization / D3
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
@@ -312,7 +314,7 @@
 | Ava configuration | https://hackernoon.com/ava-low-config-testing-for-javascript-71bd2d958745#.99ro16qxe |
 | Serenity JS | http://serenity-js.org/ |
 
-# Jekyll Templates
+## Jekyll Templates
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
@@ -364,7 +366,7 @@
 | Great article about Angular in 2017 | https://malcoded.com/posts/angular-top-2017 |
 | Timeline Web of Browsers | https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg |
 
-# Progressive Web Apps / PWA
+## Progressive Web Apps / PWA
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
