@@ -196,6 +196,7 @@
 | How to handle fallbacks and compatiblity in CSS| https://modernweb.com/using-css-fallback-properties-for-better-cross-browser-compatibility/ |
 | Atomic Design Book Online| http://bradfrost.com/blog/post/atomic-web-design/ |
 | Atomic Design, why we should use it? | https://platzi.com/blog/por-que-atomic-design/ |
+| Style Guides patterns | http://styleguides.io/ |
 
 ## Challenges online for JavaScript
 
