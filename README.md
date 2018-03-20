@@ -51,6 +51,7 @@
 | WAI - ARIA Patterns | https://www.w3.org/TR/wai-aria-practices/ |
 | Plugin for Developer tools in Audits | https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb |
 | ARIA roles | https://www.w3.org/TR/wai-aria/roles#abstract_roles |
+| Accessibility article | http://adrianroselli.com/2016/03/be-wary-of-accessibility-guarantees-from-vendors.html |
 
 ## Angular in general & Angular 5+
 
