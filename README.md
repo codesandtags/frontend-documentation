@@ -106,6 +106,7 @@
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Torrents on the Web  | https://webtorrent.io/  | 
+| HyperJS plugins | https://github.com/bnb/awesome-hyper |
 
 ## Automation and Task
 
