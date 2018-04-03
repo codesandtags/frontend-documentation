@@ -555,7 +555,7 @@
 | Draw and create diagrams online | https://www.draw.io/ |
 | A lot of resources for web | http://codingheroes.io/resources/ |
 | Text Compare Diff Online | https://text-compare.com |
-
+| Homebrew Formulas | http://brewformulas.org/|
 
 ## Web VR / Virtual Reality
 
