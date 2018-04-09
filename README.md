@@ -556,6 +556,7 @@
 | A lot of resources for web | http://codingheroes.io/resources/ |
 | Text Compare Diff Online | https://text-compare.com |
 | Homebrew Formulas | http://brewformulas.org/|
+| Markdown online | https://dillinger.io/ |
 
 ## Web VR / Virtual Reality
 
