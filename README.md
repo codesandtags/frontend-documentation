@@ -557,6 +557,8 @@
 | Text Compare Diff Online | https://text-compare.com |
 | Homebrew Formulas | http://brewformulas.org/|
 | Markdown online | https://dillinger.io/ |
+| jsPDF library| https://parall.ax/products/jspdf |
+| pdf.js library by Mozilla | https://mozilla.github.io/pdf.js/getting_started/ |
 
 ## Web VR / Virtual Reality
 
