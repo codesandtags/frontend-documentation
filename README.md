@@ -85,6 +85,7 @@
 | Why Angular has chosen Typescript | https://vsavkin.com/writing-angular-2-in-typescript-1fa77c78d8e8 |
 | Added link for Unit Testing in Angular + Karma + Jasmine | https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/ |
 | Write Angular apps live & online | https://stackblitz.com |
+| NG Conf 2018 Talks | https://nitayneeman.com/posts/all-talks-from-ng-conf-2018/ |
 
 ## Animation on HTML + CSS + SVG
 
