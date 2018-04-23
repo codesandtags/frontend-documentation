@@ -561,6 +561,7 @@
 | jsPDF library| https://parall.ax/products/jspdf |
 | pdf.js library by Mozilla | https://mozilla.github.io/pdf.js/getting_started/ |
 | Markdown Online | https://stackedit.io |
+| Quotes Fancy with images | https://quotefancy.com/ |
 
 ## Web VR / Virtual Reality
 
