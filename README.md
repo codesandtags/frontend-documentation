@@ -86,6 +86,7 @@
 | Added link for Unit Testing in Angular + Karma + Jasmine | https://codecraft.tv/courses/angular/unit-testing/jasmine-and-karma/ |
 | Write Angular apps live & online | https://stackblitz.com |
 | NG Conf 2018 Talks | https://nitayneeman.com/posts/all-talks-from-ng-conf-2018/ |
+| Understanding Angular Material | https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d165a9d24d1 |
 
 ## Animation on HTML + CSS + SVG
 
