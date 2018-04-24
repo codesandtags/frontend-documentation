@@ -140,6 +140,7 @@
 | ------------- |:-------------:| 
 | Bookzz  | http://es.bookzz.org/  | 
 | Safari Books  | https://www.safaribooksonline.com/  | 
+| Resilient Web Design | https://resilientwebdesign.com/ |
 
 
 ## Bundlers (Webpack)
