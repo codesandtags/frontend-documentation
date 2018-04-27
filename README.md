@@ -4,9 +4,8 @@
 
 #### For me this is the best WebSite to stay up to date => *https://uptodate.frontendrescue.org/*
 
-
 # Index
-* [Angular in general & Angular 5+](#angular-in-general--angular-5--)
+* [Angular in general & Angular 5+](#angular-in-general--angular-5)
 * [Accessibility - A11Y](#accessibility---a11y)
 * [Artificial Intelligence / AGI](#artificial-intelligence--agi)
 * [Awesome and mad projects on JavaScript 😱](#awesome-and-mad-projects-on-javascript-)
@@ -87,6 +86,10 @@
 | Write Angular apps live & online | https://stackblitz.com |
 | NG Conf 2018 Talks | https://nitayneeman.com/posts/all-talks-from-ng-conf-2018/ |
 | Understanding Angular Material | https://medium.com/@tomastrajan/the-complete-guide-to-angular-material-themes-4d165a9d24d1 |
+| Scalable Angular Architecture | https://blog.strongbrew.io/A-scalable-angular2-architecture/ |
+| Scalable Angular Architecture | https://bulldogjob.pl/articles/539-scalable-angular-application-architecture |
+| Scalable JavaScript Architecture | https://es.slideshare.net/nzakas/scalable-javascript-application-architecture/108 |
+| Micro Front-Ends approach | https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16 |
 
 ## Animation on HTML + CSS + SVG
 
