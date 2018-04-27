@@ -349,6 +349,9 @@
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Great tool to log the error messages in the app | https://sentry.io/ | 
+| Great tool for Monitoring for performance apps | https://gtmetrix.com/ |
+| Audits Performance apps |https://developers.google.com/web/tools/lighthouse/?hl=es |
+| Y Slow Rules | http://yslow.es/|
 
 ## Other Interesting Articles or Pages
 
