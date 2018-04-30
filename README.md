@@ -572,6 +572,7 @@
 | pdf.js library by Mozilla | https://mozilla.github.io/pdf.js/getting_started/ |
 | Markdown Online | https://stackedit.io |
 | Quotes Fancy with images | https://quotefancy.com/ |
+| Install Hooks in the project | https://www.atlassian.com/git/tutorials/git-hooks |
 
 ## Web VR / Virtual Reality
 
