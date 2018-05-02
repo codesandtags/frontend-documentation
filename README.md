@@ -114,6 +114,7 @@
 | Torrents on the Web  | https://webtorrent.io/  | 
 | HyperJS plugins | https://github.com/bnb/awesome-hyper |
 | Micro Front Ends| https://micro-frontends.org/ |
+| Picture with CSS and multiple layers | http://diana-adrianne.com/purecss-francine/ |
 
 ## Automation and Task
 
