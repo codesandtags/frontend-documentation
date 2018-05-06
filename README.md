@@ -90,6 +90,7 @@
 | Scalable Angular Architecture | https://bulldogjob.pl/articles/539-scalable-angular-application-architecture |
 | Scalable JavaScript Architecture | https://es.slideshare.net/nzakas/scalable-javascript-application-architecture/108 |
 | Micro Front-Ends approach | https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16 |
+| Angular Universal + Ngrx | https://blog.upstate.agency/setting-up-angular-universal-with-ngrx-30d97102be4d |
 
 ## Animation on HTML + CSS + SVG
 
