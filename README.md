@@ -576,6 +576,7 @@
 | Markdown Online | https://stackedit.io |
 | Quotes Fancy with images | https://quotefancy.com/ |
 | Install Hooks in the project | https://www.atlassian.com/git/tutorials/git-hooks |
+| Build end-points using Front-End | https://hapijs.com/ |
 
 ## Web VR / Virtual Reality
 
