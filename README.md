@@ -91,6 +91,7 @@
 | Scalable JavaScript Architecture | https://es.slideshare.net/nzakas/scalable-javascript-application-architecture/108 |
 | Micro Front-Ends approach | https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16 |
 | Angular Universal + Ngrx | https://blog.upstate.agency/setting-up-angular-universal-with-ngrx-30d97102be4d |
+| Translating Angular Apps with ngx-translate| https://www.codeandweb.com/babeledit/tutorials/how-to-translate-your-angular-app-with-ngx-translate |
 
 ## Animation on HTML + CSS + SVG
 
