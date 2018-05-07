@@ -92,6 +92,7 @@
 | Micro Front-Ends approach | https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16 |
 | Angular Universal + Ngrx | https://blog.upstate.agency/setting-up-angular-universal-with-ngrx-30d97102be4d |
 | Translating Angular Apps with ngx-translate| https://www.codeandweb.com/babeledit/tutorials/how-to-translate-your-angular-app-with-ngx-translate |
+| Setting Angular with ngx-translate | https://medium.com/letsboot/translate-angular-4-apps-with-ngx-translate-83302fb6c10d |
 
 ## Animation on HTML + CSS + SVG
 
