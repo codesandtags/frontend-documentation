@@ -93,6 +93,7 @@
 | Angular Universal + Ngrx | https://blog.upstate.agency/setting-up-angular-universal-with-ngrx-30d97102be4d |
 | Translating Angular Apps with ngx-translate| https://www.codeandweb.com/babeledit/tutorials/how-to-translate-your-angular-app-with-ngx-translate |
 | Setting Angular with ngx-translate | https://medium.com/letsboot/translate-angular-4-apps-with-ngx-translate-83302fb6c10d |
+| Ivy explanation | https://herringtondarkholme.github.io/2018/02/19/angular-ivy/ |
 
 ## Animation on HTML + CSS + SVG
 
