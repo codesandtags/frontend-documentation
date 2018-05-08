@@ -94,6 +94,7 @@
 | Translating Angular Apps with ngx-translate| https://www.codeandweb.com/babeledit/tutorials/how-to-translate-your-angular-app-with-ngx-translate |
 | Setting Angular with ngx-translate | https://medium.com/letsboot/translate-angular-4-apps-with-ngx-translate-83302fb6c10d |
 | Ivy explanation | https://herringtondarkholme.github.io/2018/02/19/angular-ivy/ |
+| Understanding Ivy Renderer | https://medium.com/@vyakymenko/understanding-angular-ivy-renderer-c9d07fc01b76 |
 
 ## Animation on HTML + CSS + SVG
 
