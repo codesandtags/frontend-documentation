@@ -96,6 +96,7 @@
 | Ivy explanation | https://herringtondarkholme.github.io/2018/02/19/angular-ivy/ |
 | Understanding Ivy Renderer | https://medium.com/@vyakymenko/understanding-angular-ivy-renderer-c9d07fc01b76 |
 | Deploying Angular app in nginx with docker | https://youtu.be/1jzztM7qJRY |
+| Installing nginx with homebrew| https://coderwall.com/p/dgwwuq/installing-nginx-in-mac-os-x-maverick-with-homebrew |
 
 ## Animation on HTML + CSS + SVG
 
