@@ -584,6 +584,8 @@
 | Quotes Fancy with images | https://quotefancy.com/ |
 | Install Hooks in the project | https://www.atlassian.com/git/tutorials/git-hooks |
 | Build end-points using Front-End | https://hapijs.com/ |
+| Youtube videos to Mp3 | http://mp3musicsongs.com/en/download/Q73gUUr8Zlw/terminator-2-hasta-la-vista-baby.html |
+| Sounds in MP3 | https://www.albinoblacksheep.com/audio/mp3/300_This_is_Sparta.mp3 |
 
 ## Web VR / Virtual Reality
 
