@@ -336,11 +336,13 @@
 | Ava configuration | https://hackernoon.com/ava-low-config-testing-for-javascript-71bd2d958745#.99ro16qxe |
 | Serenity JS | http://serenity-js.org/ |
 
-## Jekyll Templates
+## Static websites generators
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Ramarulandac portfolio based on Indigo Jekyll Template | https://github.com/ramarulandac/ramarulandac.github.io |
+| Jekyll | https://jekyllrb.com/ |
+| Hugo | http://gohugo.io/ |
 
 ## NodeJS
 
