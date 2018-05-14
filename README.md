@@ -227,6 +227,7 @@
 | Formulas for combinatory | http://www.vitutor.com/pro/1/a_f.html | 
 | HackerRank one of the best pages for challenges | https://www.hackerrank.com | 
 | Exercism | http://exercism.io/ |
+| JavaScript Algorithms | https://mgechev.github.io/javascript-algorithms/ |
 
 ## Crowdfunding sites to achieve the ideas and creative projects.
 
