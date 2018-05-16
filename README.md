@@ -97,6 +97,8 @@
 | Understanding Ivy Renderer | https://medium.com/@vyakymenko/understanding-angular-ivy-renderer-c9d07fc01b76 |
 | Deploying Angular app in nginx with docker | https://youtu.be/1jzztM7qJRY |
 | Installing nginx with homebrew| https://coderwall.com/p/dgwwuq/installing-nginx-in-mac-os-x-maverick-with-homebrew |
+| Performance on Angular Apps| https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e |
+| Performance on Angular Apps 2 | https://netbasal.com/optimizing-the-performance-of-your-angular-application-f222f1c16354 |
 
 ## Animation on HTML + CSS + SVG
 
