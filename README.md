@@ -99,6 +99,7 @@
 | Installing nginx with homebrew| https://coderwall.com/p/dgwwuq/installing-nginx-in-mac-os-x-maverick-with-homebrew |
 | Performance on Angular Apps| https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e |
 | Performance on Angular Apps 2 | https://netbasal.com/optimizing-the-performance-of-your-angular-application-f222f1c16354 |
+| Added authentication with Angular and Ngrx | http://mherman.org/blog/2018/04/17/authentication-in-angular-with-ngrx/#.WvzoLtMvzOQ |
 
 ## Animation on HTML + CSS + SVG
 
