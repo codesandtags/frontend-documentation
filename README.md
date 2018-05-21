@@ -100,6 +100,8 @@
 | Performance on Angular Apps| https://blog.angular.io/3-tips-for-angular-runtime-performance-from-the-real-world-d467fbc8f66e |
 | Performance on Angular Apps 2 | https://netbasal.com/optimizing-the-performance-of-your-angular-application-f222f1c16354 |
 | Added authentication with Angular and Ngrx | http://mherman.org/blog/2018/04/17/authentication-in-angular-with-ngrx/#.WvzoLtMvzOQ |
+| Angular 6 complete project and beautiful UI | https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e |
+| Angular 6 summary features | https://medium.freecodecamp.org/angular-what-is-the-new-briefly-e6837348dd3a |
 
 ## Animation on HTML + CSS + SVG
 
