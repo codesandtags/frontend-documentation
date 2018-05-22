@@ -119,7 +119,7 @@
 | Tensor Flow in Action :D| https://medium.freecodecamp.com/big-picture-machine-learning-classifying-text-with-neural-networks-and-tensorflow-d94036ac2274 | 
 | Artificial Intelligence Experiments with Google | https://aiexperiments.withgoogle.com/ |
 
-## Awesome and mad projects on JavaScript 😱
+## Awesome and mad projects on JavaScript / CSS 😱
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
@@ -127,6 +127,7 @@
 | HyperJS plugins | https://github.com/bnb/awesome-hyper |
 | Micro Front Ends| https://micro-frontends.org/ |
 | Picture with CSS and multiple layers | http://diana-adrianne.com/purecss-francine/ |
+| Mario Kart only with CSS | https://codeburst.io/mario-kart-css-7572bd2ce608 |
 
 ## Automation and Task
 
@@ -222,6 +223,8 @@
 | Style Guides patterns | http://styleguides.io/ |
 | One execelent course for CSS Grid | https://cssgrid.io/ |
 | SASS to CSS online | https://www.sassmeister.com/ |
+| CSS Animation Course | https://courses.cssanimation.rocks/ |
+| CSS Fundaments Animation Course | https://www.sitepoint.com/premium/courses/animating-with-css-2941 |
 
 ## Challenges online for JavaScript
 
