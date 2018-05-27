@@ -103,6 +103,7 @@
 | Angular 6 complete project and beautiful UI | https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e |
 | Angular 6 summary features | https://medium.freecodecamp.org/angular-what-is-the-new-briefly-e6837348dd3a |
 | Angular testing great tutorial | https://blog.realworldfullstack.io/real-world-angular-part-9-unit-testing-c62ba20b1d93 |
+| Nice courses to review :D rxjs, angular, vue| https://coursetro.com/courses |
 
 ## Animation on HTML + CSS + SVG
 
