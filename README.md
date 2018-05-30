@@ -338,6 +338,7 @@
 | ECMASCRIPT 2017 Draft| https://tc39.github.io/ecma262/#sec-intro |
 | Generate massive amounts of fake data in Node.js and the browser | https://github.com/marak/Faker.js/ |
 | TSLint rules for TypeScript | https://palantir.github.io/tslint/usage/rule-flags/ |
+| Tool for manage multiple projects with packages | https://github.com/lerna/lerna |
 
 ## JavaScript Testing
 
