@@ -240,6 +240,8 @@
 | HackerRank one of the best pages for challenges | https://www.hackerrank.com | 
 | Exercism | http://exercism.io/ |
 | JavaScript Algorithms | https://mgechev.github.io/javascript-algorithms/ |
+| Leet Code | https://leetcode.com/ |
+| JavaScript Problem and solutions | https://github.com/jeantimex/javascript-problems-and-solutions |
 
 ## Crowdfunding sites to achieve the ideas and creative projects.
 
@@ -278,6 +280,7 @@
 | UpWork  | https://www.upwork.com  | 
 | Crossover  | https://www.crossover.com/#we-build-worldclass-teams  | 
 | Dice | http://www.dice.com/ |
+| CodementorX | https://www.codementor.io/freelancer/apply |
 
 ## Functional Programming in JavaScript
 
