@@ -227,6 +227,7 @@
 | SASS to CSS online | https://www.sassmeister.com/ |
 | CSS Animation Course | https://courses.cssanimation.rocks/ |
 | CSS Fundaments Animation Course | https://www.sitepoint.com/premium/courses/animating-with-css-2941 |
+| Playground for CSS in live | http://dabblet.com/help/index.html |
 
 ## Challenges online for JavaScript
 
