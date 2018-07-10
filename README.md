@@ -612,6 +612,7 @@
 | Web XML Formatter | http://www.webtoolkitonline.com/xml-formatter.html |
 | Another JSON Formatter and converter tool :+1: awesome! | https://jsonformatter.org/ | 
 | Tool to compare content online and resolve conflicts | http://www.mergely.com/ |
+| Nice tool to create dynamic interfaces based on JSON objects | http://www.jsontots.com/ |
 
 ## Web VR / Virtual Reality
 
