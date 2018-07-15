@@ -439,6 +439,7 @@
 | Collection of JavaScript Libraries for PWA | https://github.com/GoogleChrome/workbox |
 | Browser Storage Limits | https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Browser_storage_limits_and_eviction_criteria |
 | Indexed DB Storage on Chrome | https://developer.chrome.com/apps/offline_storage#temporary |
+| App Manifest Generator Online | https://app-manifest.firebaseapp.com/ |
 
 ## Public APIs
 
