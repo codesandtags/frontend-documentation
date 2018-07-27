@@ -529,7 +529,10 @@
 | ------------- |:-------------:| 
 | Dropbox OnBoard  | https://www.useronboard.com/how-dropbox-onboards-new-users/?slide=7 | 
 | All kind of resources for UI and UX | https://resourcecards.com/ |
-
+| UX style guides pattern | https://ux.mailchimp.com/patterns/ |
+| UI patterns | http://ui-patterns.com/ |
+| Designs to get inspiration and examples | http://designsnips.com/ |
+| Patterns | http://patterntap.com/library |
 
 ## WebGL
 
