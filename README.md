@@ -411,6 +411,15 @@
 | Great article about Angular in 2017 | https://malcoded.com/posts/angular-top-2017 |
 | Timeline Web of Browsers | https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg |
 
+
+## Performance
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Article to improve the performance | https://medium.com/grano/optimizing-angular-application-load-performance-6bb796b1a7c1 |
+
+
+
 ## Progressive Web Apps / PWA
 
 | Description   | URL           | 
