@@ -228,6 +228,7 @@
 | CSS Animation Course | https://courses.cssanimation.rocks/ |
 | CSS Fundaments Animation Course | https://www.sitepoint.com/premium/courses/animating-with-css-2941 |
 | Playground for CSS in live | http://dabblet.com/help/index.html |
+| Great explanation for EM vs REM and their usages | https://zellwk.com/blog/rem-vs-em/ |
 
 ## Challenges online for JavaScript
 
