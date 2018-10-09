@@ -418,6 +418,8 @@
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Article to improve the performance | https://medium.com/grano/optimizing-angular-application-load-performance-6bb796b1a7c1 |
+| Guide to improve the performance with images | https://images.guide/ |
+| Nice talk about performance in the Google I/O 2018 | https://www.youtube.com/watch?v=Mv-l3-tJgGk |
 
 
 
