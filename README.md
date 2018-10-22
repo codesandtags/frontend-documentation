@@ -631,6 +631,8 @@
 | Nice tool to create dynamic interfaces based on JSON objects | http://www.jsontots.com/ |
 | Credit Cards Generator | https://names.igopaygo.com/es/tarjetas-de-credito |
 | Http Status Codes documentation and examples | https://httpstatuses.com/ |
+| Speed reading | http://spritzlet.com/ |
+| Speed reading | http://www.readsy.co/ |
 
 ## Web VR / Virtual Reality
 
