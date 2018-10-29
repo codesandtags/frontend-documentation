@@ -421,6 +421,8 @@
 | Guide to improve the performance with images | https://images.guide/ |
 | Nice talk about performance in the Google I/O 2018 | https://www.youtube.com/watch?v=Mv-l3-tJgGk |
 | Gzip compresion in apache| https://kinsta.com/es/base-de-conocimiento/habilitar-compresion-gzip/ |
+| Tool to check the Web Compression | https://checkgzipcompression.com/ |
+| Tool to check the Rich Information | https://richpreview.com/ |
 
 
 ## Progressive Web Apps / PWA
