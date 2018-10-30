@@ -528,6 +528,7 @@
 | Conversor images to SVG  | http://picsvg.com/sp/ | 
 | Optimize your images (Available for grunt)  | https://imageoptim.com/es.html | 
 | New Format for Images Webp | https://developers.google.com/speed/webp/  https://caniuse.com/#search=webp |
+| Free resources images for web sites | https://www.freepik.com/ |
 
 ## Transpiling JavaScript
  
