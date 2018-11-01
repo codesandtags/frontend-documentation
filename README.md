@@ -229,6 +229,7 @@
 | CSS Fundaments Animation Course | https://www.sitepoint.com/premium/courses/animating-with-css-2941 |
 | Playground for CSS in live | http://dabblet.com/help/index.html |
 | Great explanation for EM vs REM and their usages | https://zellwk.com/blog/rem-vs-em/ |
+||CSS3 Background Pattrns  http://lea.verou.me/css3patterns/# |
 
 ## Challenges online for JavaScript
 
