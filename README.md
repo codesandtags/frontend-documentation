@@ -104,6 +104,7 @@
 | Angular 6 summary features | https://medium.freecodecamp.org/angular-what-is-the-new-briefly-e6837348dd3a |
 | Angular testing great tutorial | https://blog.realworldfullstack.io/real-world-angular-part-9-unit-testing-c62ba20b1d93 |
 | Nice courses to review :D rxjs, angular, vue| https://coursetro.com/courses |
+| Ingrate Angular + Google Analytics | https://codeburst.io/using-google-analytics-with-angular-25c93bffaa18 |
 
 ## Animation on HTML + CSS + SVG
 
