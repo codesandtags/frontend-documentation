@@ -231,6 +231,7 @@
 | Playground for CSS in live | http://dabblet.com/help/index.html |
 | Great explanation for EM vs REM and their usages | https://zellwk.com/blog/rem-vs-em/ |
 ||CSS3 Background Pattrns  http://lea.verou.me/css3patterns/# |
+| Common errors with BEM | https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/|
 
 ## Challenges online for JavaScript
 
