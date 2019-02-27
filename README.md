@@ -1,4 +1,4 @@
-# Front End Documentation 2018 🚀
+# Front End Documentation 2019 🚀
 > 🔥 This is a recopilation of information about all topics related with the Front End 🔥
 
 
@@ -348,6 +348,7 @@
 | Generate massive amounts of fake data in Node.js and the browser | https://github.com/marak/Faker.js/ |
 | TSLint rules for TypeScript | https://palantir.github.io/tslint/usage/rule-flags/ |
 | Tool for manage multiple projects with packages | https://github.com/lerna/lerna |
+| Library to use Promises | http://bluebirdjs.com/docs/api-reference.html |
 
 ## JavaScript Testing
 
