@@ -537,6 +537,7 @@
 | New Format for Images Webp | https://developers.google.com/speed/webp/  https://caniuse.com/#search=webp |
 | Free resources images for web sites | https://www.freepik.com/ |
 | Images placeholder random / Unsplash API | https://picsum.photos/ |
+| Set of icons free | http://linea.io/ |
 
 ## Transpiling JavaScript
  
