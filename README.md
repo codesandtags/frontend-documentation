@@ -236,6 +236,7 @@
 | Airbnb Style Guidelines | https://github.com/airbnb/css |
 | OOCSS Guide | https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/ |
 | All timing examples with CSS transitions | https://easings.net/ |
+| Cubic Bezier transitions testing online | http://cubic-bezier.com/#.17,.67,.83,.67 |
 
 ## Challenges online for JavaScript
 
