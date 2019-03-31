@@ -235,6 +235,7 @@
 | CSS good styles guidelines | https://github.com/chris-pearce/css-guidelines#state-hooks |
 | Airbnb Style Guidelines | https://github.com/airbnb/css |
 | OOCSS Guide | https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/ |
+| All timing examples with CSS transitions | https://easings.net/ |
 
 ## Challenges online for JavaScript
 
