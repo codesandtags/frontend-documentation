@@ -353,6 +353,7 @@
 | TSLint rules for TypeScript | https://palantir.github.io/tslint/usage/rule-flags/ |
 | Tool for manage multiple projects with packages | https://github.com/lerna/lerna |
 | Library to use Promises | http://bluebirdjs.com/docs/api-reference.html |
+| Library to create Intros in the Web Sites as onboarding processs| https://introjs.com/ |
 
 ## JavaScript Testing
 
