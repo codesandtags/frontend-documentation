@@ -648,6 +648,7 @@
 | Http Status Codes documentation and examples | https://httpstatuses.com/ |
 | Speed reading | http://spritzlet.com/ |
 | Speed reading | http://www.readsy.co/ |
+| Statistics for Browsers and Internet | http://gs.statcounter.com/ |
 
 ## Web VR / Virtual Reality
 
