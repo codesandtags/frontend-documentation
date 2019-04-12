@@ -649,6 +649,7 @@
 | Speed reading | http://spritzlet.com/ |
 | Speed reading | http://www.readsy.co/ |
 | Statistics for Browsers and Internet | http://gs.statcounter.com/ |
+| Retrieve the Schema Colors | https://www.schemecolor.com/javascript-logo-colors.php |
 
 ## Web VR / Virtual Reality
 
