@@ -107,6 +107,7 @@
 | Ingrate Angular + Google Analytics | https://codeburst.io/using-google-analytics-with-angular-25c93bffaa18 |
 | Host listener good practices | https://medium.com/claritydesignsystem/angular-pseudo-events-d4e7f89247ee |
 | Angular Routing pattern | https://medium.com/@shairez/angular-routing-a-better-pattern-for-large-scale-apps-f2890c952a18 |
+| Angular navigation query params | https://blog.angularindepth.com/refresh-current-route-in-angular-512a19d58f6e |
 
 ## Animation on HTML + CSS + SVG
 
