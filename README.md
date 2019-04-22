@@ -357,6 +357,7 @@
 | Tool for manage multiple projects with packages | https://github.com/lerna/lerna |
 | Library to use Promises | http://bluebirdjs.com/docs/api-reference.html |
 | Library to create Intros in the Web Sites as onboarding processs| https://introjs.com/ |
+| AST explorer to understand how works JavaScript | https://astexplorer.net/|
 
 ## JavaScript Testing
 
