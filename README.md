@@ -664,6 +664,7 @@
 | Statistics for Browsers and Internet | http://gs.statcounter.com/ |
 | Retrieve the Schema Colors | https://www.schemecolor.com/javascript-logo-colors.php |
 | Shields for Git projects | https://shields.io/category/version|
+| Http Archive State of Web |https://httparchive.org/reports/state-of-the-web|
 
 ## Web VR / Virtual Reality
 
