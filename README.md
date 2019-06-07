@@ -108,6 +108,7 @@
 | Host listener good practices | https://medium.com/claritydesignsystem/angular-pseudo-events-d4e7f89247ee |
 | Angular Routing pattern | https://medium.com/@shairez/angular-routing-a-better-pattern-for-large-scale-apps-f2890c952a18 |
 | Angular navigation query params | https://blog.angularindepth.com/refresh-current-route-in-angular-512a19d58f6e |
+| Deploy one build with multiple environment files | https://www.jvandemo.com/how-to-use-environment-variables-to-configure-your-angular-application-without-a-rebuild/ |
 
 ## Animation on HTML + CSS + SVG
 
