@@ -671,6 +671,15 @@
 | A great tool to understand the atomic design system | https://patternlab.io/ |
 | Microsoft Design System - Controls | https://developer.microsoft.com/en-us/fabric/#/|
 
+
+## Micro Front-End
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| One Framework to handle the micro front-ends | https://single-spa.js.org/  |
+
+
+
 ## Web VR / Virtual Reality
 
 | Description   | URL           | 
