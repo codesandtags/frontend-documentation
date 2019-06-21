@@ -562,6 +562,7 @@
 | From ES5 to ES6  | http://lebab.io/try-it | 
 | Online IDE / Compiler / Interpreter | https://repl.it/languages |
 | Creating a Typescript library with NPM | https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c |
+| Beautiful and useful tutorial for Webpack | https://www.valentinog.com/blog/webpack/ |
 
 
 ## UX & UI
