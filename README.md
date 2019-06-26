@@ -672,6 +672,7 @@
 | Browser network limitations | https://docs.pushtechnology.com/cloud/latest/manual/html/designguide/solution/support/connection_limitations.html|
 | A great tool to understand the atomic design system | https://patternlab.io/ |
 | Microsoft Design System - Controls | https://developer.microsoft.com/en-us/fabric/#/|
+| CORS anywhere to use a proxy | https://cors-anywhere.herokuapp.com/ |
 
 
 ## Micro Front-End
