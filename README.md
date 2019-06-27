@@ -673,6 +673,7 @@
 | A great tool to understand the atomic design system | https://patternlab.io/ |
 | Microsoft Design System - Controls | https://developer.microsoft.com/en-us/fabric/#/|
 | CORS anywhere to use a proxy | https://cors-anywhere.herokuapp.com/ |
+| Compodoc for Angular| https://github.com/compodoc/compodoc|
 
 
 ## Micro Front-End
