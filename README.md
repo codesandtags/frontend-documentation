@@ -513,6 +513,8 @@
 | Optimizing React when is slow | https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba |
 | So far the best free React Course| https://reacttraining.com/online/react-fundamentals |
 | React Hooks | https://usehooks.com/ |
+| Components building blocks in React | https://bit.dev/ |
+| Talk about using CSS in JS in React | https://speakerdeck.com/vjeux/react-css-in-js |
 
 ## Service Workers
 
