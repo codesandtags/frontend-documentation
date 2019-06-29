@@ -516,6 +516,7 @@
 | Components building blocks in React | https://bit.dev/ |
 | Talk about using CSS in JS in React | https://speakerdeck.com/vjeux/react-css-in-js |
 | Styling components in React | https://blog.bitsrc.io/5-ways-to-style-react-components-in-2019-30f1ccc2b5b |
+| React Developer Tools Facebook Project | https://github.com/facebook/react-devtools |
 
 ## Service Workers
 
