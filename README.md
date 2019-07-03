@@ -109,6 +109,7 @@
 | Angular Routing pattern | https://medium.com/@shairez/angular-routing-a-better-pattern-for-large-scale-apps-f2890c952a18 |
 | Angular navigation query params | https://blog.angularindepth.com/refresh-current-route-in-angular-512a19d58f6e |
 | Deploy one build with multiple environment files | https://www.jvandemo.com/how-to-use-environment-variables-to-configure-your-angular-application-without-a-rebuild/ |
+| Compodoc for Angular| https://github.com/compodoc/compodoc|
 
 ## Animation on HTML + CSS + SVG
 
@@ -678,7 +679,9 @@
 | A great tool to understand the atomic design system | https://patternlab.io/ |
 | Microsoft Design System - Controls | https://developer.microsoft.com/en-us/fabric/#/|
 | CORS anywhere to use a proxy | https://cors-anywhere.herokuapp.com/ |
-| Compodoc for Angular| https://github.com/compodoc/compodoc|
+| Search Easy Node Modules| https://npms.io/ |
+| Has many documentation in one place | https://devdocs.io/ |
+| Search TypeScript Easy libraries | https://microsoft.github.io/TypeSearch/ |
 
 
 ## Micro Front-End
