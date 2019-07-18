@@ -110,6 +110,7 @@
 | Angular navigation query params | https://blog.angularindepth.com/refresh-current-route-in-angular-512a19d58f6e |
 | Deploy one build with multiple environment files | https://www.jvandemo.com/how-to-use-environment-variables-to-configure-your-angular-application-without-a-rebuild/ |
 | Compodoc for Angular| https://github.com/compodoc/compodoc|
+| Performance for your angular projects | https://web.dev/angular |
 
 ## Animation on HTML + CSS + SVG
 
