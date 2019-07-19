@@ -520,6 +520,7 @@
 | Styling components in React | https://blog.bitsrc.io/5-ways-to-style-react-components-in-2019-30f1ccc2b5b |
 | React Developer Tools Facebook Project | https://github.com/facebook/react-devtools |
 | React Lifecycle hooks examples | https://stackblitz.com/edit/react-lifecycle-hooks-example?file=index.js |
+| React Memoization | https://medium.com/@sdolidze/react-hooks-memoization-99a9a91c8853 |
 
 ## Service Workers
 
