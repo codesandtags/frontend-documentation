@@ -246,6 +246,7 @@
 | Architecture for CSS | https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization |
 | Comparison for SASS Bourbon and Compass | https://stackshare.io/stackups/bourbon-vs-compass-vs-sass |
 | BEM CSS validator | https://torleif.nz/bem/ |
+| Understanding EM and REM | https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984 |
 
 ## Challenges online for JavaScript
 
