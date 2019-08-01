@@ -685,6 +685,7 @@
 | Search Easy Node Modules| https://npms.io/ |
 | Has many documentation in one place | https://devdocs.io/ |
 | Search TypeScript Easy libraries | https://microsoft.github.io/TypeSearch/ |
+| Awesome tool to generate reponsive images | https://www.responsivebreakpoints.com/ |
 
 
 ## Micro Front-End
