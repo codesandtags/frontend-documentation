@@ -117,6 +117,8 @@
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | Animation with SVG | https://css-tricks.com/guide-svg-animations-smil/ |
+| Free 404 illustrations | https://www.kapwing.com/404-illustrations |
+| Animations and great styles | https://cssfx.dev/ |
 
 ## Artificial Intelligence / AGI
 
@@ -368,6 +370,7 @@
 | Visual example how works the event loop in JavaScript | [Go to link](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D)  |
 | Creating a custom JS library| https://hackernoon.com/a-complete-workshop-build-your-es6-code-into-a-library-using-webpack-80295faeb833 |
 | Create Typescript library | https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c |
+| Practice JavaScript exercises | https://practicejs.com/ |
 
 ## JavaScript Testing
 
@@ -686,6 +689,7 @@
 | Has many documentation in one place | https://devdocs.io/ |
 | Search TypeScript Easy libraries | https://microsoft.github.io/TypeSearch/ |
 | Awesome tool to generate reponsive images | https://www.responsivebreakpoints.com/ |
+| Create your own logo | https://hatchful.shopify.com/ |
 
 
 ## Micro Front-End
