@@ -690,6 +690,7 @@
 | Search TypeScript Easy libraries | https://microsoft.github.io/TypeSearch/ |
 | Awesome tool to generate reponsive images | https://www.responsivebreakpoints.com/ |
 | Create your own logo | https://hatchful.shopify.com/ |
+| Google initiative to measure the performance | https://www.thinkwithgoogle.com/feature/testmysite |
 
 
 ## Micro Front-End
