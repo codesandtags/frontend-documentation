@@ -371,6 +371,8 @@
 | Creating a custom JS library| https://hackernoon.com/a-complete-workshop-build-your-es6-code-into-a-library-using-webpack-80295faeb833 |
 | Create Typescript library | https://itnext.io/step-by-step-building-and-publishing-an-npm-typescript-package-44fe7164964c |
 | Practice JavaScript exercises | https://practicejs.com/ |
+| Intl NumberFormat in JavaScript | https://www.samanthaming.com/tidbits/30-how-to-format-currency-in-es6 |
+| Intl DateTimeForm | https://devhints.io/wip/intl-datetime |
 
 ## JavaScript Testing
 
