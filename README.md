@@ -111,6 +111,7 @@
 | Deploy one build with multiple environment files | https://www.jvandemo.com/how-to-use-environment-variables-to-configure-your-angular-application-without-a-rebuild/ |
 | Compodoc for Angular| https://github.com/compodoc/compodoc|
 | Performance for your angular projects | https://web.dev/angular |
+| Angular multilanguage datepicker | https://medium.com/@kristinahertmann/multi-language-date-formats-with-angular-material-b8598415d117 |
 
 ## Animation on HTML + CSS + SVG
 
