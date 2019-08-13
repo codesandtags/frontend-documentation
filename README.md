@@ -178,6 +178,9 @@
 | Webpack and Gulp example  | http://stackoverflow.com/questions/33558396/gulp-webpack-or-just-webpack  | 
 | Next-generation ES6 module bundler | https://rollupjs.org/  | 
 | RollupJS vs WebpackJS | https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c |
+| Using Bundler Analyzer | https://medium.com/dailyjs/how-did-angular-cli-budgets-save-my-day-and-how-they-can-save-yours-300d534aae7a |
+| Angular bundler analyzer | https://alligator.io/angular/bundle-size/ | 
+
 
 ## CSS3 & SCSS 
 
