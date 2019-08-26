@@ -697,6 +697,7 @@
 | Awesome tool to generate reponsive images | https://www.responsivebreakpoints.com/ |
 | Create your own logo | https://hatchful.shopify.com/ |
 | Google initiative to measure the performance | https://www.thinkwithgoogle.com/feature/testmysite |
+| Mocks created easy with Hoverfly | https://docs.hoverfly.io/en/latest/ |
 
 
 ## Micro Front-End
@@ -704,6 +705,7 @@
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | One Framework to handle the micro front-ends | https://single-spa.js.org/  |
+| Micro Front-End Article | https://martinfowler.com/articles/micro-frontends.html |
 
 
 
