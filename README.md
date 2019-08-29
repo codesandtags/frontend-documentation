@@ -698,6 +698,7 @@
 | Create your own logo | https://hatchful.shopify.com/ |
 | Google initiative to measure the performance | https://www.thinkwithgoogle.com/feature/testmysite |
 | Mocks created easy with Hoverfly | https://docs.hoverfly.io/en/latest/ |
+| Global Statistics for Web | https://gs.statcounter.com/ |
 
 
 ## Micro Front-End
