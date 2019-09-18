@@ -426,7 +426,6 @@
 | Google Web Free Courses | https://developers.google.com/training/web/?hl=es-419 |
 | Logging in errors in clients |https://www.sitepoint.com/logging-errors-client-side-apps/ |
 | Interview Questions Front-End Fork|https://github.com/codesandtags/Front-end-Developer-Interview-Questions|
-| Regular Expression|http://www.hongkiat.com/blog/regex-web-developers/ |
 | Collection of snippets for RegExo| http://snipplr.com/all/language/regex|
 | Tables vs Divs | https://www.smashingmagazine.com/2009/04/from-table-hell-to-div-hell/ |
 | Why use tables is stupid | https://www.hotdesign.com/seybold/ |
@@ -536,6 +535,7 @@
 ## Regular Expressions
 
 * [Calculate regular expression for credit card](https://www.regular-expressions.info/creditcard.html)
+* [Useful regular Expression for developers](http://www.hongkiat.com/blog/regex-web-developers/)
 
 
 ## Service Workers
