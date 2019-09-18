@@ -532,6 +532,12 @@
 | React Lifecycle hooks examples | https://stackblitz.com/edit/react-lifecycle-hooks-example?file=index.js |
 | React Memoization | https://medium.com/@sdolidze/react-hooks-memoization-99a9a91c8853 |
 
+
+## Regular Expressions
+
+* [Calculate regular expression for credit card](https://www.regular-expressions.info/creditcard.html)
+
+
 ## Service Workers
 
 
