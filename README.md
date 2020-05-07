@@ -1,5 +1,5 @@
-# Front End Documentation 2019 🚀
-> 🔥 This is a recopilation of information about all topics related with the Front End 🔥
+# Front End Documentation 2020 🚀
+> 🔥 🔥A curated list of awesome useful resources for Front-End 🔥
 
 
 #### For me this is the best WebSite to stay up to date => *https://uptodate.frontendrescue.org/*
