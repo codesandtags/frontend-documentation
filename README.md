@@ -198,6 +198,7 @@
 | Tool to calculate Px to EM using a base | http://pxtoem.com/ |
 | Colour Palettes with ideas| http://www.colourlovers.com/ |
 | Super tool to design palettes | https://coolors.co/ | 
+| Color palettes best fitted for branding | https://branition.com/colors/ |
 | Complete guide for FlexBox :D | https://css-tricks.com/snippets/css/a-guide-to-flexbox/ |
 | Flexbox explained in Gifs| https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.xwc1sdfnm|
 | Responsive layout toolkit for Sass | http://susy.oddbird.net/ |
