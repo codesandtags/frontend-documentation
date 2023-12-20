@@ -1,42 +1,49 @@
-# Front End Documentation 2023 🚀
+# Front End Documentation 2024 🚀
 > 🔥 🔥A curated list of awesome useful resources for Front-End 🔥
 
-
-#### For me this is the best WebSite to stay up to date => *https://uptodate.frontendrescue.org/*
-
 # Index
-* [Angular in general & Angular 5+](#angular-in-general--angular-5)
-* [Accessibility - A11Y](#accessibility---a11y)
-* [Artificial Intelligence / AGI](#artificial-intelligence--agi)
-* [Awesome and mad projects on JavaScript 😱](#awesome-and-mad-projects-on-javascript-)
-* [Automation and Task](#automation-and-task)
-* [BackBoneJS](#backbonejs)
-* [Books](#books)
-* [Bundlers (Webpack)](#bundlers-webpack)
-* [Challenges online for JavaScript](#challenges-online-for-javascript)
-* [CSS3 & SCSS](#css3--scss)
-* [Databases](#databases)
-* [Data Visualization D3](#data-visualization--d3)
-* [EmberJS](#emberjs)
-* [Freelance Websites](#freelance-webs-or-jobs-search-pages-for-tech)
-* [Functional Programming in JavaScript](#functional-programming-in-javascript)
-* [Git](#git)
-* [HTML](#html5)
-* [JavaScript](#javascript)
-* [JavaScript Testing](#javascript-testing)
-* [Jekyll Templates](#jekyll-templates)
-* [NodeJS](#nodejs)
-* [Monitoring apps and logging messages](#monitoring-apps-and-logging-messages)
-* [Progressive Web Apps / PWA](#progressive-web-apps--pwa)
-* [ReactJS & React Native](#reactjs--react-native)
-* [RxJs Reactive Programming with Javascript and Redux](#rxjs-reactive-programming-with-javascript-and-redux)
-* [Service Workers](#service-workers)
-* [Security](#security)
-* [Sketching / Wireframing / Mockup template / Images](#sketching--wireframing--mockup-template--images)
-* [Transpiling JavaScript](#transpiling-javaScript)
-* [UX & UI](#ux--ui)
-* [WebTools for Front-End](#webtools-for-front-end)
-* [Web VR / Virtual Reality](#web-vr--virtual-reality)
+
+- [Accessibility - A11Y](#accessibility---a11y)
+- [Angular in general & Angular 5+](#angular-in-general--angular-5)
+- [Animation on HTML + CSS + SVG](#animation-on-html--css--svg)
+- [Artificial Intelligence / AGI](#artificial-intelligence--agi)
+- [Awesome and mad projects on JavaScript / CSS 😱](#awesome-and-mad-projects-on-javascript--css-)
+- [Automation and Task](#automation-and-task)
+- [Books](#books)
+- [Bundlers (Webpack)](#bundlers-webpack)
+- [CSS3 & SCSS](#css3--scss)
+- [Challenges online for JavaScript](#challenges-online-for-javascript)
+- [Crowdfunding sites to achieve the ideas and creative projects](#crowdfunding-sites-to-achieve-the-ideas-and-creative-projects)
+- [Databases](#databases)
+- [Data Visualization / D3](#data-visualization--d3)
+- [EmberJS](#emberjs)
+- [Freelance Webs or Jobs Search Pages for Tech](#freelance-webs-or-jobs-search-pages-for-tech)
+- [Functional Programming in JavaScript](#functional-programming-in-javascript)
+- [Git](#git)
+- [HTML5](#html5)
+- [JavaScript / TypeScript](#javascript--typescript)
+- [JavaScript Testing](#javascript-testing)
+- [Jekyll Templates](#jekyll-templates)
+- [Micro Front-End](#micro-front-end)
+- [Monitoring apps and logging messages](#monitoring-apps-and-logging-messages)
+- [NodeJS](#nodejs)
+- [Other Interesting Articles or Pages](#other-interesting-articles-or-pages)
+- [Performance](#performance)
+- [Progressive Web Apps / PWA](#progressive-web-apps--pwa)
+- [Public APIs](#public-apis)
+- [ReactJS & React Native](#reactjs--react-native)
+- [Regular Expressions](#regular-expressions)
+- [RxJs Reactive Programming with Javascript and Redux](#rxjs-reactive-programming-with-javascript-and-redux)
+- [Security](#security)
+- [Service Workers](#service-workers)
+- [Sketching / Wireframing / Mockup template / Images](#sketching--wireframing--mockup-template--images)
+- [Static websites generators](#static-websites-generators)
+- [Transpiling JavaScript](#transpiling-javascript)
+- [UX & UI](#ux--ui)
+- [WebGL](#webgl)
+- [Web Components](#web-components)
+- [WebTools for Front-End](#webtools-for-front-end)
+- [Web VR / Virtual Reality](#web-vr--virtual-reality)
 
 
 ## Accessibility - A11Y
@@ -152,16 +159,6 @@
 | Package for Google PageSpeed in Grunt | https://www.npmjs.com/package/grunt-pagespeed | 
 | 15 Tips for Gulp performance | http://stefanimhoff.de/2014/gulp-tutorial-15-performance-improvements-webp-gzip/ | 
 | Webpack 2 Getting started | https://blog.madewithenvy.com/getting-started-with-webpack-2-ed2b86c68783 |
-
-## BackBoneJS
-
-| Description   | URL           | 
-| ------------- |:-------------:| 
-| BackBoneJs Applications Books | https://addyosmani.com/backbone-fundamentals/#what-is-mvc  | 
-| BackBoneJs Patterns | http://ricostacruz.com/backbone-patterns/bootstrapping-data.html | 
-| BackBoneJS Single Page ToDo Tutorial | http://code.tutsplus.com/tutorials/single-page-todo-application-with-backbonejs--cms-21417  | 
-| Snipets and examples with BackBoneJS | https://miguelmota.com/blog/getting-started-with-backbonejs/ | 
-| BackBoneJS BoilerPlate | https://github.com/tbranyen/backbone-boilerplate.git  | 
 
 ## Books 
 
