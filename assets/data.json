@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "name": "JavaScript info",
+    "description": "One of the the best JavaScript resource. From the basics to advanced topics with simple, but detailed explanations.",
+    "image": "/logos/js-logo.webp",
+    "url": "https://javascript.info",
+    "categories": ["JavaScript"]
+  },
+  {
+    "id": "2",
+    "name": "You Don't Know JS",
+    "description": "A book series on JavaScript",
+    "image": "/logos/js-logo.webp",
+    "url": "https://github.com/getify/You-Dont-Know-JS/tree/2nd-ed",
+    "categories": ["JavaScript"]
+  },
+  {
+    "id": "3",
+    "name": "JavaScript questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations.",
+    "image": "/logos/js-logo.webp",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "categories": ["JavaScript"]
+  },
+  {
+    "id": "4",
+    "name": "State of JS",
+    "description": "The State of JavaScript survey is an annual survey of the JavaScript landscape.",
+    "image": "/logos/js2023.png",
+    "url": "https://stateofjs.com/",
+    "categories": ["JavaScript", "Survey"]
+  }
+]
