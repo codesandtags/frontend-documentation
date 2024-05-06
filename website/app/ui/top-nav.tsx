@@ -36,7 +36,7 @@ export default function TopNav() {
                 key={item.title}
                 href={item.href}
                 className={[
-                  "py-1.5 px-3 transition-colors flex items-center whitespace-nowrap -mb-px z-10 transition rounded-t border",
+                  "py-1.5 px-3 transition-colors flex items-center whitespace-nowrap -mb-px z-10 rounded-t border",
                   ,
                   isActive
                     ? "border-t-neutral-300 border-x-neutral-300 border-b-white dark:border-t-neutral-700 dark:border-x-neutral-700 dark:border-b-neutral-900"
@@ -47,8 +47,8 @@ export default function TopNav() {
                   className={[
                     "text-sm flex items-center transition-all gap-x-1.5",
                     isActive
-                      ? "text-brand-dark dark:text-brand font-medium"
-                      : "text-neutral-600 dark:text-neutral-400 font-normal",
+                      ? "text-brand-dark dark:text-neutral-200 font-medium"
+                      : "font-normal",
                   ].join(" ")}
                 >
                   {item.icon}

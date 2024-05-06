@@ -22,7 +22,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`bg-white dark:bg-neutral-900 ${inter.className}`}>
+      <body
+        className={`bg-white dark:bg-neutral-900 ${inter.className} dark:text-neutral-400`}
+      >
         <div className="flex flex-col min-h-screen p-6 items-center gap-2">
           <Header />
           <main className="w-full max-w-5xl flex flex-col flex-1 mt-16 lg:mt-4 text-sm gap-8">

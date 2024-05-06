@@ -1,15 +1,20 @@
+import Pagination from "./ui/pagination";
+import ResourceList from "./ui/resource-list";
+import Search from "./ui/search";
+
 export default function Home() {
   return (
-    <>
-      <h2 className="text-neutral-900 dark:text-white text-xl font-semibold">
+    <div className="flex flex-col flex-1 gap-4">
+      <h2 className="text-neutral-900 dark:text-neutral-300 text-xl font-semibold">
         <i className="ri-fire-fill"></i> Latest
       </h2>
       <div>
-        <div>search</div>
-        <div>filters</div>
+        <Search />
       </div>
-      <div>content and results</div>
-      <div>pagination</div>
-    </>
+      <div className="flex-1">
+        <ResourceList />
+      </div>
+      <Pagination />
+    </div>
   );
 }
