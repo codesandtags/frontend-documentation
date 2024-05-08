@@ -1,8 +1,8 @@
-export default function Paginatino() {
+export default function Pagination() {
   return (
     <div className="flex items-center justify-between">
       <span className="text-neutral-600 dark:text-neutral-400 text-xs">
-        Showing 1 to 30 out of 56 submissions
+        Showing 1 to 15 out of 23 resources
       </span>
       <nav aria-label="Pagination" className="flex gap-2">
         <button
