@@ -1,3 +1,4 @@
+import { access } from "fs";
 import css from "styled-jsx/css";
 import { types } from "util";
 
@@ -8,6 +9,8 @@ const TAG_CLASSES: { [key: string]: string } = {
   html: "bg-red-500 text-white dark:text-red-500",
   react: "bg-blue-300 text-black dark:text-blue-300",
   typescript: "bg-blue-700 text-white dark:text-blue-700",
+  angular: "bg-red-500 text-white dark:text-red-500",
+  accessibility: "bg-green-500 text-white dark:text-green-500",
 };
 
 const TAGS: { [key: string]: string } = {
@@ -16,6 +19,8 @@ const TAGS: { [key: string]: string } = {
   javascript: "JS",
   react: "React",
   typescript: "TS",
+  angular: "Angular",
+  accessibility: "A11Y",
 };
 
 export default function TagIcon({ tag }: { tag: string }) {

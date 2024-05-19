@@ -8,6 +8,7 @@ export interface Resource {
   image: string;
   isNew: boolean;
   createdAt: string;
+  highlight?: boolean;
 }
 
 // Categories to handle:

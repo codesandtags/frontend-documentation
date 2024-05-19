@@ -9,16 +9,17 @@ const navItems = [
     href: "/",
     icon: <i className="ri-home-heart-line"></i>,
   },
-  {
-    title: "Roadmap",
-    href: "/roadmap",
-    icon: <i className="ri-road-map-line"></i>,
-  },
-  {
-    title: "Newsletters",
-    href: "/newsletters",
-    icon: <i className="ri-news-line"></i>,
-  },
+  // TODO: Add more nav items here
+  //   {
+  //     title: "Roadmap",
+  //     href: "/roadmap",
+  //     icon: <i className="ri-road-map-line"></i>,
+  //   },
+  //   {
+  //     title: "Newsletters",
+  //     href: "/newsletters",
+  //     icon: <i className="ri-news-line"></i>,
+  //   },
 ];
 
 export default function TopNav() {

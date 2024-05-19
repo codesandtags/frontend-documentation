@@ -1,24 +1,132 @@
-export default function Pagination() {
+"use client";
+
+import { ArrowLeftIcon, ArrowRightIcon } from "@heroicons/react/24/outline";
+import clsx from "clsx";
+import Link from "next/link";
+import { usePathname, useSearchParams } from "next/navigation";
+
+import { generatePagination } from "@/app/lib/utils";
+
+export interface Props {
+  totalPages: number;
+  totalResults: number;
+}
+
+export default function Pagination({ totalPages, totalResults }: Props) {
+  const pathname = usePathname();
+  const searchParams = useSearchParams();
+  const currentPage = Number(searchParams.get("page")) || 1;
+
+  const allPages = generatePagination(currentPage, totalPages);
+  const createPageURL = (pageNumber: number | string) => {
+    const params = new URLSearchParams(searchParams);
+    params.set("page", pageNumber.toString());
+    return `${pathname}?${params.toString()}`;
+  };
+
   return (
-    <div className="flex items-center justify-between">
-      <span className="text-neutral-600 dark:text-neutral-400 text-xs">
-        Showing 1 to 15 out of 23 resources
-      </span>
-      <nav aria-label="Pagination" className="flex gap-2">
-        <button
-          type="button"
-          aria-current="page"
-          className="inline-flex items-center justify-center h-8 px-3 py-2 gap-x-1 text-xs whitespace-nowrap font-medium border rounded-full transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 border-neutral-300 dark:border-neutral-700 text-neutral-600 dark:text-neutral-200 bg-white dark:bg-neutral-900 hover:bg-neutral-100 dark:hover:bg-neutral-800/70 active:bg-neutral-200 dark:active:bg-neutral-700 focus-visible:outline-brand-dark dark:focus-visible:outline-brand disabled:border-neutral-300 dark:disabled:border-neutral-700 disabled:text-neutral-300 dark:disabled:text-neutral-700 disabled:bg-transparent disabled:cursor-not-allowed"
-        >
-          <div>1</div>
-        </button>
-        <button
-          type="button"
-          className="inline-flex items-center justify-center h-8 px-3 py-2 gap-x-1 text-xs whitespace-nowrap font-medium border rounded-full transition-colors focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 border-transparent text-neutral-600 dark:text-neutral-200 bg-transparent hover:bg-neutral-100 dark:hover:bg-neutral-800/70 hover:text-brand-darker dark:hover:text-brand active:bg-neutral-200 dark:active:bg-neutral-700 active:text-brand-dark dark:active:text-brand-light focus-visible:outline-brand-dark dark:focus-visible:outline-brand disabled:border-transparent disabled:text-neutral-300 dark:disabled:text-neutral-700 disabled:cursor-not-allowed"
-        >
-          <div>2</div>
-        </button>
-      </nav>
+    <div className="flex flex-col gap-2">
+      <div className="text-center">Showing {totalResults} results</div>
+      <div className="inline-flex">
+        <PaginationArrow
+          direction="left"
+          href={createPageURL(currentPage - 1)}
+          isDisabled={currentPage <= 1}
+        />
+
+        <div className="flex -space-x-px">
+          {allPages.map((page, index) => {
+            let position: "first" | "last" | "single" | "middle" | undefined;
+
+            if (index === 0) position = "first";
+            if (index === allPages.length - 1) position = "last";
+            if (allPages.length === 1) position = "single";
+            if (page === "...") position = "middle";
+
+            return (
+              <PaginationNumber
+                key={page}
+                href={createPageURL(page)}
+                page={page}
+                position={position}
+                isActive={currentPage === page}
+              />
+            );
+          })}
+        </div>
+
+        <PaginationArrow
+          direction="right"
+          href={createPageURL(currentPage + 1)}
+          isDisabled={currentPage >= totalPages}
+        />
+      </div>
     </div>
+  );
+}
+
+function PaginationNumber({
+  page,
+  href,
+  isActive,
+  position,
+}: {
+  page: number | string;
+  href: string;
+  position?: "first" | "last" | "middle" | "single";
+  isActive: boolean;
+}) {
+  const className = clsx(
+    "flex h-10 w-10 items-center justify-center text-sm border",
+    {
+      "rounded-l-md": position === "first" || position === "single",
+      "rounded-r-md": position === "last" || position === "single",
+      "z-10 bg-violet-600 border-violet-600 text-white": isActive,
+      "hover:bg-gray-100": !isActive && position !== "middle",
+      "text-gray-300": position === "middle",
+    }
+  );
+
+  return isActive || position === "middle" ? (
+    <div className={className}>{page}</div>
+  ) : (
+    <Link href={href} className={className}>
+      {page}
+    </Link>
+  );
+}
+
+function PaginationArrow({
+  href,
+  direction,
+  isDisabled,
+}: {
+  href: string;
+  direction: "left" | "right";
+  isDisabled?: boolean;
+}) {
+  const className = clsx(
+    "flex h-10 w-10 items-center justify-center rounded-md border",
+    {
+      "pointer-events-none text-gray-300": isDisabled,
+      "hover:bg-gray-100": !isDisabled,
+      "mr-2 md:mr-4": direction === "left",
+      "ml-2 md:ml-4": direction === "right",
+    }
+  );
+
+  const icon =
+    direction === "left" ? (
+      <ArrowLeftIcon className="w-4" />
+    ) : (
+      <ArrowRightIcon className="w-4" />
+    );
+
+  return isDisabled ? (
+    <div className={className}>{icon}</div>
+  ) : (
+    <Link className={className} href={href}>
+      {icon}
+    </Link>
   );
 }
