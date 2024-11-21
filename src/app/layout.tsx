@@ -15,7 +15,29 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: "Frontend Resources",
-  description: "A collection of frontend resources for developers",
+  description: " 🔥 A curated collection of frontend development resources",
+  openGraph: {
+    title: "Frontend Resources",
+    description: "A curated collection of frontend development resources",
+    url: "https://codesandtags.io",
+    siteName: "Frontend Resources",
+    images: [
+      {
+        url: "/og-frontend-resources.png", // Add your OG image at public/og-frontend-resources.png
+        width: 1200,
+        height: 630,
+        alt: "Frontend Resources Preview",
+      },
+    ],
+    locale: "en_US",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Frontend Resources",
+    description: "A curated collection of frontend development resources",
+    images: ["/og-frontend-resources.png"],
+  },
 };
 
 export default function RootLayout({
