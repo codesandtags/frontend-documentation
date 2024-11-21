@@ -1,5 +1,5 @@
 {
-  "name": "frontend-documentation",
+  "name": "codesndtags-frontend-documentation",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,19 +8,22 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "description": "A curated list of awesome useful resources for Front-End",
   "dependencies": {
+    "lucide-react": "^0.344.0",
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106",
-    "next": "15.0.3"
+    "next": "15.0.3",
+    "simple-icons": "^11.7.0"
   },
   "devDependencies": {
     "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "postcss": "^8",
+    "postcss": "^8.4.35",
     "tailwindcss": "^3.4.1",
-    "eslint": "^8",
+    "eslint": "^9.9.1",
     "eslint-config-next": "15.0.3"
   }
 }
