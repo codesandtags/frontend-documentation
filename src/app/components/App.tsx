@@ -1,5 +1,5 @@
 import React, { useState, useMemo } from "react";
-import { Bookmark, Github, PlusCircle } from "lucide-react";
+import { Github, PlusCircle } from "lucide-react";
 import { SearchBar } from "./SearchBar";
 import { ResourceCard } from "./ResourceCard";
 import { CategoryFilter } from "./CategoryFilter";
